@@ -22,6 +22,10 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
+    "TSR": 
+        filters: ["Text SR", "Text Super Resolution"]
+    "SR": 
+        filters: ["SR", "Super Resolution"]        
     "SLAM": 
         filters: ["SLAM", "Visual Odometry"]
     "SFM":
