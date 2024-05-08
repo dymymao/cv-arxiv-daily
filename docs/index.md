@@ -669,7 +669,7 @@ layout: default
 |**2024-05-06**|**A New Robust Partial $p$ -Wasserstein-Based Metric for Comparing Distributions**|Sharath Raghvendra et.al.|[2405.03664](http://arxiv.org/abs/2405.03664)|null|
 |**2024-05-06**|**Knowledge-aware Text-Image Retrieval for Remote Sensing Images**|Li Mi et.al.|[2405.03373](http://arxiv.org/abs/2405.03373)|null|
 |**2024-05-06**|**Adapting Dual-encoder Vision-language Models for Paraphrased Retrieval**|Jiacheng Cheng et.al.|[2405.03190](http://arxiv.org/abs/2405.03190)|null|
-|**2024-05-05**|**iSEARLE: Improving Textual Inversion for Zero-Shot Composed Image Retrieval**|Lorenzo Agnolucci et.al.|[2405.02951](http://arxiv.org/abs/2405.02951)|**[link](https://github.com/miccunifi/searle)**|
+|**2024-05-05**|**iSEARLE: Improving Textual Inversion for Zero-Shot Composed Image Retrieval**|Lorenzo Agnolucci et.al.|[2405.02951](http://arxiv.org/abs/2405.02951)|**[link](https://github.com/miccunifi/circo)**|
 |**2024-05-01**|**Spherical Linear Interpolation and Text-Anchoring for Zero-shot Composed Image Retrieval**|Young Kyun Jang et.al.|[2405.00571](http://arxiv.org/abs/2405.00571)|null|
 |**2024-04-30**|**Large Language Model Informed Patent Image Retrieval**|Hao-Cheng Lo et.al.|[2404.19360](http://arxiv.org/abs/2404.19360)|null|
 |**2024-04-30**|**XFeat: Accelerated Features for Lightweight Image Matching**|Guilherme Potje et.al.|[2404.19174](http://arxiv.org/abs/2404.19174)|null|
@@ -2888,6 +2888,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-07**|**Choose What You Need: Disentangled Representation Learning for Scene Text Recognition, Removal and Editing**|Boqiang Zhang et.al.|[2405.04377](http://arxiv.org/abs/2405.04377)|null|
+|**2024-03-20**|**Efficient scene text image super-resolution with semantic guidance**|LeoWu TomyEnrique et.al.|[2403.13330](http://arxiv.org/abs/2403.13330)|**[link](https://github.com/sijieliu518/sgenet)**|
+|**2024-02-02**|**Text Image Inpainting via Global Structure-Guided Diffusion Models**|Shipeng Zhu et.al.|[2401.14832](http://arxiv.org/abs/2401.14832)|**[link](https://github.com/blackprotoss/gsdm)**|
+|**2023-12-25**|**Word length-aware text spotting: Enhancing detection and recognition in dense text image**|Hao Wang et.al.|[2312.15690](http://arxiv.org/abs/2312.15690)|null|
+|**2023-12-19**|**Brush Your Text: Synthesize Any Scene Text on Images via Diffusion Model**|Lingjun Zhang et.al.|[2312.12232](http://arxiv.org/abs/2312.12232)|**[link](https://github.com/ecnuljzhang/brush-your-text)**|
+|**2024-01-05**|**Research on Multilingual Natural Scene Text Detection Algorithm**|Tao Wang et.al.|[2312.11153](http://arxiv.org/abs/2312.11153)|null|
+|**2024-04-15**|**PEAN: A Diffusion-Based Prior-Enhanced Attention Network for Scene Text Image Super-Resolution**|Zuoyan Zhao et.al.|[2311.17955](http://arxiv.org/abs/2311.17955)|null|
+|**2023-11-22**|**Recognition-Guided Diffusion Model for Scene Text Image Super-Resolution**|Yuxuan Zhou et.al.|[2311.13317](http://arxiv.org/abs/2311.13317)|null|
+|**2023-12-22**|**Scene Text Image Super-resolution based on Text-conditional Diffusion Models**|Chihiro Noguchi et.al.|[2311.09759](http://arxiv.org/abs/2311.09759)|**[link](https://github.com/toyotainfotech/stisr-tcdm)**|
+|**2023-09-21**|**SCOB: Universal Text Understanding via Character-wise Supervised Contrastive Learning with Online Text Rendering for Bridging Domain Gap**|Daehee Kim et.al.|[2309.12382](http://arxiv.org/abs/2309.12382)|null|
 |**2023-03-26**|**Learning Generative Structure Prior for Blind Text Image Super-resolution**|Xiaoming Li et.al.|[2303.14726](http://arxiv.org/abs/2303.14726)|**[link](https://github.com/csxmli2016/marconet)**|
 |**2023-08-18**|**Self-supervised Character-to-Character Distillation for Text Recognition**|Tongkun Guan et.al.|[2211.00288](http://arxiv.org/abs/2211.00288)|**[link](https://github.com/tongkunguan/ccd)**|
 |**2022-10-13**|**Scene Text Image Super-Resolution via Content Perceptual Loss and Criss-Cross Transformer Blocks**|Rui Qin et.al.|[2210.06924](http://arxiv.org/abs/2210.06924)|null|
@@ -2908,6 +2918,12 @@ layout: default
 |**2024-05-03**|**Optical skyrmions from metafibers**|Tiantian He et.al.|[2405.01962](http://arxiv.org/abs/2405.01962)|null|
 |**2024-05-05**|**TRAMBA: A Hybrid Transformer and Mamba Architecture for Practical Audio and Bone Conduction Speech Super Resolution and Enhancement on Mobile and Wearable Platforms**|Yueyuan Sui et.al.|[2405.01242](http://arxiv.org/abs/2405.01242)|null|
 |**2024-05-02**|**Single Image Super-Resolution Based on Global-Local Information Synergy**|Nianzu Qiao et.al.|[2405.01085](http://arxiv.org/abs/2405.01085)|null|
+
+## 3DGS
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-24**|**Few-shot point cloud reconstruction and denoising via learned Guassian splats renderings and fine-tuned diffusion features**|Pietro Bonazzi et.al.|[2404.01112](http://arxiv.org/abs/2404.01112)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/dymymao/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/dymymao/cv-arxiv-daily/graphs/contributors
