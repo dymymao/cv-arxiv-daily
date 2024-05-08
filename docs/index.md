@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-07**|**Bayesian Simultaneous Localization and Multi-Lane Tracking Using Onboard Sensors and a SD Map**|Yuxuan Xia et.al.|[2405.04290](http://arxiv.org/abs/2405.04290)|null|
+|**2024-05-07**|**IMU-Aided Event-based Stereo Visual Odometry**|Junkai Niu et.al.|[2405.04071](http://arxiv.org/abs/2405.04071)|**[link](https://github.com/nail-hnu/esvio_aa)**|
 |**2024-04-27**|**An Attention-Based Deep Learning Architecture for Real-Time Monocular Visual Odometry: Applications to GPS-free Drone Navigation**|Olivier Brochu Dufour et.al.|[2404.17745](http://arxiv.org/abs/2404.17745)|null|
 |**2024-04-26**|**Camera Motion Estimation from RGB-D-Inertial Scene Flow**|Samuel Cerezo et.al.|[2404.17251](http://arxiv.org/abs/2404.17251)|null|
 |**2024-04-23**|**Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization**|Lahav Lipson et.al.|[2404.15263](http://arxiv.org/abs/2404.15263)|**[link](https://github.com/princeton-vl/multislam_diffpose)**|
@@ -663,6 +665,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-07**|**Breast Histopathology Image Retrieval by Attention-based Adversarially Regularized Variational Graph Autoencoder with Contrastive Learning-Based Feature Extraction**|Nematollah Saeidi et.al.|[2405.04211](http://arxiv.org/abs/2405.04211)|null|
 |**2024-05-06**|**A New Robust Partial $p$ -Wasserstein-Based Metric for Comparing Distributions**|Sharath Raghvendra et.al.|[2405.03664](http://arxiv.org/abs/2405.03664)|null|
 |**2024-05-06**|**Knowledge-aware Text-Image Retrieval for Remote Sensing Images**|Li Mi et.al.|[2405.03373](http://arxiv.org/abs/2405.03373)|null|
 |**2024-05-06**|**Adapting Dual-encoder Vision-language Models for Paraphrased Retrieval**|Jiacheng Cheng et.al.|[2405.03190](http://arxiv.org/abs/2405.03190)|null|
@@ -1871,6 +1874,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-07**|**DistGrid: Scalable Scene Reconstruction with Distributed Multi-resolution Hash Grid**|Sidun Liu et.al.|[2405.04416](http://arxiv.org/abs/2405.04416)|null|
+|**2024-05-07**|**Novel View Synthesis with Neural Radiance Fields for Industrial Robot Applications**|Markus Hillemann et.al.|[2405.04345](http://arxiv.org/abs/2405.04345)|null|
 |**2024-05-05**|**Blending Distributed NeRFs with Tri-stage Robust Pose Optimization**|Baijun Ye et.al.|[2405.02880](http://arxiv.org/abs/2405.02880)|null|
 |**2024-05-05**|**MVIP-NeRF: Multi-view 3D Inpainting on NeRF Scenes via Diffusion Prior**|Honghua Chen et.al.|[2405.02859](http://arxiv.org/abs/2405.02859)|null|
 |**2024-05-04**|**TK-Planes: Tiered K-Planes with High Dimensional Feature Vectors for Dynamic UAV-based Scenes**|Christopher Maxey et.al.|[2405.02762](http://arxiv.org/abs/2405.02762)|null|
@@ -2879,12 +2884,37 @@ layout: default
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-[contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[forks-url]: https://github.com/Vincentqyw/cv-arxiv-daily/network/members
-[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[stars-url]: https://github.com/Vincentqyw/cv-arxiv-daily/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[issues-url]: https://github.com/Vincentqyw/cv-arxiv-daily/issues
+## TSR
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-26**|**Learning Generative Structure Prior for Blind Text Image Super-resolution**|Xiaoming Li et.al.|[2303.14726](http://arxiv.org/abs/2303.14726)|**[link](https://github.com/csxmli2016/marconet)**|
+|**2023-08-18**|**Self-supervised Character-to-Character Distillation for Text Recognition**|Tongkun Guan et.al.|[2211.00288](http://arxiv.org/abs/2211.00288)|**[link](https://github.com/tongkunguan/ccd)**|
+|**2022-10-13**|**Scene Text Image Super-Resolution via Content Perceptual Loss and Criss-Cross Transformer Blocks**|Rui Qin et.al.|[2210.06924](http://arxiv.org/abs/2210.06924)|null|
+|**2020-08-02**|**Scene Text Image Super-Resolution in the Wild**|Wenjia Wang et.al.|[2005.03341](http://arxiv.org/abs/2005.03341)|**[link](https://github.com/JasonBoy1/TextZoom)**|
+|**2019-10-20**|**TextSR: Content-Aware Text Super-Resolution Guided by Recognition**|Wenjia Wang et.al.|[1909.07113](http://arxiv.org/abs/1909.07113)|**[link](https://github.com/xieenze/TextSR)**|
+
+## SR
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-07**|**CloudDiff: Super-resolution ensemble retrieval of cloud properties for all day using the generative diffusion model**|Haixia Xiao et.al.|[2405.04483](http://arxiv.org/abs/2405.04483)|null|
+|**2024-05-07**|**Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer**|Zhuoyi Yang et.al.|[2405.04312](http://arxiv.org/abs/2405.04312)|**[link](https://github.com/thudm/inf-dit)**|
+|**2024-05-06**|**All-in-One Deep Learning Framework for MR Image Reconstruction**|Geunu Jeong et.al.|[2405.03684](http://arxiv.org/abs/2405.03684)|null|
+|**2024-05-05**|**DVMSR: Distillated Vision Mamba for Efficient Super-Resolution**|Xiaoyan Lei et.al.|[2405.03008](http://arxiv.org/abs/2405.03008)|**[link](https://github.com/nathan66666/dvmsr)**|
+|**2024-05-05**|**I $^3$ Net: Inter-Intra-slice Interpolation Network for Medical Slice Synthesis**|Haofei Song et.al.|[2405.02857](http://arxiv.org/abs/2405.02857)|null|
+|**2024-05-05**|**Antenna Failure Resilience: Deep Learning-Enabled Robust DOA Estimation with Single Snapshot Sparse Arrays**|Ruxin Zheng et.al.|[2405.02788](http://arxiv.org/abs/2405.02788)|null|
+|**2024-05-03**|**Self-Supervised Learning for Real-World Super-Resolution from Dual and Multiple Zoomed Observations**|Zhilu Zhang et.al.|[2405.02171](http://arxiv.org/abs/2405.02171)|**[link](https://github.com/cszhilu1998/selfdzsr_plusplus)**|
+|**2024-05-03**|**Optical skyrmions from metafibers**|Tiantian He et.al.|[2405.01962](http://arxiv.org/abs/2405.01962)|null|
+|**2024-05-05**|**TRAMBA: A Hybrid Transformer and Mamba Architecture for Practical Audio and Bone Conduction Speech Super Resolution and Enhancement on Mobile and Wearable Platforms**|Yueyuan Sui et.al.|[2405.01242](http://arxiv.org/abs/2405.01242)|null|
+|**2024-05-02**|**Single Image Super-Resolution Based on Global-Local Information Synergy**|Nianzu Qiao et.al.|[2405.01085](http://arxiv.org/abs/2405.01085)|null|
+
+[contributors-shield]: https://img.shields.io/github/contributors/dymymao/cv-arxiv-daily.svg?style=for-the-badge
+[contributors-url]: https://github.com/dymymao/cv-arxiv-daily/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/dymymao/cv-arxiv-daily.svg?style=for-the-badge
+[forks-url]: https://github.com/dymymao/cv-arxiv-daily/network/members
+[stars-shield]: https://img.shields.io/github/stars/dymymao/cv-arxiv-daily.svg?style=for-the-badge
+[stars-url]: https://github.com/dymymao/cv-arxiv-daily/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dymymao/cv-arxiv-daily.svg?style=for-the-badge
+[issues-url]: https://github.com/dymymao/cv-arxiv-daily/issues
 
