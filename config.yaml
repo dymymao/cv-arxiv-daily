@@ -23,11 +23,13 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "TSR": 
-        filters: ["Text SR", "Text Super Resolution"]
+        filters: ["Scene Text Image", "Scene Text Image Super-resolution","Scene Text Image Super Resolution","Text Super Resolution"]
     "SR": 
         filters: ["SR", "Super Resolution"]        
     "SLAM": 
         filters: ["SLAM", "Visual Odometry"]
+    "3DGS":
+        filters: ["3DGS","3dgs","Guassian Splatting"]
     "Visual Localization":
         filters: ["Visual Localization","Camera Localization",
                   "Camera Re-localisation","Loop Closure Detection",
