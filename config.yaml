@@ -22,8 +22,8 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "TSR": 
-        filters: ["Scene Text Image", "Scene Text Image Super-resolution","Scene Text Image Super Resolution","Text Super Resolution"]
+    "STISR": 
+        filters: ["STISR","Scene Text Image", "Scene Text Image Super-resolution","Scene Text Image Super Resolution","Text Super Resolution"]
     "SR": 
         filters: ["SR", "Super Resolution"]        
     "SLAM": 
