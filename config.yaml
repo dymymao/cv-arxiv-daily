@@ -29,7 +29,7 @@ keywords:
     "SLAM": 
         filters: ["SLAM", "Visual Odometry"]
     "3DGS":
-        filters: ["3DGS","3dgs","Guassian Splatting"]
+        filters: ["3DGS","3dgs","Guassian Splatting","Guassian Splats"]
     "Visual Localization":
         filters: ["Visual Localization","Camera Localization",
                   "Camera Re-localisation","Loop Closure Detection",
