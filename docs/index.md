@@ -35,6 +35,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-27**|**Does Diffusion Beat GAN in Image Super Resolution?**|Denis Kuznedelev et.al.|[2405.17261](http://arxiv.org/abs/2405.17261)|null|
+|**2024-05-27**|**PatchScaler: An Efficient Patch-independent Diffusion Model for Super-Resolution**|Yong Liu et.al.|[2405.17158](http://arxiv.org/abs/2405.17158)|**[link](https://github.com/yongliuy/patchscaler)**|
+|**2024-05-27**|**Greedy Growing Enables High-Resolution Pixel-Based Diffusion Models**|Cristina N. Vasconcelos et.al.|[2405.16759](http://arxiv.org/abs/2405.16759)|null|
+|**2024-05-26**|**Looks Too Good To Be True: An Information-Theoretic Analysis of Hallucinations in Generative Restoration Models**|Regev Cohen et.al.|[2405.16475](http://arxiv.org/abs/2405.16475)|null|
+|**2024-05-25**|**BOLD: Boolean Logic Deep Learning**|Van Minh Nguyen et.al.|[2405.16339](http://arxiv.org/abs/2405.16339)|null|
 |**2024-05-24**|**Visible-frequency hyperbolic plasmon polaritons in a natural van der Waals crystal**|Giacomo Venturi et.al.|[2405.15420](http://arxiv.org/abs/2405.15420)|null|
 |**2024-05-24**|**Stochastic SR for Gaussian microtextures**|Emile Pierret et.al.|[2405.15399](http://arxiv.org/abs/2405.15399)|null|
 |**2024-05-24**|**Blaze3DM: Marry Triplane Representation with Diffusion for 3D Medical Inverse Problem Solving**|Jia He et.al.|[2405.15241](http://arxiv.org/abs/2405.15241)|null|
@@ -161,11 +166,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-26**|**MCGMapper: Light-Weight Incremental Structure from Motion and Visual Localization With Planar Markers and Camera Groups**|Yusen Xie et.al.|[2405.16599](http://arxiv.org/abs/2405.16599)|null|
 |**2024-05-24**|**Composed Image Retrieval for Remote Sensing**|Bill Psomas et.al.|[2405.15587](http://arxiv.org/abs/2405.15587)|null|
 |**2024-05-24**|**Self-distilled Dynamic Fusion Network for Language-based Fashion Retrieval**|Yiming Wu et.al.|[2405.15451](http://arxiv.org/abs/2405.15451)|null|
 |**2024-05-20**|**UAV-VisLoc: A Large-scale Dataset for UAV Visual Localization**|Wenjia Xu et.al.|[2405.11936](http://arxiv.org/abs/2405.11936)|**[link](https://github.com/intellisensing/uav-visloc)**|
 |**2024-05-19**|**Register assisted aggregation for Visual Place Recognition**|Xuan Yu et.al.|[2405.11526](http://arxiv.org/abs/2405.11526)|null|
-|**2024-05-17**|**CCTNet: A Circular Convolutional Transformer Network for LiDAR-based Place Recognition Handling Movable Objects Occlusion**|Gang Wang et.al.|[2405.10793](http://arxiv.org/abs/2405.10793)|null|
+|**2024-05-26**|**CCTNet: A Circular Convolutional Transformer Network for LiDAR-based Place Recognition Handling Movable Objects Occlusion**|Gang Wang et.al.|[2405.10793](http://arxiv.org/abs/2405.10793)|null|
 |**2024-05-16**|**FFF: Fixing Flawed Foundations in contrastive pre-training results in very strong Vision-Language models**|Adrian Bulat et.al.|[2405.10286](http://arxiv.org/abs/2405.10286)|null|
 |**2024-05-15**|**Content-Based Image Retrieval for Multi-Class Volumetric Radiology Images: A Benchmark Study**|Farnaz Khun Jush et.al.|[2405.09334](http://arxiv.org/abs/2405.09334)|null|
 |**2024-05-14**|**BEVRender: Vision-based Cross-view Vehicle Registration in Off-road GNSS-denied Environment**|Lihong Jin et.al.|[2405.09001](http://arxiv.org/abs/2405.09001)|null|
@@ -446,6 +452,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-25**|**Deep-PE: A Learning-Based Pose Evaluator for Point Cloud Registration**|Junjie Gao et.al.|[2405.16085](http://arxiv.org/abs/2405.16085)|null|
 |**2024-05-21**|**Benchmarking Fish Dataset and Evaluation Metric in Keypoint Detection -- Towards Precise Fish Morphological Assessment in Aquaculture Breeding**|Weizhen Liu et.al.|[2405.12476](http://arxiv.org/abs/2405.12476)|null|
 |**2024-05-14**|**TP3M: Transformer-based Pseudo 3D Image Matching with Reference**|Liming Han et.al.|[2405.08434](http://arxiv.org/abs/2405.08434)|null|
 |**2024-05-15**|**Vector-Symbolic Architecture for Event-Based Optical Flow**|Hongzhi You et.al.|[2405.08300](http://arxiv.org/abs/2405.08300)|null|
@@ -717,8 +724,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-27**|**F-3DGS: Factorized Coordinates and Representations for 3D Gaussian Splatting**|Xiangyu Sun et.al.|[2405.17083](http://arxiv.org/abs/2405.17083)|null|
+|**2024-05-27**|**PyGS: Large-scale Scene Representation with Pyramidal 3D Gaussian Splatting**|Zipeng Wang et.al.|[2405.16829](http://arxiv.org/abs/2405.16829)|null|
+|**2024-05-26**|**Sp2360: Sparse-view 360 Scene Reconstruction using Cascaded 2D Diffusion Priors**|Soumava Paul et.al.|[2405.16517](http://arxiv.org/abs/2405.16517)|null|
 |**2024-05-24**|**Neural Elevation Models for Terrain Mapping and Path Planning**|Adam Dai et.al.|[2405.15227](http://arxiv.org/abs/2405.15227)|null|
-|**2024-05-24**|**HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting**|Yuanhao Cai et.al.|[2405.15125](http://arxiv.org/abs/2405.15125)|null|
+|**2024-05-27**|**HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting**|Yuanhao Cai et.al.|[2405.15125](http://arxiv.org/abs/2405.15125)|**[link](https://github.com/caiyuanhao1998/hdr-gs)**|
 |**2024-05-24**|**GS-Hider: Hiding Messages into 3D Gaussian Splatting**|Xuanyu Zhang et.al.|[2405.15118](http://arxiv.org/abs/2405.15118)|null|
 |**2024-05-23**|**NeRF-Casting: Improved View-Dependent Appearance with Consistent Reflections**|Dor Verbin et.al.|[2405.14871](http://arxiv.org/abs/2405.14871)|null|
 |**2024-05-23**|**Neural Directional Encoding for Efficient and Accurate View-Dependent Appearance Modeling**|Liwen Wu et.al.|[2405.14847](http://arxiv.org/abs/2405.14847)|null|
