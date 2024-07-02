@@ -55,7 +55,7 @@
 |**2024-06-27**|**Shoulder of Dust Rings Formed by Planet-disk Interactions**|Jiaqing Bi et.al.|[2406.19438](http://arxiv.org/abs/2406.19438)|null|
 |**2024-06-27**|**Super-resolution imaging using super-oscillatory diffractive neural networks**|Hang Chen et.al.|[2406.19126](http://arxiv.org/abs/2406.19126)|null|
 |**2024-06-26**|**Spatial-temporal Hierarchical Reinforcement Learning for Interpretable Pathology Image Super-Resolution**|Wenting Chen et.al.|[2406.18310](http://arxiv.org/abs/2406.18310)|**[link](https://github.com/cuhk-aim-group/star-rl)**|
-|**2024-06-25**|**V2X Sidelink Positioning in FR1: From Ray-Tracing and Channel Estimation to Bayesian Tracking**|Yu Ge et.al.|[2406.17950](http://arxiv.org/abs/2406.17950)|null|
+|**2024-06-30**|**V2X Sidelink Positioning in FR1: From Ray-Tracing and Channel Estimation to Bayesian Tracking**|Yu Ge et.al.|[2406.17950](http://arxiv.org/abs/2406.17950)|null|
 |**2024-06-25**|**Burst Image Super-Resolution with Base Frame Selection**|Sanghyun Kim et.al.|[2406.17869](http://arxiv.org/abs/2406.17869)|null|
 |**2024-06-25**|**A Near-Field Super-Resolution Network for Accelerating Antenna Characterization**|Yuchen Gu et.al.|[2406.17244](http://arxiv.org/abs/2406.17244)|null|
 |**2024-06-24**|**DaLPSR: Leverage Degradation-Aligned Language Prompt for Real-World Image Super-Resolution**|Aiwen Jiang et.al.|[2406.16477](http://arxiv.org/abs/2406.16477)|null|
