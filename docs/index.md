@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.07
+## Updated on 2024.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## STISR
@@ -36,11 +36,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-03**|**Spatio-Temporal Adaptive Diffusion Models for EEG Super-Resolution in Epilepsy Diagnosis**|Tong Zhou et.al.|[2407.03089](http://arxiv.org/abs/2407.03089)|null|
+|**2024-07-04**|**Spatio-Temporal Adaptive Diffusion Models for EEG Super-Resolution in Epilepsy Diagnosis**|Tong Zhou et.al.|[2407.03089](http://arxiv.org/abs/2407.03089)|null|
 |**2024-07-03**|**Data Overfitting for On-Device Super-Resolution with Dynamic Algorithm and Compiler Co-Design**|Gen Li et.al.|[2407.02813](http://arxiv.org/abs/2407.02813)|**[link](https://github.com/coulsonlee/dy-dca-eccv2024)**|
 |**2024-07-02**|**Adversarial Magnification to Deceive Deepfake Detection through Super Resolution**|Davide Alessandro Coccomini et.al.|[2407.02670](http://arxiv.org/abs/2407.02670)|**[link](https://github.com/davide-coccomini/adversarial-magnification-to-deceive-deepfake-detection-through-super-resolution)**|
 |**2024-07-01**|**Broadband planar electromagnetic hyper-lens with uniform magnification in air**|Ran Sun et.al.|[2407.02532](http://arxiv.org/abs/2407.02532)|null|
-|**2024-07-02**|**Real HSI-MSI-PAN image dataset for the hyperspectral/multi-spectral/panchromatic image fusion and super-resolution fields**|Shuangliang Li et.al.|[2407.02387](http://arxiv.org/abs/2407.02387)|**[link](https://github.com/rs-lsl/cssnet)**|
+|**2024-07-04**|**Real HSI-MSI-PAN image dataset for the hyperspectral/multi-spectral/panchromatic image fusion and super-resolution fields**|Shuangliang Li et.al.|[2407.02387](http://arxiv.org/abs/2407.02387)|**[link](https://github.com/rs-lsl/cssnet)**|
 |**2024-07-02**|**Efficient Stochastic Differential Equation for DEM Super Resolution with Void Filling**|Tongtong Zhang et.al.|[2407.01908](http://arxiv.org/abs/2407.01908)|null|
 |**2024-07-01**|**DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models**|Chang-Han Yeh et.al.|[2407.01519](http://arxiv.org/abs/2407.01519)|null|
 |**2024-07-02**|**Preserving Full Degradation Details for Blind Image Super-Resolution**|Hongda Liu et.al.|[2407.01299](http://arxiv.org/abs/2407.01299)|**[link](https://github.com/Chernobyllight/ReDSR)**|
