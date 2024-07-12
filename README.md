@@ -48,6 +48,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Global Spatial-Temporal Information-based Residual ConvLSTM for Video Space-Time Super-Resolution**|Congrui Fu et.al.|[2407.08466](http://arxiv.org/abs/2407.08466)|null|
+|**2024-07-11**|**Wind Power Assessment based on Super-Resolution and Downscaling -- A Comparison of Deep Learning Methods**|Luca Schmidt et.al.|[2407.08259](http://arxiv.org/abs/2407.08259)|null|
+|**2024-07-11**|**Spatially-Variant Degradation Model for Dataset-free Super-resolution**|Shaojie Guo et.al.|[2407.08252](http://arxiv.org/abs/2407.08252)|null|
 |**2024-07-10**|**VEnhancer: Generative Space-Time Enhancement for Video Generation**|Jingwen He et.al.|[2407.07667](http://arxiv.org/abs/2407.07667)|null|
 |**2024-07-10**|**Aging-Resistant Wideband Precoding in 5G and Beyond Using 3D Convolutional Neural Networks**|Alejandro Villena-Rodriguez et.al.|[2407.07434](http://arxiv.org/abs/2407.07434)|null|
 |**2024-07-10**|**Pairwise Distance Distillation for Unsupervised Real-World Image Super-Resolution**|Yuehan Zhang et.al.|[2407.07302](http://arxiv.org/abs/2407.07302)|**[link](https://github.com/yuehan717/pdd)**|
@@ -288,6 +291,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Improving Visual Place Recognition Based Robot Navigation Through Verification of Localization Estimates**|Owen Claxton et.al.|[2407.08162](http://arxiv.org/abs/2407.08162)|null|
+|**2024-07-11**|**Lifelong Histopathology Whole Slide Image Retrieval via Distance Consistency Rehearsal**|Xinyu Zhu et.al.|[2407.08153](http://arxiv.org/abs/2407.08153)|null|
+|**2024-07-11**|**SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM**|Neng Wang et.al.|[2407.08106](http://arxiv.org/abs/2407.08106)|null|
 |**2024-07-09**|**LVLM-empowered Multi-modal Representation Learning for Visual Place Recognition**|Teng Wang et.al.|[2407.06730](http://arxiv.org/abs/2407.06730)|null|
 |**2024-07-09**|**CEIA: CLIP-Based Event-Image Alignment for Open-World Event-Based Understanding**|Wenhao Xu et.al.|[2407.06611](http://arxiv.org/abs/2407.06611)|null|
 |**2024-07-08**|**Pseudo-triplet Guided Few-shot Composed Image Retrieval**|Bohan Hou et.al.|[2407.06001](http://arxiv.org/abs/2407.06001)|null|
@@ -924,6 +930,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**WildGaussians: 3D Gaussian Splatting in the Wild**|Jonas Kulhanek et.al.|[2407.08447](http://arxiv.org/abs/2407.08447)|null|
+|**2024-07-11**|**MeshAvatar: Learning High-quality Triangular Human Avatars from Multi-view Videos**|Yushuo Chen et.al.|[2407.08414](http://arxiv.org/abs/2407.08414)|**[link](https://github.com/shad0wta9/meshavatar)**|
+|**2024-07-11**|**Explicit_NeRF_QA: A Quality Assessment Database for Explicit NeRF Model Compression**|Yuke Xing et.al.|[2407.08165](http://arxiv.org/abs/2407.08165)|null|
+|**2024-07-11**|**Bayesian uncertainty analysis for underwater 3D reconstruction with neural radiance fields**|Haojie Lian et.al.|[2407.08154](http://arxiv.org/abs/2407.08154)|null|
+|**2024-07-11**|**Survey on Fundamental Deep Learning 3D Reconstruction Techniques**|Yonge Bai et.al.|[2407.08137](http://arxiv.org/abs/2407.08137)|null|
 |**2024-07-10**|**Protecting NeRFs' Copyright via Plug-And-Play Watermarking Base Model**|Qi Song et.al.|[2407.07735](http://arxiv.org/abs/2407.07735)|null|
 |**2024-07-10**|**Drantal-NeRF: Diffusion-Based Restoration for Anti-aliasing Neural Radiance Field**|Ganlin Yang et.al.|[2407.07461](http://arxiv.org/abs/2407.07461)|null|
 |**2024-07-09**|**Reference-based Controllable Scene Stylization with Gaussian Splatting**|Yiqun Mei et.al.|[2407.07220](http://arxiv.org/abs/2407.07220)|null|
