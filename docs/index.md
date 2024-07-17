@@ -36,6 +36,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**Speckle-based 3D sub-diffraction imaging through a multimode fiber**|Zhouping Lyu et.al.|[2407.11796](http://arxiv.org/abs/2407.11796)|null|
+|**2024-07-16**|**Deconvolution with a Box**|Pedro Felzenszwalb et.al.|[2407.11685](http://arxiv.org/abs/2407.11685)|null|
+|**2024-07-16**|**Leveraging Segment Anything Model in Identifying Buildings within Refugee Camps (SAM4Refugee) from Satellite Imagery for Humanitarian Operations**|Yunya Gao et.al.|[2407.11381](http://arxiv.org/abs/2407.11381)|**[link](https://github.com/yunyagaotree/sam-adapter-for-refugee-dwelling-extraction)**|
+|**2024-07-16**|**Zero-Shot Adaptation for Approximate Posterior Sampling of Diffusion Models in Inverse Problems**|Yaşar Utku Alçalar et.al.|[2407.11288](http://arxiv.org/abs/2407.11288)|null|
+|**2024-07-14**|**Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV**|Zhiwen Yang et.al.|[2407.11087](http://arxiv.org/abs/2407.11087)|null|
 |**2024-07-15**|**Spectral Properties of Infinitely Smooth Kernel Matrices in the Single Cluster Limit, with Applications to Multivariate Super-Resolution**|Nuha Diab et.al.|[2407.10600](http://arxiv.org/abs/2407.10600)|null|
 |**2024-07-15**|**Backdoor Attacks against Image-to-Image Networks**|Wenbo Jiang et.al.|[2407.10445](http://arxiv.org/abs/2407.10445)|null|
 |**2024-07-13**|**Arbitrary-Scale Video Super-Resolution with Structural and Textural Priors**|Wei Shang et.al.|[2407.09919](http://arxiv.org/abs/2407.09919)|**[link](https://github.com/shangwei5/st-avsr)**|
@@ -279,6 +284,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736](http://arxiv.org/abs/2407.11736)|**[link](https://github.com/jarvisyjw/gv-bench)**|
+|**2024-07-16**|**EndoFinder: Online Image Retrieval for Explainable Colorectal Polyp Diagnosis**|Ruijie Yang et.al.|[2407.11401](http://arxiv.org/abs/2407.11401)|null|
 |**2024-07-15**|**No Train, all Gain: Self-Supervised Gradients Improve Deep Frozen Representations**|Walter Simoncini et.al.|[2407.10964](http://arxiv.org/abs/2407.10964)|**[link](https://github.com/waltersimoncini/fungivision)**|
 |**2024-07-15**|**DINO Pre-training for Vision-based End-to-end Autonomous Driving**|Shubham Juneja et.al.|[2407.10803](http://arxiv.org/abs/2407.10803)|null|
 |**2024-07-15**|**Addressing Image Hallucination in Text-to-Image Generation through Factual Image Retrieval**|Youngsun Lim et.al.|[2407.10683](http://arxiv.org/abs/2407.10683)|null|
@@ -865,6 +872,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736](http://arxiv.org/abs/2407.11736)|**[link](https://github.com/jarvisyjw/gv-bench)**|
+|**2024-07-16**|**REMM:Rotation-Equivariant Framework for End-to-End Multimodal Image Matching**|Han Nie et.al.|[2407.11637](http://arxiv.org/abs/2407.11637)|null|
+|**2024-07-16**|**A Self-Correcting Strategy of the Digital Volume Correlation Displacement Field Based on Image Matching: Application to Poor Speckles Quality and Complex-Large Deformation**|Chengsheng Li et.al.|[2407.11287](http://arxiv.org/abs/2407.11287)|null|
 |**2024-07-14**|**Raising the Ceiling: Conflict-Free Local Feature Matching with Dynamic View Switching**|Xiaoyong Lu et.al.|[2407.07789](http://arxiv.org/abs/2407.07789)|null|
 |**2024-07-10**|**Mutual Information calculation on different appearances**|Jiecheng Liao et.al.|[2407.07410](http://arxiv.org/abs/2407.07410)|null|
 |**2024-07-15**|**SfM on-the-fly: Get better 3D from What You Capture**|Zongqian Zhan et.al.|[2407.03939](http://arxiv.org/abs/2407.03939)|null|
@@ -918,6 +928,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**Motion-Oriented Compositional Neural Radiance Fields for Monocular Dynamic Human Modeling**|Jaehyeok Kim et.al.|[2407.11962](http://arxiv.org/abs/2407.11962)|null|
+|**2024-07-16**|**IPA-NeRF: Illusory Poisoning Attack Against Neural Radiance Fields**|Wenxiang Jiang et.al.|[2407.11921](http://arxiv.org/abs/2407.11921)|null|
+|**2024-07-16**|**DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation**|Jiwook Kim et.al.|[2407.11394](http://arxiv.org/abs/2407.11394)|**[link](https://github.com/kaist-cvml-lab/DreamCatalyst)**|
+|**2024-07-15**|**Evaluating geometric accuracy of NeRF reconstructions compared to SLAM method**|Adam Korycki et.al.|[2407.11238](http://arxiv.org/abs/2407.11238)|null|
 |**2024-07-15**|**AirNeRF: 3D Reconstruction of Human with Drone and NeRF for Future Communication Systems**|Alexey Kotcov et.al.|[2407.10865](http://arxiv.org/abs/2407.10865)|null|
 |**2024-07-15**|**Domain Generalization for 6D Pose Estimation Through NeRF-based Image Synthesis**|Antoine Legrand et.al.|[2407.10762](http://arxiv.org/abs/2407.10762)|null|
 |**2024-07-15**|**IE-NeRF: Inpainting Enhanced Neural Radiance Fields in the Wild**|Shuaixian Wang et.al.|[2407.10695](http://arxiv.org/abs/2407.10695)|null|
