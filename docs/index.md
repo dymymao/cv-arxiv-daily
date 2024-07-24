@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**CLII: Visual-Text Inpainting via Cross-Modal Predictive Interaction**|Liang Zhao et.al.|[2407.16204](http://arxiv.org/abs/2407.16204)|null|
 |**2024-07-19**|**Layout-Agnostic Scene Text Image Synthesis with Diffusion Models**|Qilong Zhangli et.al.|[2406.01062](http://arxiv.org/abs/2406.01062)|null|
 |**2024-05-19**|**The First Swahili Language Scene Text Detection and Recognition Dataset**|Fadila Wendigoundi Douamba et.al.|[2405.11437](http://arxiv.org/abs/2405.11437)|**[link](https://github.com/fadilaw/swahili-str-dataset)**|
 |**2024-05-07**|**Choose What You Need: Disentangled Representation Learning for Scene Text Recognition, Removal and Editing**|Boqiang Zhang et.al.|[2405.04377](http://arxiv.org/abs/2405.04377)|null|
@@ -36,6 +37,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**Channel-Partitioned Windowed Attention And Frequency Learning for Single Image Super-Resolution**|Dinh Phu Tran et.al.|[2407.16232](http://arxiv.org/abs/2407.16232)|null|
+|**2024-07-23**|**Topological Dark Spots of Electric Near Field in Metal Structures**|Tong Fu et.al.|[2407.16213](http://arxiv.org/abs/2407.16213)|null|
+|**2024-07-23**|**Diffusion Prior-Based Amortized Variational Inference for Noisy Inverse Problems**|Sojin Lee et.al.|[2407.16125](http://arxiv.org/abs/2407.16125)|**[link](https://github.com/mlvlab/davi)**|
 |**2024-07-22**|**High-flexibility reconstruction of small-scale motions in wall turbulence using a generalized zero-shot learning**|Haokai Wu et.al.|[2407.15604](http://arxiv.org/abs/2407.15604)|null|
 |**2024-07-22**|**Attention Beats Linear for Fast Implicit Neural Representation Generation**|Shuyi Zhang et.al.|[2407.15355](http://arxiv.org/abs/2407.15355)|**[link](https://github.com/roninton/anr)**|
 |**2024-07-22**|**ThermalNeRF: Thermal Radiance Fields**|Yvette Y. Lin et.al.|[2407.15337](http://arxiv.org/abs/2407.15337)|null|
@@ -299,6 +303,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**Memory Management for Real-Time Appearance-Based Loop Closure Detection**|Mathieu Labbé et.al.|[2407.15890](http://arxiv.org/abs/2407.15890)|null|
 |**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
 |**2024-07-22**|**Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM**|Mathieu Labbe et.al.|[2407.15305](http://arxiv.org/abs/2407.15305)|null|
 |**2024-07-22**|**Appearance-Based Loop Closure Detection for Online Large-Scale and Long-Term Operation**|Mathieu Labbé et.al.|[2407.15304](http://arxiv.org/abs/2407.15304)|null|
@@ -951,6 +956,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**|Shreyas Singh et.al.|[2407.16503](http://arxiv.org/abs/2407.16503)|null|
+|**2024-07-23**|**DreamDissector: Learning Disentangled Text-to-3D Generation from 2D Diffusion Priors**|Zizheng Yan et.al.|[2407.16260](http://arxiv.org/abs/2407.16260)|null|
 |**2024-07-22**|**BoostMVSNeRFs: Boosting MVS-based NeRFs to Generalizable View Synthesis in Large-scale Scenes**|Chih-Hai Su et.al.|[2407.15848](http://arxiv.org/abs/2407.15848)|null|
 |**2024-07-22**|**Enhancement of 3D Gaussian Splatting using Raw Mesh for Photorealistic Recreation of Architectures**|Ruizhe Wang et.al.|[2407.15435](http://arxiv.org/abs/2407.15435)|null|
 |**2024-07-19**|**HOTS3D: Hyper-Spherical Optimal Transport for Semantic Alignment of Text-to-3D Generation**|Zezeng Li et.al.|[2407.14419](http://arxiv.org/abs/2407.14419)|null|
