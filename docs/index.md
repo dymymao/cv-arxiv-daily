@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.23
+## Updated on 2024.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## STISR
@@ -22,7 +22,7 @@ layout: default
 |**2023-12-25**|**Word length-aware text spotting: Enhancing detection and recognition in dense text image**|Hao Wang et.al.|[2312.15690](http://arxiv.org/abs/2312.15690)|null|
 |**2023-12-19**|**Brush Your Text: Synthesize Any Scene Text on Images via Diffusion Model**|Lingjun Zhang et.al.|[2312.12232](http://arxiv.org/abs/2312.12232)|**[link](https://github.com/ecnuljzhang/brush-your-text)**|
 |**2024-01-05**|**Research on Multilingual Natural Scene Text Detection Algorithm**|Tao Wang et.al.|[2312.11153](http://arxiv.org/abs/2312.11153)|null|
-|**2024-04-15**|**PEAN: A Diffusion-Based Prior-Enhanced Attention Network for Scene Text Image Super-Resolution**|Zuoyan Zhao et.al.|[2311.17955](http://arxiv.org/abs/2311.17955)|null|
+|**2024-07-23**|**PEAN: A Diffusion-Based Prior-Enhanced Attention Network for Scene Text Image Super-Resolution**|Zuoyan Zhao et.al.|[2311.17955](http://arxiv.org/abs/2311.17955)|null|
 |**2023-11-22**|**Recognition-Guided Diffusion Model for Scene Text Image Super-Resolution**|Yuxuan Zhou et.al.|[2311.13317](http://arxiv.org/abs/2311.13317)|null|
 |**2023-12-22**|**Scene Text Image Super-resolution based on Text-conditional Diffusion Models**|Chihiro Noguchi et.al.|[2311.09759](http://arxiv.org/abs/2311.09759)|**[link](https://github.com/toyotainfotech/stisr-tcdm)**|
 |**2023-09-21**|**SCOB: Universal Text Understanding via Character-wise Supervised Contrastive Learning with Online Text Rendering for Bridging Domain Gap**|Daehee Kim et.al.|[2309.12382](http://arxiv.org/abs/2309.12382)|null|
