@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.28
+## Updated on 2024.07.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -43,7 +43,7 @@
 |**2020-08-02**|**Scene Text Image Super-Resolution in the Wild**|Wenjia Wang et.al.|[2005.03341](http://arxiv.org/abs/2005.03341)|**[link](https://github.com/JasonBoy1/TextZoom)**|
 |**2019-10-20**|**TextSR: Content-Aware Text Super-Resolution Guided by Recognition**|Wenjia Wang et.al.|[1909.07113](http://arxiv.org/abs/1909.07113)|**[link](https://github.com/xieenze/TextSR)**|
 
-<p align=right>(<a href=#updated-on-20240728>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240729>back to top</a>)</p>
 
 ## SR
 
@@ -51,7 +51,7 @@
 |---|---|---|---|---|
 |**2024-07-25**|**GaussianSR: High Fidelity 2D Gaussian Splatting for Arbitrary-Scale Image Super-Resolution**|Jintong Hu et.al.|[2407.18046](http://arxiv.org/abs/2407.18046)|null|
 |**2024-07-24**|**Cuboid-Net: A Multi-Branch Convolutional Neural Network for Joint Space-Time Video Super Resolution**|Congrui Fu et.al.|[2407.16986](http://arxiv.org/abs/2407.16986)|null|
-|**2024-07-24**|**3DAttGAN: A 3D Attention-based Generative Adversarial Network for Joint Space-Time Video Super-Resolution**|Congrui Fu et.al.|[2407.16965](http://arxiv.org/abs/2407.16965)|null|
+|**2024-07-24**|**3DAttGAN: A 3D Attention-based Generative Adversarial Network for Joint Space-Time Video Super-Resolution**|Congrui Fu et.al.|[2407.16965](http://arxiv.org/abs/2407.16965)|**[link](https://github.com/fcongrui/3dattgan)**|
 |**2024-07-23**|**Channel-Partitioned Windowed Attention And Frequency Learning for Single Image Super-Resolution**|Dinh Phu Tran et.al.|[2407.16232](http://arxiv.org/abs/2407.16232)|null|
 |**2024-07-23**|**Topological Dark Spots of Electric Near Field in Metal Structures**|Tong Fu et.al.|[2407.16213](http://arxiv.org/abs/2407.16213)|null|
 |**2024-07-23**|**Diffusion Prior-Based Amortized Variational Inference for Noisy Inverse Problems**|Sojin Lee et.al.|[2407.16125](http://arxiv.org/abs/2407.16125)|**[link](https://github.com/mlvlab/davi)**|
@@ -226,7 +226,7 @@
 |**2024-05-05**|**TRAMBA: A Hybrid Transformer and Mamba Architecture for Practical Audio and Bone Conduction Speech Super Resolution and Enhancement on Mobile and Wearable Platforms**|Yueyuan Sui et.al.|[2405.01242](http://arxiv.org/abs/2405.01242)|null|
 |**2024-05-02**|**Single Image Super-Resolution Based on Global-Local Information Synergy**|Nianzu Qiao et.al.|[2405.01085](http://arxiv.org/abs/2405.01085)|null|
 
-<p align=right>(<a href=#updated-on-20240728>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240729>back to top</a>)</p>
 
 ## 3DGS
 
@@ -234,14 +234,14 @@
 |---|---|---|---|---|
 |**2024-04-24**|**Few-shot point cloud reconstruction and denoising via learned Guassian splats renderings and fine-tuned diffusion features**|Pietro Bonazzi et.al.|[2404.01112](http://arxiv.org/abs/2404.01112)|null|
 
-<p align=right>(<a href=#updated-on-20240728>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240729>back to top</a>)</p>
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-07-25**|**CodedVO: Coded Visual Odometry**|Sachin Shah et.al.|[2407.18240](http://arxiv.org/abs/2407.18240)|null|
-|**2024-07-22**|**Reinforcement Learning Meets Visual Odometry**|Nico Messikommer et.al.|[2407.15626](http://arxiv.org/abs/2407.15626)|null|
+|**2024-07-22**|**Reinforcement Learning Meets Visual Odometry**|Nico Messikommer et.al.|[2407.15626](http://arxiv.org/abs/2407.15626)|**[link](https://github.com/uzh-rpg/rl_vo)**|
 |**2024-07-21**|**Semi-Supervised Pipe Video Temporal Defect Interval Localization**|Zhu Huang et.al.|[2407.15170](http://arxiv.org/abs/2407.15170)|null|
 |**2024-07-18**|**Attenuation-Aware Weighted Optical Flow with Medium Transmission Map for Learning-based Visual Odometry in Underwater terrain**|Bach Nguyen Gia et.al.|[2407.13159](http://arxiv.org/abs/2407.13159)|**[link](https://github.com/bachzz/wflow-tartanvo)**|
 |**2024-07-17**|**Is That Rain? Understanding Effects on Visual Odometry Performance for Autonomous UAVs and Efficient DNN-based Rain Classification at the Edge**|Andrea Albanese et.al.|[2407.12663](http://arxiv.org/abs/2407.12663)|null|
@@ -319,7 +319,7 @@
 |**2023-08-02**|**Stereo Visual Odometry with Deep Learning-Based Point and Line Feature Matching using an Attention Graph Neural Network**|Shenbagaraj Kannapiran et.al.|[2308.01125](http://arxiv.org/abs/2308.01125)|null|
 |**2023-08-02**|**Preliminary Design of the Dragonfly Navigation Filter**|Ben Schilling et.al.|[2307.13513](http://arxiv.org/abs/2307.13513)|null|
 
-<p align=right>(<a href=#updated-on-20240728>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240729>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -684,7 +684,7 @@
 |**2023-08-16**|**Integrating Visual and Semantic Similarity Using Hierarchies for Image Retrieval**|Aishwarya Venkataramanan et.al.|[2308.08431](http://arxiv.org/abs/2308.08431)|**[link](https://github.com/vaishwarya96/hierarchy-image-retrieval)**|
 |**2023-08-16**|**Ranking-aware Uncertainty for Text-guided Image Retrieval**|Junyang Chen et.al.|[2308.08131](http://arxiv.org/abs/2308.08131)|null|
 
-<p align=right>(<a href=#updated-on-20240728>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240729>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -923,7 +923,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20240728>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240729>back to top</a>)</p>
 
 ## Image Matching
 
@@ -982,14 +982,14 @@
 |**2024-01-24**|**Linear Relative Pose Estimation Founded on Pose-only Imaging Geometry**|Qi Cai et.al.|[2401.13357](http://arxiv.org/abs/2401.13357)|null|
 |**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886](http://arxiv.org/abs/2401.10886)|null|
 
-<p align=right>(<a href=#updated-on-20240728>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240729>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-07-24**|**SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency**|Yiming Xie et.al.|[2407.17470](http://arxiv.org/abs/2407.17470)|null|
-|**2024-07-23**|**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**|Shreyas Singh et.al.|[2407.16503](http://arxiv.org/abs/2407.16503)|null|
+|**2024-07-23**|**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**|Shreyas Singh et.al.|[2407.16503](http://arxiv.org/abs/2407.16503)|**[link](https://github.com/shreyesss/hdrsplat)**|
 |**2024-07-23**|**DreamDissector: Learning Disentangled Text-to-3D Generation from 2D Diffusion Priors**|Zizheng Yan et.al.|[2407.16260](http://arxiv.org/abs/2407.16260)|null|
 |**2024-07-22**|**BoostMVSNeRFs: Boosting MVS-based NeRFs to Generalizable View Synthesis in Large-scale Scenes**|Chih-Hai Su et.al.|[2407.15848](http://arxiv.org/abs/2407.15848)|null|
 |**2024-07-22**|**Enhancement of 3D Gaussian Splatting using Raw Mesh for Photorealistic Recreation of Architectures**|Ruizhe Wang et.al.|[2407.15435](http://arxiv.org/abs/2407.15435)|null|
@@ -1391,7 +1391,7 @@
 |**2024-02-07**|**OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding**|Guibiao Liao et.al.|[2402.04648](http://arxiv.org/abs/2402.04648)|null|
 |**2024-02-11**|**BirdNeRF: Fast Neural Reconstruction of Large-Scale Scenes From Aerial Imagery**|Huiqing Zhang et.al.|[2402.04554](http://arxiv.org/abs/2402.04554)|null|
 
-<p align=right>(<a href=#updated-on-20240728>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240729>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/dymymao/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/dymymao/cv-arxiv-daily/graphs/contributors
