@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.15
+## Updated on 2024.08.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## STISR
@@ -40,7 +40,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-14**|**Panacea+: Panoramic and Controllable Video Generation for Autonomous Driving**|Yuqing Wen et.al.|[2408.07605](http://arxiv.org/abs/2408.07605)|null|
-|**2024-08-14**|**DIffSteISR: Harnessing Diffusion Prior for Superior Real-world Stereo Image Super-Resolution**|Yuanbo Zhou et.al.|[2408.07516](http://arxiv.org/abs/2408.07516)|null|
+|**2024-08-15**|**DIffSteISR: Harnessing Diffusion Prior for Superior Real-world Stereo Image Super-Resolution**|Yuanbo Zhou et.al.|[2408.07516](http://arxiv.org/abs/2408.07516)|null|
 |**2024-08-14**|**GRFormer: Grouped Residual Self-Attention for Lightweight Single Image Super-Resolution**|Yuzhen Li et.al.|[2408.07484](http://arxiv.org/abs/2408.07484)|**[link](https://github.com/sisrformer/grformer)**|
 |**2024-08-14**|**One Step Diffusion-based Super-Resolution with Time-Aware Distillation**|Xiao He et.al.|[2408.07476](http://arxiv.org/abs/2408.07476)|**[link](https://github.com/learninghx/tad-sr)**|
 |**2024-08-14**|**Deep-sub-cycle attosecond optical pulses**|Hongliang Dang et.al.|[2408.07306](http://arxiv.org/abs/2408.07306)|null|
