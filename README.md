@@ -51,13 +51,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-22**|**A Unified Plug-and-Play Algorithm with Projected Landweber Operator for Split Convex Feasibility Problems**|Shuchang Zhang et.al.|[2408.12100](http://arxiv.org/abs/2408.12100)|null|
 |**2024-08-21**|**MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs**|Yulin Ren et.al.|[2408.11758](http://arxiv.org/abs/2408.11758)|null|
 |**2024-08-21**|**Quantum super-resolution microscopy by photon statistics and structured light**|Fabio Picariello et.al.|[2408.11654](http://arxiv.org/abs/2408.11654)|null|
 |**2024-08-20**|**MambaDS: Near-Surface Meteorological Field Downscaling with Topography Constrained Selective State Space Modeling**|Zili Liu et.al.|[2408.10854](http://arxiv.org/abs/2408.10854)|null|
 |**2024-08-19**|**Webcam-based Pupil Diameter Prediction Benefits from Upscaling**|Vijul Shah et.al.|[2408.10397](http://arxiv.org/abs/2408.10397)|null|
-|**2024-08-19**|**ML-CrAIST: Multi-scale Low-high Frequency Information-based Cross black Attention with Image Super-resolving Transformer**|Alik Pramanick et.al.|[2408.09940](http://arxiv.org/abs/2408.09940)|null|
+|**2024-08-19**|**ML-CrAIST: Multi-scale Low-high Frequency Information-based Cross black Attention with Image Super-resolving Transformer**|Alik Pramanick et.al.|[2408.09940](http://arxiv.org/abs/2408.09940)|**[link](https://github.com/alik033/ml-craist)**|
 |**2024-08-19**|**Harnessing Multi-resolution and Multi-scale Attention for Underwater Image Restoration**|Alik Pramanick et.al.|[2408.09912](http://arxiv.org/abs/2408.09912)|**[link](https://github.com/alik033/lit-net)**|
-|**2024-08-19**|**Predicting Long-term Dynamics of Complex Networks via Identifying Skeleton in Hyperbolic Space**|Ruikun Li et.al.|[2408.09845](http://arxiv.org/abs/2408.09845)|null|
+|**2024-08-19**|**Predicting Long-term Dynamics of Complex Networks via Identifying Skeleton in Hyperbolic Space**|Ruikun Li et.al.|[2408.09845](http://arxiv.org/abs/2408.09845)|**[link](https://github.com/tsinghua-fib-lab/disknet)**|
 |**2024-08-19**|**Implicit Grid Convolution for Multi-Scale Image Super-Resolution**|Dongheon Lee et.al.|[2408.09674](http://arxiv.org/abs/2408.09674)|**[link](https://github.com/dslisleedh/IGConv)**|
 |**2024-08-18**|**Angle of Arrival Estimation with Transformer: A Sparse and Gridless Method with Zero-Shot Capability**|Zhaoxuan Zhu et.al.|[2408.09362](http://arxiv.org/abs/2408.09362)|null|
 |**2024-08-17**|**Discovery of Limb-Brightening in the Parsec-Scale Jet of NGC 315 through Global VLBI Observations and Its Implications for Jet Models**|Jongho Park et.al.|[2408.09069](http://arxiv.org/abs/2408.09069)|null|
@@ -379,6 +380,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**FUSELOC: Fusing Global and Local Descriptors to Disambiguate 2D-3D Matching in Visual Localization**|Son Tung Nguyen et.al.|[2408.12037](http://arxiv.org/abs/2408.12037)|null|
+|**2024-08-21**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966](http://arxiv.org/abs/2408.11966)|null|
 |**2024-08-21**|**UniFashion: A Unified Vision-Language Model for Multimodal Fashion Retrieval and Generation**|Xiangyu Zhao et.al.|[2408.11305](http://arxiv.org/abs/2408.11305)|**[link](https://github.com/xiangyu-mm/unifashion)**|
 |**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085](http://arxiv.org/abs/2408.11085)|null|
 |**2024-08-19**|**BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**|Zhenyu Lu et.al.|[2408.10383](http://arxiv.org/abs/2408.10383)|null|
@@ -1071,6 +1074,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966](http://arxiv.org/abs/2408.11966)|null|
 |**2024-08-21**|**Irregularity Inspection using Neural Radiance Field**|Tianqi Ding et.al.|[2408.11251](http://arxiv.org/abs/2408.11251)|null|
 |**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085](http://arxiv.org/abs/2408.11085)|null|
 |**2024-08-20**|**Learning Part-aware 3D Representations by Fusing 2D Gaussians and Superquadrics**|Zhirui Gao et.al.|[2408.10789](http://arxiv.org/abs/2408.10789)|null|
