@@ -51,7 +51,7 @@ layout: default
 |**2024-09-02**|**Single-photon super-resolved spectroscopy from spatial-mode demultiplexing**|Luigi Santamaria Amato et.al.|[2409.01190](http://arxiv.org/abs/2409.01190)|null|
 |**2024-09-02**|**SeCo-INR: Semantically Conditioned Implicit Neural Representations for Improved Medical Image Super-Resolution**|Mevan Ekanayake et.al.|[2409.01013](http://arxiv.org/abs/2409.01013)|null|
 |**2024-09-01**|**DMRA: An Adaptive Line Spectrum Estimation Method through Dynamical Multi-Resolution of Atoms**|Mingguang Han et.al.|[2409.00799](http://arxiv.org/abs/2409.00799)|null|
-|**2024-09-01**|**Rethinking Image Super-Resolution from Training Data Perspectives**|Go Ohtani et.al.|[2409.00768](http://arxiv.org/abs/2409.00768)|null|
+|**2024-09-01**|**Rethinking Image Super-Resolution from Training Data Perspectives**|Go Ohtani et.al.|[2409.00768](http://arxiv.org/abs/2409.00768)|**[link](https://github.com/gohtanii/DiverSeg-dataset)**|
 |**2024-09-01**|**Attention-Guided Multi-scale Interaction Network for Face Super-Resolution**|Xujie Wan et.al.|[2409.00591](http://arxiv.org/abs/2409.00591)|null|
 |**2024-08-30**|**HiTSR: A Hierarchical Transformer for Reference-based Super-Resolution**|Masoomeh Aslahishahri et.al.|[2408.16959](http://arxiv.org/abs/2408.16959)|**[link](https://github.com/bia006/hitsr)**|
 |**2024-08-29**|**GameIR: A Large-Scale Synthesized Ground-Truth Dataset for Image Restoration over Gaming Content**|Lebin Zhou et.al.|[2408.16866](http://arxiv.org/abs/2408.16866)|null|
