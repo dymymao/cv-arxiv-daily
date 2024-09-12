@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.11
+## Updated on 2024.09.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -45,7 +45,7 @@
 |**2020-08-02**|**Scene Text Image Super-Resolution in the Wild**|Wenjia Wang et.al.|[2005.03341](http://arxiv.org/abs/2005.03341)|**[link](https://github.com/JasonBoy1/TextZoom)**|
 |**2019-10-20**|**TextSR: Content-Aware Text Super-Resolution Guided by Recognition**|Wenjia Wang et.al.|[1909.07113](http://arxiv.org/abs/1909.07113)|**[link](https://github.com/xieenze/TextSR)**|
 
-<p align=right>(<a href=#updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240912>back to top</a>)</p>
 
 ## SR
 
@@ -317,7 +317,7 @@
 |**2024-05-05**|**TRAMBA: A Hybrid Transformer and Mamba Architecture for Practical Audio and Bone Conduction Speech Super Resolution and Enhancement on Mobile and Wearable Platforms**|Yueyuan Sui et.al.|[2405.01242](http://arxiv.org/abs/2405.01242)|null|
 |**2024-05-02**|**Single Image Super-Resolution Based on Global-Local Information Synergy**|Nianzu Qiao et.al.|[2405.01085](http://arxiv.org/abs/2405.01085)|null|
 
-<p align=right>(<a href=#updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240912>back to top</a>)</p>
 
 ## 3DGS
 
@@ -325,7 +325,7 @@
 |---|---|---|---|---|
 |**2024-04-24**|**Few-shot point cloud reconstruction and denoising via learned Guassian splats renderings and fine-tuned diffusion features**|Pietro Bonazzi et.al.|[2404.01112](http://arxiv.org/abs/2404.01112)|null|
 
-<p align=right>(<a href=#updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240912>back to top</a>)</p>
 
 ## SLAM
 
@@ -417,7 +417,7 @@
 |**2023-08-02**|**Stereo Visual Odometry with Deep Learning-Based Point and Line Feature Matching using an Attention Graph Neural Network**|Shenbagaraj Kannapiran et.al.|[2308.01125](http://arxiv.org/abs/2308.01125)|null|
 |**2023-08-02**|**Preliminary Design of the Dragonfly Navigation Filter**|Ben Schilling et.al.|[2307.13513](http://arxiv.org/abs/2307.13513)|null|
 
-<p align=right>(<a href=#updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240912>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -827,7 +827,7 @@
 |**2023-08-16**|**Integrating Visual and Semantic Similarity Using Hierarchies for Image Retrieval**|Aishwarya Venkataramanan et.al.|[2308.08431](http://arxiv.org/abs/2308.08431)|**[link](https://github.com/vaishwarya96/hierarchy-image-retrieval)**|
 |**2023-08-16**|**Ranking-aware Uncertainty for Text-guided Image Retrieval**|Junyang Chen et.al.|[2308.08131](http://arxiv.org/abs/2308.08131)|null|
 
-<p align=right>(<a href=#updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240912>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1070,7 +1070,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240912>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1083,7 +1083,7 @@
 |**2024-08-29**|**Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks**|Sierra Bonilla et.al.|[2408.16445](http://arxiv.org/abs/2408.16445)|**[link](https://github.com/surgical-vision/colmap-match-converter)**|
 |**2024-08-26**|**Affine steerers for structured keypoint description**|Georg Bökman et.al.|[2408.14186](http://arxiv.org/abs/2408.14186)|**[link](https://github.com/georg-bn/affine-steerers)**|
 |**2024-08-25**|**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**|Chuanrui Zhang et.al.|[2408.13770](http://arxiv.org/abs/2408.13770)|null|
-|**2024-08-15**|**Coarse-to-fine Alignment Makes Better Speech-image Retrieval**|Lifeng Zhou et.al.|[2408.13119](http://arxiv.org/abs/2408.13119)|null|
+|**2024-09-11**|**Coarse-to-fine Alignment Makes Better Speech-image Retrieval**|Lifeng Zhou et.al.|[2408.13119](http://arxiv.org/abs/2408.13119)|null|
 |**2024-08-19**|**BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**|Zhenyu Lu et.al.|[2408.10383](http://arxiv.org/abs/2408.10383)|null|
 |**2024-08-14**|**RSD-DOG : A New Image Descriptor based on Second Order Derivatives**|Darshan Venkatrayappa et.al.|[2408.07687](http://arxiv.org/abs/2408.07687)|null|
 |**2024-08-09**|**One Shot is Enough for Sequential Infrared Small Target Segmentation**|Bingbing Dan et.al.|[2408.04823](http://arxiv.org/abs/2408.04823)|**[link](https://github.com/d-iceice/one-shot-irsts)**|
@@ -1145,7 +1145,7 @@
 |**2024-01-24**|**Linear Relative Pose Estimation Founded on Pose-only Imaging Geometry**|Qi Cai et.al.|[2401.13357](http://arxiv.org/abs/2401.13357)|null|
 |**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886](http://arxiv.org/abs/2401.10886)|null|
 
-<p align=right>(<a href=#updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240912>back to top</a>)</p>
 
 ## NeRF
 
@@ -1621,7 +1621,7 @@
 |**2024-02-07**|**OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding**|Guibiao Liao et.al.|[2402.04648](http://arxiv.org/abs/2402.04648)|null|
 |**2024-02-11**|**BirdNeRF: Fast Neural Reconstruction of Large-Scale Scenes From Aerial Imagery**|Huiqing Zhang et.al.|[2402.04554](http://arxiv.org/abs/2402.04554)|null|
 
-<p align=right>(<a href=#updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240912>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/dymymao/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/dymymao/cv-arxiv-daily/graphs/contributors
