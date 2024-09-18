@@ -51,10 +51,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Online 4D Ultrasound-Guided Robotic Tracking Enables 3D Ultrasound Localisation Microscopy with Large Tissue Displacements**|Jipeng Yan et.al.|[2409.11391](http://arxiv.org/abs/2409.11391)|null|
+|**2024-09-17**|**Single-Layer Learnable Activation for Implicit Neural Representation (SL $^{2}$ A-INR)**|Moein Heidari et.al.|[2409.10836](http://arxiv.org/abs/2409.10836)|null|
+|**2024-09-16**|**WaveMixSR-V2: Enhancing Super-resolution with Higher Efficiency**|Pranav Jeevan et.al.|[2409.10582](http://arxiv.org/abs/2409.10582)|**[link](https://github.com/pranavphoenix/WaveMixSR)**|
 |**2024-09-16**|**Adaptive Segmentation-Based Initialization for Steered Mixture of Experts Image Regression**|Yi-Hsin Li et.al.|[2409.10101](http://arxiv.org/abs/2409.10101)|null|
 |**2024-09-15**|**Learning Two-factor Representation for Magnetic Resonance Image Super-resolution**|Weifeng Wei et.al.|[2409.09731](http://arxiv.org/abs/2409.09731)|null|
 |**2024-09-14**|**Adversarial Deep-Unfolding Network for MA-XRF Super-Resolution on Old Master Paintings Using Minimal Training Data**|Herman Verinaz-Jadan et.al.|[2409.09483](http://arxiv.org/abs/2409.09483)|null|
-|**2024-09-14**|**Wave-U-Mamba: An End-To-End Framework For High-Quality And Efficient Speech Super Resolution**|Yongjoon Lee et.al.|[2409.09337](http://arxiv.org/abs/2409.09337)|null|
+|**2024-09-17**|**Wave-U-Mamba: An End-To-End Framework For High-Quality And Efficient Speech Super Resolution**|Yongjoon Lee et.al.|[2409.09337](http://arxiv.org/abs/2409.09337)|null|
 |**2024-09-13**|**FB-HyDON: Parameter-Efficient Physics-Informed Operator Learning of Complex PDEs via Hypernetwork and Finite Basis Domain Decomposition**|Milad Ramezankhani et.al.|[2409.09207](http://arxiv.org/abs/2409.09207)|null|
 |**2024-09-13**|**Optically-Validated Microvascular Phantom for Super-Resolution Ultrasound Imaging**|Jaime Parra Raad et.al.|[2409.09031](http://arxiv.org/abs/2409.09031)|null|
 |**2024-09-13**|**Test-time Training for Hyperspectral Image Super-resolution**|Ke Li et.al.|[2409.08667](http://arxiv.org/abs/2409.08667)|null|
@@ -441,6 +444,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Improving the Efficiency of Visually Augmented Language Models**|Paula Ontalvilla et.al.|[2409.11148](http://arxiv.org/abs/2409.11148)|null|
+|**2024-09-17**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu et.al.|[2409.10925](http://arxiv.org/abs/2409.10925)|null|
 |**2024-09-16**|**SOLVR: Submap Oriented LiDAR-Visual Re-Localisation**|Joshua Knights et.al.|[2409.10247](http://arxiv.org/abs/2409.10247)|null|
 |**2024-09-16**|**Garment Attribute Manipulation with Multi-level Attention**|Vittorio Casula et.al.|[2409.10206](http://arxiv.org/abs/2409.10206)|null|
 |**2024-09-14**|**Evaluating Pre-trained Convolutional Neural Networks and Foundation Models as Feature Extractors for Content-based Medical Image Retrieval**|Amirreza Mahbod et.al.|[2409.09430](http://arxiv.org/abs/2409.09430)|null|
@@ -1174,6 +1179,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**RenderWorld: World Model with Self-Supervised 3D Label**|Ziyang Yan et.al.|[2409.11356](http://arxiv.org/abs/2409.11356)|null|
+|**2024-09-17**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu et.al.|[2409.10925](http://arxiv.org/abs/2409.10925)|null|
 |**2024-09-16**|**Baking Relightable NeRF for Real-time Direct/Indirect Illumination Rendering**|Euntae Choi et.al.|[2409.10327](http://arxiv.org/abs/2409.10327)|null|
 |**2024-09-16**|**DENSER: 3D Gaussians Splatting for Scene Reconstruction of Dynamic Urban Environments**|Mahmud A. Mohamad et.al.|[2409.10041](http://arxiv.org/abs/2409.10041)|null|
 |**2024-09-15**|**NARF24: Estimating Articulated Object Structure for Implicit Rendering**|Stanley Lewis et.al.|[2409.09829](http://arxiv.org/abs/2409.09829)|null|
