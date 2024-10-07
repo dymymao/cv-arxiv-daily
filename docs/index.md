@@ -40,6 +40,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Point-Spread-Function Engineering in MINFLUX: Optimality of Donut and Half-Moon Excitation Patterns**|Yan Liu et.al.|[2410.03349](http://arxiv.org/abs/2410.03349)|null|
+|**2024-10-04**|**Atom Camera: Super-resolution scanning microscope of a light pattern with a single ultracold atom**|Takafumi Tomita et.al.|[2410.03241](http://arxiv.org/abs/2410.03241)|null|
+|**2024-10-03**|**PixelShuffler: A Simple Image Translation Through Pixel Rearrangement**|Omar Zamzam et.al.|[2410.03021](http://arxiv.org/abs/2410.03021)|null|
 |**2024-10-03**|**SuperGS: Super-Resolution 3D Gaussian Splatting via Latent Feature Field and Gradient-guided Splitting**|Shiyun Xie et.al.|[2410.02571](http://arxiv.org/abs/2410.02571)|null|
 |**2024-10-03**|**PnP-Flow: Plug-and-Play Image Restoration with Flow Matching**|Ségolène Martin et.al.|[2410.02423](http://arxiv.org/abs/2410.02423)|null|
 |**2024-10-03**|**Ultrathin BIC metasurfaces based on ultralow-loss Sb2Se3 phase-change material**|Zhaoyang Xie et.al.|[2410.02413](http://arxiv.org/abs/2410.02413)|null|
@@ -467,7 +470,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-02**|**Boosting Weakly-Supervised Referring Image Segmentation via Progressive Comprehension**|Zaiquan Yang et.al.|[2410.01544](http://arxiv.org/abs/2410.01544)|null|
 |**2024-10-03**|**EUFCC-CIR: a Composed Image Retrieval Dataset for GLAM Collections**|Francesc Net et.al.|[2410.01536](http://arxiv.org/abs/2410.01536)|**[link](https://github.com/cesc47/eufcc-cir)**|
-|**2024-10-02**|**CSIM: A Copula-based similarity index sensitive to local changes for Image quality assessment**|Safouane El Ghazouali et.al.|[2410.01411](http://arxiv.org/abs/2410.01411)|**[link](https://github.com/safouaneelg/copulasimilarity)**|
+|**2024-10-04**|**CSIM: A Copula-based similarity index sensitive to local changes for Image quality assessment**|Safouane El Ghazouali et.al.|[2410.01411](http://arxiv.org/abs/2410.01411)|**[link](https://github.com/safouaneelg/copulasimilarity)**|
 |**2024-09-30**|**Class-Agnostic Visio-Temporal Scene Sketch Semantic Segmentation**|Aleyna Kütük et.al.|[2410.00266](http://arxiv.org/abs/2410.00266)|null|
 |**2024-09-29**|**CELLmap: Enhancing LiDAR SLAM through Elastic and Lightweight Spherical Map Representation**|Yifan Duan et.al.|[2409.19597](http://arxiv.org/abs/2409.19597)|null|
 |**2024-09-28**|**VLAD-BuFF: Burst-aware Fast Feature Aggregation for Visual Place Recognition**|Ahmad Khaliq et.al.|[2409.19293](http://arxiv.org/abs/2409.19293)|**[link](https://github.com/ahmedest61/vlad-buff)**|
