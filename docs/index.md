@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.10
+## Updated on 2024.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## STISR
@@ -46,10 +46,10 @@ layout: default
 |**2024-10-07**|**Enhanced Super-Resolution Training via Mimicked Alignment for Real-World Scenes**|Omar Elezabi et.al.|[2410.05410](http://arxiv.org/abs/2410.05410)|null|
 |**2024-10-07**|**Near-Field ISAC in 6G: Addressing Phase Nonlinearity via Lifted Super-Resolution**|Sajad Daei et.al.|[2410.04930](http://arxiv.org/abs/2410.04930)|null|
 |**2024-10-05**|**AIM 2024 Challenge on Video Super-Resolution Quality Assessment: Methods and Results**|Ivan Molodetskikh et.al.|[2410.04225](http://arxiv.org/abs/2410.04225)|null|
-|**2024-10-05**|**Distillation-Free One-Step Diffusion for Real-World Image Super-Resolution**|Jianze Li et.al.|[2410.04224](http://arxiv.org/abs/2410.04224)|**[link](https://github.com/jianzeli-114/dfosd)**|
+|**2024-10-10**|**Distillation-Free One-Step Diffusion for Real-World Image Super-Resolution**|Jianze Li et.al.|[2410.04224](http://arxiv.org/abs/2410.04224)|**[link](https://github.com/jianzeli-114/dfosd)**|
 |**2024-10-05**|**Exploring Strengths and Weaknesses of Super-Resolution Attack in Deepfake Detection**|Davide Alessandro Coccomini et.al.|[2410.04205](http://arxiv.org/abs/2410.04205)|null|
 |**2024-10-05**|**TV-based Deep 3D Self Super-Resolution for fMRI**|Fernando Pérez-Bueno et.al.|[2410.04097](http://arxiv.org/abs/2410.04097)|null|
-|**2024-10-04**|**Learning Truncated Causal History Model for Video Restoration**|Amirhosein Ghasemabadi et.al.|[2410.03936](http://arxiv.org/abs/2410.03936)|null|
+|**2024-10-04**|**Learning Truncated Causal History Model for Video Restoration**|Amirhosein Ghasemabadi et.al.|[2410.03936](http://arxiv.org/abs/2410.03936)|**[link](https://github.com/Ascend-Research/Turtle)**|
 |**2024-10-04**|**Point-Spread-Function Engineering in MINFLUX: Optimality of Donut and Half-Moon Excitation Patterns**|Yan Liu et.al.|[2410.03349](http://arxiv.org/abs/2410.03349)|null|
 |**2024-10-04**|**Atom Camera: Super-resolution scanning microscope of a light pattern with a single ultracold atom**|Takafumi Tomita et.al.|[2410.03241](http://arxiv.org/abs/2410.03241)|null|
 |**2024-10-03**|**PixelShuffler: A Simple Image Translation Through Pixel Rearrangement**|Omar Zamzam et.al.|[2410.03021](http://arxiv.org/abs/2410.03021)|**[link](https://github.com/OmarSZamzam/PixelShuffler)**|
