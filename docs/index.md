@@ -40,6 +40,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**Riemannian Gradient Descent Method to Joint Blind Super-Resolution and Demixing in ISAC**|Zeyu Xiang et.al.|[2410.08607](http://arxiv.org/abs/2410.08607)|null|
+|**2024-10-11**|**Quality Prediction of AI Generated Images and Videos: Emerging Trends and Opportunities**|Abhijay Ghildyal et.al.|[2410.08534](http://arxiv.org/abs/2410.08534)|null|
 |**2024-10-10**|**TDDSR: Single-Step Diffusion with Two Discriminators for Super Resolution**|Sohwi Kim et.al.|[2410.07663](http://arxiv.org/abs/2410.07663)|null|
 |**2024-10-09**|**HFH-Font: Few-shot Chinese Font Synthesis with Higher Quality, Faster Speed, and Higher Resolution**|Hua Li et.al.|[2410.06488](http://arxiv.org/abs/2410.06488)|**[link](https://github.com/grovessss/hfh-font)**|
 |**2024-10-09**|**MaskBlur: Spatial and Angular Data Augmentation for Light Field Image Super-Resolution**|Wentao Chao et.al.|[2410.06478](http://arxiv.org/abs/2410.06478)|**[link](https://github.com/chaowentao/maskblur)**|
@@ -480,6 +482,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System**|Zheng Liu et.al.|[2410.08935](http://arxiv.org/abs/2410.08935)|null|
+|**2024-10-11**|**Semantic Token Reweighting for Interpretable and Controllable Text Embeddings in CLIP**|Eunji Kim et.al.|[2410.08469](http://arxiv.org/abs/2410.08469)|null|
+|**2024-10-11**|**A Unified Deep Semantic Expansion Framework for Domain-Generalized Person Re-identification**|Eugene P. W. Ang et.al.|[2410.08456](http://arxiv.org/abs/2410.08456)|null|
 |**2024-10-10**|**A Unified Debiasing Approach for Vision-Language Models across Modalities and Tasks**|Hoin Jung et.al.|[2410.07593](http://arxiv.org/abs/2410.07593)|null|
 |**2024-10-09**|**Exploiting Distribution Constraints for Scalable and Efficient Image Retrieval**|Mohammad Omama et.al.|[2410.07022](http://arxiv.org/abs/2410.07022)|null|
 |**2024-10-09**|**Pair-VPR: Place-Aware Pre-training and Contrastive Pair Classification for Visual Place Recognition with Vision Transformers**|Stephen Hausler et.al.|[2410.06614](http://arxiv.org/abs/2410.06614)|null|
@@ -1248,6 +1253,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**SceneCraft: Layout-Guided 3D Scene Generation**|Xiuyu Yang et.al.|[2410.09049](http://arxiv.org/abs/2410.09049)|**[link](https://github.com/orangesodahub/scenecraft)**|
+|**2024-10-11**|**MeshGS: Adaptive Mesh-Aligned Gaussian Splatting for High-Quality Rendering**|Jaehoon Choi et.al.|[2410.08941](http://arxiv.org/abs/2410.08941)|null|
+|**2024-10-11**|**Optimizing NeRF-based SLAM with Trajectory Smoothness Constraints**|Yicheng He et.al.|[2410.08780](http://arxiv.org/abs/2410.08780)|null|
 |**2024-10-10**|**RGM: Reconstructing High-fidelity 3D Car Assets with Relightable 3D-GS Generative Model from a Single Image**|Xiaoxue Chen et.al.|[2410.08181](http://arxiv.org/abs/2410.08181)|null|
 |**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107](http://arxiv.org/abs/2410.08107)|**[link](https://github.com/wu-cvgl/inceventgs)**|
 |**2024-10-11**|**NeRF-Accelerated Ecological Monitoring in Mixed-Evergreen Redwood Forest**|Adam Korycki et.al.|[2410.07418](http://arxiv.org/abs/2410.07418)|**[link](https://github.com/harelab-ucsc/redwoodnerf)**|
