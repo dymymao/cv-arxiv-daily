@@ -52,6 +52,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-31**|**DiffPAD: Denoising Diffusion-based Adversarial Patch Decontamination**|Jia Fu et.al.|[2410.24006](http://arxiv.org/abs/2410.24006)|null|
+|**2024-10-29**|**Temporal and Spatial Super Resolution with Latent Diffusion Model in Medical MRI images**|Vishal Dubey et.al.|[2410.23898](http://arxiv.org/abs/2410.23898)|null|
+|**2024-10-30**|**Enhancing Image Resolution: A Simulation Study and Sensitivity Analysis of System Parameters for Resourcesat-3S/3SA**|Ankur Garg et.al.|[2410.23319](http://arxiv.org/abs/2410.23319)|null|
 |**2024-10-30**|**EnsIR: An Ensemble Algorithm for Image Restoration via Gaussian Mixture Models**|Shangquan Sun et.al.|[2410.22959](http://arxiv.org/abs/2410.22959)|null|
 |**2024-10-30**|**Latent Diffusion, Implicit Amplification: Efficient Continuous-Scale Super-Resolution for Remote Sensing Images**|Hanlin Wu et.al.|[2410.22830](http://arxiv.org/abs/2410.22830)|null|
 |**2024-10-29**|**Volumetric Conditioning Module to Control Pretrained Diffusion Models for 3D Medical Images**|Suhyun Ahn et.al.|[2410.21826](http://arxiv.org/abs/2410.21826)|**[link](https://github.com/Ahn-Ssu/VCM)**|
@@ -544,6 +547,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-31**|**Nearest Neighbor Normalization Improves Multimodal Retrieval**|Neil Chowdhury et.al.|[2410.24114](http://arxiv.org/abs/2410.24114)|null|
+|**2024-10-31**|**MoTaDual: Modality-Task Dual Alignment for Enhanced Zero-shot Composed Image Retrieval**|Haiwen Li et.al.|[2410.23736](http://arxiv.org/abs/2410.23736)|null|
 |**2024-10-30**|**Decoupling Semantic Similarity from Spatial Alignment for Neural Networks**|Tassilo Wald et.al.|[2410.23107](http://arxiv.org/abs/2410.23107)|null|
 |**2024-10-29**|**Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications**|Monica Riedler et.al.|[2410.21943](http://arxiv.org/abs/2410.21943)|**[link](https://github.com/riedlerm/multimodal_rag_for_industry)**|
 |**2024-10-28**|**NYC-Event-VPR: A Large-Scale High-Resolution Event-Based Visual Place Recognition Dataset in Dense Urban Environments**|Taiyi Pan et.al.|[2410.21615](http://arxiv.org/abs/2410.21615)|null|
@@ -1006,6 +1011,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-31**|**From Web Data to Real Fields: Low-Cost Unsupervised Domain Adaptation for Agricultural Robots**|Vasileios Tzouras et.al.|[2410.23906](http://arxiv.org/abs/2410.23906)|null|
 |**2024-10-04**|**Self-Supervised Keypoint Detection with Distilled Depth Keypoint Representation**|Aman Anand et.al.|[2410.14700](http://arxiv.org/abs/2410.14700)|null|
 |**2024-10-18**|**Sim2real Cattle Joint Estimation in 3D point clouds**|Okour Mohammad et.al.|[2410.14419](http://arxiv.org/abs/2410.14419)|null|
 |**2024-10-16**|**PND-Net: Plant Nutrition Deficiency and Disease Classification using Graph Convolutional Network**|Asish Bera et.al.|[2410.12742](http://arxiv.org/abs/2410.12742)|null|
@@ -1264,6 +1270,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**Variable Resolution Sampling and Deep Learning Image Recovery for Accelerated Multi-Spectral MRI Near Metal Implants**|Azadeh Sharafi et.al.|[2410.23329](http://arxiv.org/abs/2410.23329)|null|
 |**2024-10-30**|**RelationBooth: Towards Relation-Aware Customized Object Generation**|Qingyu Shi et.al.|[2410.23280](http://arxiv.org/abs/2410.23280)|null|
 |**2024-10-31**|**ETO:Efficient Transformer-based Local Feature Matching by Organizing Multiple Homography Hypotheses**|Junjie Ni et.al.|[2410.22733](http://arxiv.org/abs/2410.22733)|null|
 |**2024-10-30**|**LoFLAT: Local Feature Matching using Focused Linear Attention Transformer**|Naijian Cao et.al.|[2410.22710](http://arxiv.org/abs/2410.22710)|null|
@@ -1349,6 +1356,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-31**|**Scaled Inverse Graphics: Efficiently Learning Large Sets of 3D Scenes**|Karim Kassab et.al.|[2410.23742](http://arxiv.org/abs/2410.23742)|null|
+|**2024-10-31**|**Get a Grip: Multi-Finger Grasp Evaluation at Scale Enables Robust Sim-to-Real Transfer**|Tyler Ga Wei Lum et.al.|[2410.23701](http://arxiv.org/abs/2410.23701)|null|
+|**2024-10-31**|**XRDSLAM: A Flexible and Modular Framework for Deep Learning based SLAM**|Xiaomeng Wang et.al.|[2410.23690](http://arxiv.org/abs/2410.23690)|null|
 |**2024-10-30**|**Bringing NeRFs to the Latent Space: Inverse Graphics Autoencoder**|Antoine Schnepf et.al.|[2410.22936](http://arxiv.org/abs/2410.22936)|null|
 |**2024-10-28**|**MVSDet: Multi-View Indoor 3D Object Detection via Efficient Plane Sweeps**|Yating Xu et.al.|[2410.21566](http://arxiv.org/abs/2410.21566)|**[link](https://github.com/pixie8888/mvsdet)**|
 |**2024-10-29**|**EEG-Driven 3D Object Reconstruction with Color Consistency and Diffusion Prior**|Xin Xiang et.al.|[2410.20981](http://arxiv.org/abs/2410.20981)|null|
