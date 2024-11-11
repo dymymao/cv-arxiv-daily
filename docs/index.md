@@ -40,6 +40,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**WeatherGFM: Learning A Weather Generalist Foundation Model via In-context Learning**|Xiangyu Zhao et.al.|[2411.05420](http://arxiv.org/abs/2411.05420)|null|
+|**2024-11-08**|**Electro-diffusive modeling and the role of spine geometry on action potential propagation in neurons**|Rahul Gulati et.al.|[2411.05329](http://arxiv.org/abs/2411.05329)|null|
+|**2024-11-07**|**Reducing data resolution for better super-resolution: Reconstructing turbulent flows from noisy observation**|Kyongmin Yeo et.al.|[2411.05240](http://arxiv.org/abs/2411.05240)|null|
 |**2024-11-07**|**ESC-MISR: Enhancing Spatial Correlations for Multi-Image Super-Resolution in Remote Sensing**|Zhihui Zhang et.al.|[2411.04706](http://arxiv.org/abs/2411.04706)|null|
 |**2024-11-06**|**"Super-resolution" holographic optical tweezers array**|Keisuke Nishimura et.al.|[2411.03564](http://arxiv.org/abs/2411.03564)|null|
 |**2024-11-05**|**SynthSet: Generative Diffusion Model for Semantic Segmentation in Precision Agriculture**|Andrew Heschl et.al.|[2411.03505](http://arxiv.org/abs/2411.03505)|**[link](https://github.com/visionresearchlab/synthset)**|
@@ -1355,6 +1358,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**A Nerf-Based Color Consistency Method for Remote Sensing Images**|Zongcheng Zuo et.al.|[2411.05557](http://arxiv.org/abs/2411.05557)|null|
+|**2024-11-08**|**Rate-aware Compression for NeRF-based Volumetric Video**|Zhiyu Zhang et.al.|[2411.05322](http://arxiv.org/abs/2411.05322)|null|
 |**2024-11-07**|**Planar Reflection-Aware Neural Radiance Fields**|Chen Gao et.al.|[2411.04984](http://arxiv.org/abs/2411.04984)|null|
 |**2024-11-07**|**GANESH: Generalizable NeRF for Lensless Imaging**|Rakesh Raj Madavan et.al.|[2411.04810](http://arxiv.org/abs/2411.04810)|null|
 |**2024-11-07**|**SuperQ-GRASP: Superquadrics-based Grasp Pose Estimation on Larger Objects for Mobile-Manipulation**|Xun Tu et.al.|[2411.04386](http://arxiv.org/abs/2411.04386)|null|
