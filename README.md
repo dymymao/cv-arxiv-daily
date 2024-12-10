@@ -53,6 +53,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**Neural Garment Dynamic Super-Resolution**|Meng Zhang et.al.|[2412.06285](http://arxiv.org/abs/2412.06285)|null|
+|**2024-12-09**|**MSCrackMamba: Leveraging Vision Mamba for Crack Detection in Fused Multispectral Imagery**|Qinfeng Zhu et.al.|[2412.06211](http://arxiv.org/abs/2412.06211)|null|
+|**2024-12-09**|**You KAN Do It in a Single Shot: Plug-and-Play Methods with Single-Instance Priors**|Yanqi Cheng et.al.|[2412.06204](http://arxiv.org/abs/2412.06204)|null|
+|**2024-12-07**|**Jointly RS Image Deblurring and Super-Resolution with Adjustable-Kernel and Multi-Domain Attention**|Yan Zhang et.al.|[2412.05696](http://arxiv.org/abs/2412.05696)|**[link](https://github.com/zpc456/akmd-net)**|
+|**2024-12-07**|**Test-time Cost-and-Quality Controllable Arbitrary-Scale Super-Resolution with Variable Fourier Components**|Kazutoshi Akita et.al.|[2412.05517](http://arxiv.org/abs/2412.05517)|null|
+|**2024-12-07**|**Enhancing Sample Generation of Diffusion Models using Noise Level Correction**|Abulikemu Abuduweili et.al.|[2412.05488](http://arxiv.org/abs/2412.05488)|null|
 |**2024-12-06**|**MSECG: Incorporating Mamba for Robust and Efficient ECG Super-Resolution**|Jie Lin et.al.|[2412.04861](http://arxiv.org/abs/2412.04861)|null|
 |**2024-12-05**|**2.5D Super-Resolution Approaches for X-ray Computed Tomography-based Inspection of Additively Manufactured Parts**|Haley Duba-Sullivan et.al.|[2412.04525](http://arxiv.org/abs/2412.04525)|null|
 |**2024-12-05**|**LocalSR: Image Super-Resolution in Local Region**|Bo Ji et.al.|[2412.04314](http://arxiv.org/abs/2412.04314)|null|
@@ -640,6 +646,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|null|
+|**2024-12-09**|**A Hyperdimensional One Place Signature to Represent Them All: Stackable Descriptors For Visual Place Recognition**|Connor Malone et.al.|[2412.06153](http://arxiv.org/abs/2412.06153)|null|
+|**2024-12-07**|**Compositional Image Retrieval via Instruction-Aware Contrastive Learning**|Wenliang Zhong et.al.|[2412.05756](http://arxiv.org/abs/2412.05756)|null|
 |**2024-12-06**|**DAug: Diffusion-based Channel Augmentation for Radiology Image Retrieval and Classification**|Ying Jin et.al.|[2412.04828](http://arxiv.org/abs/2412.04828)|null|
 |**2024-12-04**|**Distillation of Diffusion Features for Semantic Correspondence**|Frank Fundel et.al.|[2412.03512](http://arxiv.org/abs/2412.03512)|null|
 |**2024-12-04**|**Composed Image Retrieval for Training-Free Domain Conversion**|Nikos Efthymiadis et.al.|[2412.03297](http://arxiv.org/abs/2412.03297)|**[link](https://github.com/nikosefth/freedom)**|
@@ -1137,6 +1146,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|null|
+|**2024-12-09**|**ZeroKey: Point-Level Reasoning and Zero-Shot 3D Keypoint Detection from Large Language Models**|Bingchen Gong et.al.|[2412.06292](http://arxiv.org/abs/2412.06292)|null|
+|**2024-12-07**|**Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures**|Muhammad Umar Farooq et.al.|[2412.05487](http://arxiv.org/abs/2412.05487)|null|
 |**2024-12-04**|**Measure Anything: Real-time, Multi-stage Vision-based Dimensional Measurement using Segment Anything**|Yongkyu Lee et.al.|[2412.03472](http://arxiv.org/abs/2412.03472)|null|
 |**2024-12-02**|**MamKPD: A Simple Mamba Baseline for Real-Time 2D Keypoint Detection**|Yonghao Dang et.al.|[2412.01422](http://arxiv.org/abs/2412.01422)|null|
 |**2024-11-23**|**OCDet: Object Center Detection via Bounding Box-Aware Heatmap Prediction on Edge Devices with NPUs**|Chen Xin et.al.|[2411.15653](http://arxiv.org/abs/2411.15653)|**[link](https://github.com/chen-xin-94/ocdet)**|
@@ -1494,6 +1506,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**Dynamic EventNeRF: Reconstructing General Dynamic Scenes from Multi-view Event Cameras**|Viktor Rudnev et.al.|[2412.06770](http://arxiv.org/abs/2412.06770)|null|
+|**2024-12-09**|**Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video**|Renlong Wu et.al.|[2412.06424](http://arxiv.org/abs/2412.06424)|null|
+|**2024-12-09**|**Splatter-360: Generalizable 360 $^{\circ}$ Gaussian Splatting for Wide-baseline Panoramic Images**|Zheng Chen et.al.|[2412.06250](http://arxiv.org/abs/2412.06250)|**[link](https://github.com/thucz/splatter360)**|
+|**2024-12-07**|**WATER-GS: Toward Copyright Protection for 3D Gaussian Splatting via Universal Watermarking**|Yuqi Tan et.al.|[2412.05695](http://arxiv.org/abs/2412.05695)|null|
 |**2024-12-06**|**Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories**|Susung Hong et.al.|[2412.05279](http://arxiv.org/abs/2412.05279)|null|
 |**2024-12-06**|**MixedGaussianAvatar: Realistically and Geometrically Accurate Head Avatar via Mixed 2D-3D Gaussian Splatting**|Peng Chen et.al.|[2412.04955](http://arxiv.org/abs/2412.04955)|**[link](https://github.com/chenvoid/mga)**|
 |**2024-12-04**|**NeRF and Gaussian Splatting SLAM in the Wild**|Fabian Schmidt et.al.|[2412.03263](http://arxiv.org/abs/2412.03263)|null|
