@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.12
+## Updated on 2024.12.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## STISR
@@ -47,9 +47,9 @@ layout: default
 |**2024-12-10**|**MPSI: Mamba enhancement model for pixel-wise sequential interaction Image Super-Resolution**|Yuchun He et.al.|[2412.07222](http://arxiv.org/abs/2412.07222)|null|
 |**2024-12-10**|**A Progressive Image Restoration Network for High-order Degradation Imaging in Remote Sensing**|Yujie Feng et.al.|[2412.07195](http://arxiv.org/abs/2412.07195)|null|
 |**2024-12-10**|**Hero-SR: One-Step Diffusion for Super-Resolution with Human Perception Priors**|Jiangang Wang et.al.|[2412.07152](http://arxiv.org/abs/2412.07152)|null|
-|**2024-12-10**|**RAP-SR: RestorAtion Prior Enhancement in Diffusion Models for Realistic Image Super-Resolution**|Jiangang Wang et.al.|[2412.07149](http://arxiv.org/abs/2412.07149)|null|
+|**2024-12-10**|**RAP-SR: RestorAtion Prior Enhancement in Diffusion Models for Realistic Image Super-Resolution**|Jiangang Wang et.al.|[2412.07149](http://arxiv.org/abs/2412.07149)|**[link](https://github.com/W-JG/RAP-SR)**|
 |**2024-12-09**|**Edge-SD-SR: Low Latency and Parameter Efficient On-device Super-Resolution with Stable Diffusion via Bidirectional Conditioning**|Mehdi Noroozi et.al.|[2412.06978](http://arxiv.org/abs/2412.06978)|null|
-|**2024-12-09**|**Neural Garment Dynamic Super-Resolution**|Meng Zhang et.al.|[2412.06285](http://arxiv.org/abs/2412.06285)|null|
+|**2024-12-09**|**Neural Garment Dynamic Super-Resolution**|Meng Zhang et.al.|[2412.06285](http://arxiv.org/abs/2412.06285)|**[link](https://github.com/MengZephyr/Neural-Garment-Dynamic-Super-resolution)**|
 |**2024-12-09**|**MSCrackMamba: Leveraging Vision Mamba for Crack Detection in Fused Multispectral Imagery**|Qinfeng Zhu et.al.|[2412.06211](http://arxiv.org/abs/2412.06211)|null|
 |**2024-12-09**|**You KAN Do It in a Single Shot: Plug-and-Play Methods with Single-Instance Priors**|Yanqi Cheng et.al.|[2412.06204](http://arxiv.org/abs/2412.06204)|null|
 |**2024-12-07**|**Jointly RS Image Deblurring and Super-Resolution with Adjustable-Kernel and Multi-Domain Attention**|Yan Zhang et.al.|[2412.05696](http://arxiv.org/abs/2412.05696)|**[link](https://github.com/zpc456/akmd-net)**|
@@ -641,7 +641,7 @@ layout: default
 |**2024-12-11**|**Intelligent Control of Robotic X-ray Devices using a Language-promptable Digital Twin**|Benjamin D. Killeen et.al.|[2412.08020](http://arxiv.org/abs/2412.08020)|null|
 |**2024-12-10**|**On Motion Blur and Deblurring in Visual Place Recognition**|Timur Ismagilov et.al.|[2412.07751](http://arxiv.org/abs/2412.07751)|null|
 |**2024-12-10**|**Image Retrieval with Intra-Sweep Representation Learning for Neck Ultrasound Scanning Guidance**|Wanwen Chen et.al.|[2412.07741](http://arxiv.org/abs/2412.07741)|null|
-|**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|null|
+|**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|**[link](https://github.com/sair-lab/SeqACE)**|
 |**2024-12-09**|**A Hyperdimensional One Place Signature to Represent Them All: Stackable Descriptors For Visual Place Recognition**|Connor Malone et.al.|[2412.06153](http://arxiv.org/abs/2412.06153)|null|
 |**2024-12-07**|**Compositional Image Retrieval via Instruction-Aware Contrastive Learning**|Wenliang Zhong et.al.|[2412.05756](http://arxiv.org/abs/2412.05756)|null|
 |**2024-12-06**|**DAug: Diffusion-based Channel Augmentation for Radiology Image Retrieval and Classification**|Ying Jin et.al.|[2412.04828](http://arxiv.org/abs/2412.04828)|null|
@@ -1139,7 +1139,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|null|
+|**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|**[link](https://github.com/sair-lab/SeqACE)**|
 |**2024-12-09**|**ZeroKey: Point-Level Reasoning and Zero-Shot 3D Keypoint Detection from Large Language Models**|Bingchen Gong et.al.|[2412.06292](http://arxiv.org/abs/2412.06292)|null|
 |**2024-12-07**|**Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures**|Muhammad Umar Farooq et.al.|[2412.05487](http://arxiv.org/abs/2412.05487)|null|
 |**2024-12-04**|**Measure Anything: Real-time, Multi-stage Vision-based Dimensional Measurement using Segment Anything**|Yongkyu Lee et.al.|[2412.03472](http://arxiv.org/abs/2412.03472)|null|
@@ -1500,7 +1500,7 @@ layout: default
 |**2024-12-10**|**EventSplat: 3D Gaussian Splatting from Moving Event Cameras for Real-time Rendering**|Toshiya Yura et.al.|[2412.07293](http://arxiv.org/abs/2412.07293)|null|
 |**2024-12-09**|**Diffusing Differentiable Representations**|Yash Savani et.al.|[2412.06981](http://arxiv.org/abs/2412.06981)|null|
 |**2024-12-09**|**Dynamic EventNeRF: Reconstructing General Dynamic Scenes from Multi-view Event Cameras**|Viktor Rudnev et.al.|[2412.06770](http://arxiv.org/abs/2412.06770)|null|
-|**2024-12-09**|**Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video**|Renlong Wu et.al.|[2412.06424](http://arxiv.org/abs/2412.06424)|null|
+|**2024-12-09**|**Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video**|Renlong Wu et.al.|[2412.06424](http://arxiv.org/abs/2412.06424)|**[link](https://github.com/zcsrenlongz/deblur4dgs)**|
 |**2024-12-09**|**Splatter-360: Generalizable 360 $^{\circ}$ Gaussian Splatting for Wide-baseline Panoramic Images**|Zheng Chen et.al.|[2412.06250](http://arxiv.org/abs/2412.06250)|**[link](https://github.com/thucz/splatter360)**|
 |**2024-12-07**|**WATER-GS: Toward Copyright Protection for 3D Gaussian Splatting via Universal Watermarking**|Yuqi Tan et.al.|[2412.05695](http://arxiv.org/abs/2412.05695)|null|
 |**2024-12-06**|**Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories**|Susung Hong et.al.|[2412.05279](http://arxiv.org/abs/2412.05279)|null|
