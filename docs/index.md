@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.01
+## Updated on 2025.01.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## STISR
@@ -50,7 +50,7 @@ layout: default
 |**2024-12-27**|**YOLO-MST: Multiscale deep learning method for infrared small target detection based on super-resolution and YOLO**|Taoran Yue et.al.|[2412.19878](http://arxiv.org/abs/2412.19878)|null|
 |**2024-12-27**|**Structural Similarity in Deep Features: Image Quality Assessment Robust to Geometrically Disparate Reference**|Keke Zhang et.al.|[2412.19553](http://arxiv.org/abs/2412.19553)|null|
 |**2024-12-25**|**WaveDiffUR: A diffusion SDE-based solver for ultra magnification super-resolution in remote sensing images**|Yue Shi et.al.|[2412.18996](http://arxiv.org/abs/2412.18996)|null|
-|**2024-12-25**|**TINQ: Temporal Inconsistency Guided Blind Video Quality Assessment**|Yixiao Li et.al.|[2412.18933](http://arxiv.org/abs/2412.18933)|null|
+|**2024-12-25**|**TINQ: Temporal Inconsistency Guided Blind Video Quality Assessment**|Yixiao Li et.al.|[2412.18933](http://arxiv.org/abs/2412.18933)|**[link](https://github.com/lighting-yxli/tinq)**|
 |**2024-12-23**|**Joint Multitarget Detection and Tracking with mmWave Radar**|Jiang Zhu et.al.|[2412.17211](http://arxiv.org/abs/2412.17211)|null|
 |**2024-12-22**|**Foundation Model for Lossy Compression of Spatiotemporal Scientific Data**|Xiao Li et.al.|[2412.17184](http://arxiv.org/abs/2412.17184)|null|
 |**2024-12-22**|**Massively Multiplexed Wide-field Photon Correlation Sensing**|Shay Elmalem et.al.|[2412.16914](http://arxiv.org/abs/2412.16914)|null|
