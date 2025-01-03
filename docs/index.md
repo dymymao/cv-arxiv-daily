@@ -17,7 +17,7 @@ layout: default
 |**2024-12-02**|**TextSSR: Diffusion-based Data Synthesis for Scene Text Recognition**|Xingsong Ye et.al.|[2412.01137](http://arxiv.org/abs/2412.01137)|**[link](https://github.com/YesianRohn/TextSSR)**|
 |**2024-09-22**|**One Model for Two Tasks: Cooperatively Recognizing and Recovering Low-Resolution Scene Text Images by Iterative Mutual Guidance**|Minyi Zhao et.al.|[2409.14483](http://arxiv.org/abs/2409.14483)|null|
 |**2024-08-04**|**LEGO: Self-Supervised Representation Learning for Scene Text Images**|Yujin Ren et.al.|[2408.02036](http://arxiv.org/abs/2408.02036)|null|
-|**2024-07-28**|**WeCromCL: Weakly Supervised Cross-Modality Contrastive Learning for Transcription-only Supervised Text Spotting**|Jingjing Wu et.al.|[2407.19507](http://arxiv.org/abs/2407.19507)|null|
+|**2024-07-28**|**WeCromCL: Weakly Supervised Cross-Modality Contrastive Learning for Transcription-only Supervised Text Spotting**|Jingjing Wu et.al.|[2407.19507](http://arxiv.org/abs/2407.19507)|**[link](https://github.com/ZhengyaoFang/WeCromCL)**|
 |**2024-07-23**|**CLII: Visual-Text Inpainting via Cross-Modal Predictive Interaction**|Liang Zhao et.al.|[2407.16204](http://arxiv.org/abs/2407.16204)|null|
 |**2024-09-15**|**Layout Agnostic Scene Text Image Synthesis with Diffusion Models**|Qilong Zhangli et.al.|[2406.01062](http://arxiv.org/abs/2406.01062)|null|
 |**2024-05-19**|**The First Swahili Language Scene Text Detection and Recognition Dataset**|Fadila Wendigoundi Douamba et.al.|[2405.11437](http://arxiv.org/abs/2405.11437)|**[link](https://github.com/fadilaw/swahili-str-dataset)**|
@@ -1467,7 +1467,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-28**|**Towards Real-Time 2D Mapping: Harnessing Drones, AI, and Computer Vision for Advanced Insights**|Bharath Kumar Agnur et.al.|[2412.20210](http://arxiv.org/abs/2412.20210)|null|
+|**2024-12-31**|**Towards Real-Time 2D Mapping: Harnessing Drones, AI, and Computer Vision for Advanced Insights**|Bharath Kumar Agnur et.al.|[2412.20210](http://arxiv.org/abs/2412.20210)|null|
 |**2024-12-27**|**MINIMA: Modality Invariant Image Matching**|Xingyu Jiang et.al.|[2412.19412](http://arxiv.org/abs/2412.19412)|**[link](https://github.com/LSXI7/MINIMA)**|
 |**2024-12-24**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221](http://arxiv.org/abs/2412.18221)|**[link](https://github.com/songxf1024/gims)**|
 |**2024-12-17**|**Bringing Multimodality to Amazon Visual Search System**|Xinliang Zhu et.al.|[2412.13364](http://arxiv.org/abs/2412.13364)|null|
