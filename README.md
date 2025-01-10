@@ -53,6 +53,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**Detection of binary companions below the diffraction limit with lucky imaging**|Miguel A. Cagigas et.al.|[2501.05154](http://arxiv.org/abs/2501.05154)|null|
+|**2025-01-09**|**FLowHigh: Towards Efficient and High-Quality Audio Super-Resolution with Single-Step Flow Matching**|Jun-Hak Yun et.al.|[2501.04926](http://arxiv.org/abs/2501.04926)|null|
 |**2025-01-08**|**Physics-Informed Super-Resolution Diffusion for 6D Phase Space Diagnostics**|Alexander Scheinker et.al.|[2501.04305](http://arxiv.org/abs/2501.04305)|null|
 |**2025-01-08**|**Illuminating extracellular vesicles biology with super resolution microscopy: Insights into morphology and composition**|Lucile Alexandre et.al.|[2501.03713](http://arxiv.org/abs/2501.03713)|null|
 |**2025-01-06**|**ImageMM: Joint multi-frame image restoration and super-resolution**|Yashil Sukurdeep et.al.|[2501.03002](http://arxiv.org/abs/2501.03002)|null|
@@ -1603,6 +1605,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**Light Transport-aware Diffusion Posterior Sampling for Single-View Reconstruction of 3D Volumes**|Ludwic Leonard et.al.|[2501.05226](http://arxiv.org/abs/2501.05226)|null|
 |**2025-01-07**|**NeRFs are Mirror Detectors: Using Structural Similarity for Multi-View Mirror Scene Reconstruction with 3D Surface Primitives**|Leif Van Holland et.al.|[2501.04074](http://arxiv.org/abs/2501.04074)|null|
 |**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992](http://arxiv.org/abs/2501.03992)|null|
 |**2025-01-07**|**DehazeGS: Seeing Through Fog with 3D Gaussian Splatting**|Jinze Yu et.al.|[2501.03659](http://arxiv.org/abs/2501.03659)|null|
