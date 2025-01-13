@@ -41,6 +41,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**StructSR: Refuse Spurious Details in Real-World Image Super-Resolution**|Yachao Li et.al.|[2501.05777](http://arxiv.org/abs/2501.05777)|**[link](https://github.com/lycexe/structsr)**|
+|**2025-01-09**|**Bit-depth color recovery via off-the-shelf super-resolution models**|Xuanshuo Fu et.al.|[2501.05611](http://arxiv.org/abs/2501.05611)|null|
 |**2025-01-09**|**Detection of binary companions below the diffraction limit with lucky imaging**|Miguel A. Cagigas et.al.|[2501.05154](http://arxiv.org/abs/2501.05154)|null|
 |**2025-01-09**|**FLowHigh: Towards Efficient and High-Quality Audio Super-Resolution with Single-Step Flow Matching**|Jun-Hak Yun et.al.|[2501.04926](http://arxiv.org/abs/2501.04926)|null|
 |**2025-01-08**|**Physics-Informed Super-Resolution Diffusion for 6D Phase Space Diagnostics**|Alexander Scheinker et.al.|[2501.04305](http://arxiv.org/abs/2501.04305)|null|
@@ -1581,6 +1583,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**UV-Attack: Physical-World Adversarial Attacks for Person Detection via Dynamic-NeRF-based UV Mapping**|Yanjie Li et.al.|[2501.05783](http://arxiv.org/abs/2501.05783)|null|
 |**2025-01-09**|**Light Transport-aware Diffusion Posterior Sampling for Single-View Reconstruction of 3D Volumes**|Ludwic Leonard et.al.|[2501.05226](http://arxiv.org/abs/2501.05226)|null|
 |**2025-01-07**|**NeRFs are Mirror Detectors: Using Structural Similarity for Multi-View Mirror Scene Reconstruction with 3D Surface Primitives**|Leif Van Holland et.al.|[2501.04074](http://arxiv.org/abs/2501.04074)|null|
 |**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992](http://arxiv.org/abs/2501.03992)|null|
