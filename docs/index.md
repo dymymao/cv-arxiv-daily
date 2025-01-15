@@ -41,10 +41,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**Bridge-SR: Schrödinger Bridge for Efficient SR**|Chang Li et.al.|[2501.07897](http://arxiv.org/abs/2501.07897)|null|
+|**2025-01-14**|**State-of-the-Art Transformer Models for Image Super-Resolution: Techniques, Challenges, and Applications**|Debasish Dutta et.al.|[2501.07855](http://arxiv.org/abs/2501.07855)|null|
+|**2025-01-14**|**Advanced representation learning for flow field analysis and reconstruction**|Yikai Wang et.al.|[2501.07835](http://arxiv.org/abs/2501.07835)|null|
+|**2025-01-13**|**C2PD: Continuity-Constrained Pixelwise Deformation for Guided Depth Super-Resolution**|Jiahui Kang et.al.|[2501.07688](http://arxiv.org/abs/2501.07688)|**[link](https://github.com/amhamster/c2pd)**|
 |**2025-01-13**|**Diff-Ensembler: Learning to Ensemble 2D Diffusion Models for Volume-to-Volume Medical Image Translation**|Xiyue Zhu et.al.|[2501.07430](http://arxiv.org/abs/2501.07430)|null|
 |**2025-01-12**|**Super-Resolution of 3D Micro-CT Images Using Generative Adversarial Networks: Enhancing Resolution and Segmentation Accuracy**|Evgeny Ugolkov et.al.|[2501.06939](http://arxiv.org/abs/2501.06939)|**[link](https://github.com/evgenyugolkov/8x_super-resolution)**|
 |**2025-01-12**|**Real-Time Neural-Enhancement for Online Cloud Gaming**|Shan Jiang et.al.|[2501.06880](http://arxiv.org/abs/2501.06880)|null|
-|**2025-01-12**|**Generalized and Efficient 2D Gaussian Splatting for Arbitrary-scale Super-Resolution**|Du Chen et.al.|[2501.06838](http://arxiv.org/abs/2501.06838)|null|
+|**2025-01-14**|**Generalized and Efficient 2D Gaussian Splatting for Arbitrary-scale Super-Resolution**|Du Chen et.al.|[2501.06838](http://arxiv.org/abs/2501.06838)|null|
 |**2025-01-12**|**SuperNeRF-GAN: A Universal 3D-Consistent Super-Resolution Framework for Efficient and Enhanced 3D-Aware Image Synthesis**|Peng Zheng et.al.|[2501.06770](http://arxiv.org/abs/2501.06770)|null|
 |**2025-01-12**|**Multi-Label Scene Classification in Remote Sensing Benefits from Image Super-Resolution**|Ashitha Mudraje et.al.|[2501.06720](http://arxiv.org/abs/2501.06720)|null|
 |**2025-01-10**|**StructSR: Refuse Spurious Details in Real-World Image Super-Resolution**|Yachao Li et.al.|[2501.05777](http://arxiv.org/abs/2501.05777)|**[link](https://github.com/lycexe/structsr)**|
@@ -697,6 +701,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286](http://arxiv.org/abs/2501.08286)|null|
 |**2025-01-13**|**Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps**|Saurabh Gupta et.al.|[2501.07399](http://arxiv.org/abs/2501.07399)|null|
 |**2025-01-12**|**Static Segmentation by Tracking: A Frustratingly Label-Efficient Approach to Fine-Grained Segmentation**|Zhenyang Feng et.al.|[2501.06749](http://arxiv.org/abs/2501.06749)|null|
 |**2025-01-06**|**Integrating Language-Image Prior into EEG Decoding for Cross-Task Zero-Calibration RSVP-BCI**|Xujin Li et.al.|[2501.02841](http://arxiv.org/abs/2501.02841)|null|
@@ -1595,6 +1600,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286](http://arxiv.org/abs/2501.08286)|null|
+|**2025-01-13**|**Evaluating Human Perception of Novel View Synthesis: Subjective Quality Assessment of Gaussian Splatting and NeRF in Dynamic Scenes**|Yuhang Zhang et.al.|[2501.08072](http://arxiv.org/abs/2501.08072)|null|
 |**2025-01-13**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015](http://arxiv.org/abs/2501.07015)|null|
 |**2025-01-12**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng et.al.|[2501.06927](http://arxiv.org/abs/2501.06927)|null|
 |**2025-01-12**|**ActiveGAMER: Active GAussian Mapping through Efficient Rendering**|Liyan Chen et.al.|[2501.06897](http://arxiv.org/abs/2501.06897)|null|
