@@ -41,6 +41,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-28**|**MR imaging in the low-field: Leveraging the power of machine learning**|Andreas Kofler et.al.|[2501.17211](http://arxiv.org/abs/2501.17211)|null|
+|**2025-01-28**|**Depth Separable architecture for Sentinel-5P Super-Resolution**|Hyam Omar Ali et.al.|[2501.17210](http://arxiv.org/abs/2501.17210)|null|
 |**2025-01-27**|**Directing Mamba to Complex Textures: An Efficient Texture-Aware State Space Model for Image Restoration**|Long Peng et.al.|[2501.16583](http://arxiv.org/abs/2501.16583)|null|
 |**2025-01-27**|**Solving Turbulent Rayleigh-Bénard Convection using Fourier Neural Operators**|Michiel Straat et.al.|[2501.16209](http://arxiv.org/abs/2501.16209)|null|
 |**2025-01-27**|**Spatial-Angular Representation Learning for High-Fidelity Continuous Super-Resolution in Diffusion MRI**|Ruoyou Wu et.al.|[2501.16014](http://arxiv.org/abs/2501.16014)|null|
