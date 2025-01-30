@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.29
+## Updated on 2025.01.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## STISR
@@ -45,7 +45,7 @@ layout: default
 |**2025-01-27**|**Solving Turbulent Rayleigh-Bénard Convection using Fourier Neural Operators**|Michiel Straat et.al.|[2501.16209](http://arxiv.org/abs/2501.16209)|null|
 |**2025-01-27**|**Spatial-Angular Representation Learning for High-Fidelity Continuous Super-Resolution in Diffusion MRI**|Ruoyou Wu et.al.|[2501.16014](http://arxiv.org/abs/2501.16014)|null|
 |**2025-01-27**|**Compensation based Dictionary Transfer for Similar Multispectral Image Spectral Super-resolution**|Xiaolin Han et.al.|[2501.15937](http://arxiv.org/abs/2501.15937)|null|
-|**2025-01-27**|**CausalSR: Structural Causal Model-Driven Super-Resolution with Counterfactual Inference**|Zhengyang Lu et.al.|[2501.15852](http://arxiv.org/abs/2501.15852)|null|
+|**2025-01-27**|**CausalSR: Structural Causal Model-Driven Super-Resolution with Counterfactual Inference**|Zhengyang Lu et.al.|[2501.15852](http://arxiv.org/abs/2501.15852)|**[link](https://github.com/Mnster00/CasualSR)**|
 |**2025-01-27**|**Can Location Embeddings Enhance Super-Resolution of Satellite Imagery?**|Daniel Panangian et.al.|[2501.15847](http://arxiv.org/abs/2501.15847)|null|
 |**2025-01-27**|**Efficient Attention-Sharing Information Distillation Transformer for Lightweight Single Image Super-Resolution**|Karam Park et.al.|[2501.15774](http://arxiv.org/abs/2501.15774)|**[link](https://github.com/saturnian77/asid)**|
 |**2025-01-26**|**Dfilled: Repurposing Edge-Enhancing Diffusion for Guided DSM Void Filling**|Daniel Panangian et.al.|[2501.15440](http://arxiv.org/abs/2501.15440)|null|
