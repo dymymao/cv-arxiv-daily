@@ -73,7 +73,7 @@
 |**2025-01-23**|**Funnelling super-resolution STED microscopy through multimode fibres**|André Gomes et.al.|[2501.13572](http://arxiv.org/abs/2501.13572)|null|
 |**2025-01-23**|**Contrast: A Hybrid Architecture of Transformers and State Space Models for Low-Level Vision**|Aman Urumbekov et.al.|[2501.13353](http://arxiv.org/abs/2501.13353)|null|
 |**2025-01-23**|**Gradient-Free Adversarial Purification with Diffusion Models**|Xuelong Dai et.al.|[2501.13336](http://arxiv.org/abs/2501.13336)|null|
-|**2025-01-22**|**On the Use of WGANs for Super Resolution in Dark-Matter Simulations**|John Brennan et.al.|[2501.13056](http://arxiv.org/abs/2501.13056)|null|
+|**2025-01-22**|**On the Use of WGANs for Super Resolution in Dark-Matter Simulations**|John Brennan et.al.|[2501.13056](http://arxiv.org/abs/2501.13056)|**[link](https://github.com/brenjohn/DMSR-WGAN)**|
 |**2025-01-21**|**Analyzer-less X-ray Interferometry with Super-Resolution Methods**|Joyoni Dey et.al.|[2501.12527](http://arxiv.org/abs/2501.12527)|null|
 |**2025-01-19**|**BF-STVSR: B-Splines and Fourier-Best Friends for High Fidelity Spatial-Temporal Video Super-Resolution**|Eunjin Kim et.al.|[2501.11043](http://arxiv.org/abs/2501.11043)|null|
 |**2025-01-18**|**FlashSR: One-step Versatile Audio Super-resolution via Diffusion Distillation**|Jaekwon Im et.al.|[2501.10807](http://arxiv.org/abs/2501.10807)|null|
@@ -659,7 +659,7 @@
 |**2024-09-20**|**Learning Visual Information Utility with PIXER**|Yash Turkar et.al.|[2409.13151](http://arxiv.org/abs/2409.13151)|null|
 |**2024-10-19**|**ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation**|Yanlin Jin et.al.|[2409.11692](http://arxiv.org/abs/2409.11692)|null|
 |**2024-09-14**|**MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry**|Yuheng Qiu et.al.|[2409.09479](http://arxiv.org/abs/2409.09479)|null|
-|**2024-09-14**|**GEVO: Memory-Efficient Monocular Visual Odometry Using Gaussians**|Dasong Gao et.al.|[2409.09295](http://arxiv.org/abs/2409.09295)|null|
+|**2024-09-14**|**GEVO: Memory-Efficient Monocular Visual Odometry Using Gaussians**|Dasong Gao et.al.|[2409.09295](http://arxiv.org/abs/2409.09295)|**[link](https://github.com/mit-lean/gevo)**|
 |**2024-09-14**|**Panoramic Direct LiDAR-assisted Visual Odometry**|Zikang Yuan et.al.|[2409.09287](http://arxiv.org/abs/2409.09287)|**[link](https://github.com/ZikangYuan/panoramic_lidar_dso)**|
 |**2024-09-02**|**Robust Vehicle Localization and Tracking in Rain using Street Maps**|Yu Xiang Tan et.al.|[2409.01038](http://arxiv.org/abs/2409.01038)|**[link](https://gitlab.com/marvl/map-fusion)**|
 |**2024-08-30**|**Efficient Camera Exposure Control for Visual Odometry via Deep Reinforcement Learning**|Shuyang Zhang et.al.|[2408.17005](http://arxiv.org/abs/2408.17005)|**[link](https://github.com/shuyanguni/drl_exposure_ctrl)**|
