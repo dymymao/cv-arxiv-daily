@@ -41,6 +41,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-04**|**One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation**|Jianze Li et.al.|[2502.01993](http://arxiv.org/abs/2502.01993)|null|
+|**2025-02-03**|**Low Resource Video Super-resolution using Memory and Residual Deformable Convolutions**|Kavitha Viswanathan et.al.|[2502.01816](http://arxiv.org/abs/2502.01816)|null|
+|**2025-02-03**|**Inverse Bridge Matching Distillation**|Nikita Gushchin et.al.|[2502.01362](http://arxiv.org/abs/2502.01362)|null|
+|**2025-02-03**|**A Statistical Learning Perspective on Semi-dual Adversarial Neural Optimal Transport Solvers**|Roman Tarasov et.al.|[2502.01310](http://arxiv.org/abs/2502.01310)|null|
+|**2025-02-03**|**Land Surface Temperature Super-Resolution with a Scale-Invariance-Free Neural Approach: Application to MODIS**|Romuald Ait-Bachir et.al.|[2502.01204](http://arxiv.org/abs/2502.01204)|null|
+|**2025-02-02**|**Cosmological super-resolution of the 21-cm signal**|Simon Pochinda et.al.|[2502.00852](http://arxiv.org/abs/2502.00852)|null|
+|**2025-02-01**|**Exploring Linear Attention Alternative for Single Image Super-Resolution**|Rongchang Lu et.al.|[2502.00404](http://arxiv.org/abs/2502.00404)|null|
+|**2025-02-04**|**BiMaCoSR: Binary One-Step Diffusion Model Leveraging Flexible Matrix Compression for Real Super-Resolution**|Kai Liu et.al.|[2502.00333](http://arxiv.org/abs/2502.00333)|null|
 |**2025-01-31**|**Visual Autoregressive Modeling for Image Super-Resolution**|Yunpeng Qu et.al.|[2501.18993](http://arxiv.org/abs/2501.18993)|null|
 |**2025-01-30**|**Distillation-Driven Diffusion Model for Multi-Scale MRI Super-Resolution: Make 1.5T MRI Great Again**|Zhe Wang et.al.|[2501.18736](http://arxiv.org/abs/2501.18736)|null|
 |**2025-01-30**|**Rethinking the Upsampling Layer in Hyperspectral Image Super Resolution**|Haohan Shi et.al.|[2501.18664](http://arxiv.org/abs/2501.18664)|null|
@@ -738,6 +746,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-03**|**ConceptVAE: Self-Supervised Fine-Grained Concept Disentanglement from 2D Echocardiographies**|Costin F. Ciusdel et.al.|[2502.01335](http://arxiv.org/abs/2502.01335)|null|
 |**2025-01-31**|**LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks**|Liudi Yang et.al.|[2501.19382](http://arxiv.org/abs/2501.19382)|**[link](https://github.com/crepuscularlight/semanticloopclosure)**|
 |**2025-01-27**|**Freestyle Sketch-in-the-Loop Image Segmentation**|Subhadeep Koley et.al.|[2501.16022](http://arxiv.org/abs/2501.16022)|null|
 |**2025-01-26**|**Zero-Shot Interactive Text-to-Image Retrieval via Diffusion-Augmented Representations**|Zijun Long et.al.|[2501.15379](http://arxiv.org/abs/2501.15379)|null|
@@ -1557,6 +1566,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-01**|**MambaGlue: Fast and Robust Local Feature Matching With Mamba**|Kihwan Ryoo et.al.|[2502.00462](http://arxiv.org/abs/2502.00462)|null|
 |**2025-01-24**|**Dense-SfM: Structure from Motion with Dense Consistent Matching**|JongMin Lee et.al.|[2501.14277](http://arxiv.org/abs/2501.14277)|null|
 |**2025-01-20**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299](http://arxiv.org/abs/2501.11299)|null|
 |**2025-01-13**|**MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training**|Xingyi He et.al.|[2501.07556](http://arxiv.org/abs/2501.07556)|null|
@@ -1656,6 +1666,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-04**|**MaintaAvatar: A Maintainable Avatar Based on Neural Radiance Fields by Continual Learning**|Shengbo Gu et.al.|[2502.02372](http://arxiv.org/abs/2502.02372)|null|
+|**2025-02-03**|**FourieRF: Few-Shot NeRFs via Progressive Fourier Frequency Control**|Diego Gomez et.al.|[2502.01405](http://arxiv.org/abs/2502.01405)|null|
 |**2025-01-31**|**VoD-3DGS: View-opacity-Dependent 3D Gaussian Splatting**|Mateusz Nowak et.al.|[2501.17978](http://arxiv.org/abs/2501.17978)|null|
 |**2025-01-28**|**LinPrim: Linear Primitives for Differentiable Volumetric Rendering**|Nicolas von Lützow et.al.|[2501.16312](http://arxiv.org/abs/2501.16312)|null|
 |**2025-01-24**|**SyncAnimation: A Real-Time End-to-End Framework for Audio-Driven Human Pose and Talking Head Animation**|Yujian Liu et.al.|[2501.14646](http://arxiv.org/abs/2501.14646)|null|
