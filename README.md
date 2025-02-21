@@ -53,6 +53,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**MambaLiteSR: Image Super-Resolution with Low-Rank Mamba using Knowledge Distillation**|Romina Aalishah et.al.|[2502.14090](http://arxiv.org/abs/2502.14090)|null|
+|**2025-02-18**|**End-to-end pipeline for simultaneous temperature estimation and super resolution of low-cost uncooled infrared camera frames for precision agriculture applications**|Navot Oz et.al.|[2502.13985](http://arxiv.org/abs/2502.13985)|null|
 |**2025-02-19**|**Integrated Sensing and Communication for 6G Holographic Digital Twins**|Haijun Zhang et.al.|[2502.13352](http://arxiv.org/abs/2502.13352)|null|
 |**2025-02-18**|**GVTNet: Graph Vision Transformer For Face Super-Resolution**|Chao Yang et.al.|[2502.12570](http://arxiv.org/abs/2502.12570)|null|
 |**2025-02-18**|**DeltaDiff: A Residual-Guided Diffusion Model for Enhanced Image Super-Resolution**|Chao Yang et.al.|[2502.12567](http://arxiv.org/abs/2502.12567)|null|
@@ -680,7 +682,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-02-19**|**Active Illumination for Visual Ego-Motion Estimation in the Dark**|Francesco Crocetti et.al.|[2502.13708](http://arxiv.org/abs/2502.13708)|null|
-|**2025-02-19**|**pySLAM: An Open-Source, Modular, and Extensible Framework for SLAM**|Luigi Freda et.al.|[2502.11955](http://arxiv.org/abs/2502.11955)|null|
+|**2025-02-19**|**pySLAM: An Open-Source, Modular, and Extensible Framework for SLAM**|Luigi Freda et.al.|[2502.11955](http://arxiv.org/abs/2502.11955)|**[link](https://github.com/luigifreda/pyslam)**|
 |**2025-02-13**|**Vision-based Geo-Localization of Future Mars Rotorcraft in Challenging Illumination Conditions**|Dario Pisanti et.al.|[2502.09795](http://arxiv.org/abs/2502.09795)|null|
 |**2025-02-12**|**LIR-LIVO: A Lightweight,Robust LiDAR/Vision/Inertial Odometry with Illumination-Resilient Deep Features**|Shujie Zhou et.al.|[2502.08676](http://arxiv.org/abs/2502.08676)|**[link](https://github.com/IF-A-CAT/LIR-LIVO)**|
 |**2025-01-23**|**FAST-LIVO2 on Resource-Constrained Platforms: LiDAR-Inertial-Visual Odometry with Efficient Memory and Computation**|Bingyang Zhou et.al.|[2501.13876](http://arxiv.org/abs/2501.13876)|null|
@@ -799,6 +801,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-20**|**Bridging Text and Vision: A Multi-View Text-Vision Registration Approach for Cross-Modal Place Recognition**|Tianyi Shang et.al.|[2502.14195](http://arxiv.org/abs/2502.14195)|**[link](https://github.com/nuozimiaowu/Text4VPR)**|
 |**2025-02-19**|**3D Gaussian Splatting aided Localization for Large and Complex Indoor-Environments**|Vincent Ress et.al.|[2502.13803](http://arxiv.org/abs/2502.13803)|null|
 |**2025-02-18**|**Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**|Shuo Xing et.al.|[2502.13146](http://arxiv.org/abs/2502.13146)|null|
 |**2025-02-19**|**IM360: Textured Mesh Reconstruction for Large-scale Indoor Mapping with 360 $^\circ$ Cameras**|Dongki Jung et.al.|[2502.12545](http://arxiv.org/abs/2502.12545)|null|
@@ -806,7 +809,7 @@
 |**2025-02-17**|**Descriminative-Generative Custom Tokens for Vision-Language Models**|Pramuditha Perera et.al.|[2502.12095](http://arxiv.org/abs/2502.12095)|null|
 |**2025-02-17**|**ILIAS: Instance-Level Image retrieval At Scale**|Giorgos Kordopatis-Zilos et.al.|[2502.11748](http://arxiv.org/abs/2502.11748)|null|
 |**2025-02-17**|**Range and Bird's Eye View Fused Cross-Modal Visual Place Recognition**|Jianyi Peng et.al.|[2502.11742](http://arxiv.org/abs/2502.11742)|null|
-|**2025-02-17**|**Adversarially Robust CLIP Models Can Induce Better (Robust) Perceptual Metrics**|Francesco Croce et.al.|[2502.11725](http://arxiv.org/abs/2502.11725)|null|
+|**2025-02-17**|**Adversarially Robust CLIP Models Can Induce Better (Robust) Perceptual Metrics**|Francesco Croce et.al.|[2502.11725](http://arxiv.org/abs/2502.11725)|**[link](https://github.com/fra31/perceptual-metrics)**|
 |**2025-02-17**|**Precise GPS-Denied UAV Self-Positioning via Context-Enhanced Cross-View Geo-Localization**|Yuanze Xu et.al.|[2502.11408](http://arxiv.org/abs/2502.11408)|null|
 |**2025-02-12**|**E2LVLM:Evidence-Enhanced Large Vision-Language Model for Multimodal Out-of-Context Misinformation Detection**|Junjie Wu et.al.|[2502.10455](http://arxiv.org/abs/2502.10455)|null|
 |**2025-02-11**|**Imit Diff: Semantics Guided Diffusion Transformer with Dual Resolution Fusion for Imitation Learning**|Yuhang Dong et.al.|[2502.09649](http://arxiv.org/abs/2502.09649)|null|
@@ -1647,7 +1650,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-16**|**FeaKM: Robust Collaborative Perception under Noisy Pose Conditions**|Jiuwu Hao et.al.|[2502.11003](http://arxiv.org/abs/2502.11003)|null|
+|**2025-02-16**|**FeaKM: Robust Collaborative Perception under Noisy Pose Conditions**|Jiuwu Hao et.al.|[2502.11003](http://arxiv.org/abs/2502.11003)|**[link](https://github.com/uestchjw/feakm)**|
 |**2025-02-11**|**Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**|Emanuele Mule et.al.|[2502.06288](http://arxiv.org/abs/2502.06288)|**[link](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)**|
 |**2025-02-04**|**Muographic Image Upsampling with Machine Learning for Built Infrastructure Applications**|William O'Donnell et.al.|[2502.02624](http://arxiv.org/abs/2502.02624)|null|
 |**2025-02-01**|**MambaGlue: Fast and Robust Local Feature Matching With Mamba**|Kihwan Ryoo et.al.|[2502.00462](http://arxiv.org/abs/2502.00462)|**[link](https://github.com/url-kaist/mambaglue)**|
@@ -1752,10 +1755,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-20**|**NeRF-3DTalker: Neural Radiance Field with 3D Prior Aided Audio Disentanglement for Talking Head Synthesis**|Xiaoxing Liu et.al.|[2502.14178](http://arxiv.org/abs/2502.14178)|null|
+|**2025-02-19**|**GlossGau: Efficient Inverse Rendering for Glossy Surface with Anisotropic Spherical Gaussian**|Bang Du et.al.|[2502.14129](http://arxiv.org/abs/2502.14129)|null|
 |**2025-02-18**|**Geometry-Aware Diffusion Models for Multiview Scene Inpainting**|Ahmad Salimi et.al.|[2502.13335](http://arxiv.org/abs/2502.13335)|null|
 |**2025-02-18**|**GS-QA: Comprehensive Quality Assessment Benchmark for Gaussian Splatting View Synthesis**|Pedro Martin et.al.|[2502.13196](http://arxiv.org/abs/2502.13196)|null|
 |**2025-02-18**|**ROI-NeRFs: Hi-Fi Visualization of Objects of Interest within a Scene by NeRFs Composition**|Quoc-Anh Bui et.al.|[2502.12673](http://arxiv.org/abs/2502.12673)|null|
-|**2025-02-17**|**HumanGif: Single-View Human Diffusion with Generative Prior**|Shoukang Hu et.al.|[2502.12080](http://arxiv.org/abs/2502.12080)|null|
+|**2025-02-17**|**HumanGif: Single-View Human Diffusion with Generative Prior**|Shoukang Hu et.al.|[2502.12080](http://arxiv.org/abs/2502.12080)|**[link](https://github.com/skhu101/humangif)**|
 |**2025-02-17**|**3D Gaussian Inpainting with Depth-Guided Cross-View Consistency**|Sheng-Yu Huang et.al.|[2502.11801](http://arxiv.org/abs/2502.11801)|null|
 |**2025-02-13**|**Embed Any NeRF: Graph Meta-Networks for Neural Tasks on Arbitrary NeRF Architectures**|Francesco Ballerini et.al.|[2502.09623](http://arxiv.org/abs/2502.09623)|null|
 |**2025-02-13**|**DenseSplat: Densifying Gaussian Splatting SLAM with Neural Radiance Prior**|Mingrui Li et.al.|[2502.09111](http://arxiv.org/abs/2502.09111)|null|
