@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.19
+## Updated on 2025.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## STISR
@@ -44,7 +44,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-18**|**The Power of Context: How Multimodality Improves Image Super-Resolution**|Kangfu Mei et.al.|[2503.14503](http://arxiv.org/abs/2503.14503)|null|
 |**2025-03-18**|**SIR-DIFF: Sparse Image Sets Restoration with Multi-View Diffusion Model**|Yucheng Mao et.al.|[2503.14463](http://arxiv.org/abs/2503.14463)|null|
-|**2025-03-18**|**CTSR: Controllable Fidelity-Realness Trade-off Distillation for Real-World Image Super Resolution**|Runyi Li et.al.|[2503.14272](http://arxiv.org/abs/2503.14272)|null|
+|**2025-03-19**|**CTSR: Controllable Fidelity-Realness Trade-off Distillation for Real-World Image Super Resolution**|Runyi Li et.al.|[2503.14272](http://arxiv.org/abs/2503.14272)|null|
 |**2025-03-17**|**FedVSR: Towards Model-Agnostic Federated Learning in Video Super-Resolution**|Ali Mollaahmadi Dehaghi et.al.|[2503.13745](http://arxiv.org/abs/2503.13745)|null|
 |**2025-03-17**|**C2D-ISR: Optimizing Attention-based Image Super-resolution from Continuous to Discrete Scales**|Yuxuan Jiang et.al.|[2503.13740](http://arxiv.org/abs/2503.13740)|null|
 |**2025-03-17**|**One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation**|Daniil Selikhanovych et.al.|[2503.13358](http://arxiv.org/abs/2503.13358)|null|
