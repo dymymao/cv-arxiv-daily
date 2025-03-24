@@ -65,17 +65,17 @@
 |**2025-03-17**|**FedVSR: Towards Model-Agnostic Federated Learning in Video Super-Resolution**|Ali Mollaahmadi Dehaghi et.al.|[2503.13745](http://arxiv.org/abs/2503.13745)|**[link](https://github.com/alimd94/fedvsr)**|
 |**2025-03-17**|**C2D-ISR: Optimizing Attention-based Image Super-resolution from Continuous to Discrete Scales**|Yuxuan Jiang et.al.|[2503.13740](http://arxiv.org/abs/2503.13740)|null|
 |**2025-03-17**|**One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation**|Daniil Selikhanovych et.al.|[2503.13358](http://arxiv.org/abs/2503.13358)|null|
-|**2025-03-17**|**RainScaleGAN: a Conditional Generative Adversarial Network for Rainfall Downscaling**|Marcello Iotti et.al.|[2503.13316](http://arxiv.org/abs/2503.13316)|null|
+|**2025-03-17**|**RainScaleGAN: a Conditional Generative Adversarial Network for Rainfall Downscaling**|Marcello Iotti et.al.|[2503.13316](http://arxiv.org/abs/2503.13316)|**[link](https://github.com/MclTTI/RainScaleGAN)**|
 |**2025-03-17**|**A super-resolution reconstruction method for lightweight building images based on an expanding feature modulation network**|Yi Zhang et.al.|[2503.13179](http://arxiv.org/abs/2503.13179)|null|
 |**2025-03-17**|**Super-resolution Radial Fluctuations Enables Polarization-resolved Nonlinear Optical Nanoscopy**|MacAulay Harvey et.al.|[2503.13106](http://arxiv.org/abs/2503.13106)|null|
 |**2025-03-18**|**Rethinking Image Evaluation in Super-Resolution**|Shaolin Su et.al.|[2503.13074](http://arxiv.org/abs/2503.13074)|null|
 |**2025-03-16**|**Hyperbolic absolute instruments**|Tao Hou et.al.|[2503.12391](http://arxiv.org/abs/2503.12391)|null|
-|**2025-03-15**|**QDM: Quadtree-Based Region-Adaptive Sparse Diffusion Models for Efficient Image Super-Resolution**|Donglin Yang et.al.|[2503.12015](http://arxiv.org/abs/2503.12015)|null|
+|**2025-03-15**|**QDM: Quadtree-Based Region-Adaptive Sparse Diffusion Models for Efficient Image Super-Resolution**|Donglin Yang et.al.|[2503.12015](http://arxiv.org/abs/2503.12015)|**[link](https://github.com/linYDTHU/QDM)**|
 |**2025-03-14**|**Upcycling Text-to-Image Diffusion Models for Multi-Task Capabilities**|Ruchika Chavhan et.al.|[2503.11905](http://arxiv.org/abs/2503.11905)|null|
-|**2025-03-14**|**ECLARE: Efficient cross-planar learning for anisotropic resolution enhancement**|Samuel W. Remedios et.al.|[2503.11787](http://arxiv.org/abs/2503.11787)|null|
+|**2025-03-14**|**ECLARE: Efficient cross-planar learning for anisotropic resolution enhancement**|Samuel W. Remedios et.al.|[2503.11787](http://arxiv.org/abs/2503.11787)|**[link](https://github.com/sremedios/eclare)**|
 |**2025-03-14**|**ReCamMaster: Camera-Controlled Generative Rendering from A Single Video**|Jianhong Bai et.al.|[2503.11647](http://arxiv.org/abs/2503.11647)|null|
 |**2025-03-14**|**Toward Generalized Image Quality Assessment: Relaxing the Perfect Reference Quality Assumption**|Du Chen et.al.|[2503.11221](http://arxiv.org/abs/2503.11221)|null|
-|**2025-03-14**|**Perceive, Understand and Restore: Real-World Image Super-Resolution with Autoregressive Multimodal Generative Models**|Hongyang Wei et.al.|[2503.11073](http://arxiv.org/abs/2503.11073)|null|
+|**2025-03-14**|**Perceive, Understand and Restore: Real-World Image Super-Resolution with Autoregressive Multimodal Generative Models**|Hongyang Wei et.al.|[2503.11073](http://arxiv.org/abs/2503.11073)|**[link](https://github.com/nonwhy/pure)**|
 |**2025-03-14**|**Fourier Neural Operator based surrogates for $CO_2$ storage in realistic geologies**|Anirban Chandra et.al.|[2503.11031](http://arxiv.org/abs/2503.11031)|null|
 |**2025-03-13**|**Automatic quality control in multi-centric fetal brain MRI super-resolution reconstruction**|Thomas Sanchez et.al.|[2503.10156](http://arxiv.org/abs/2503.10156)|null|
 |**2025-03-13**|**Dual-domain Modulation Network for Lightweight Image Super-Resolution**|Wenjie Li et.al.|[2503.10047](http://arxiv.org/abs/2503.10047)|null|
@@ -89,7 +89,7 @@
 |**2025-03-11**|**Super-resolution of turbulent velocity and scalar fields using different scalar distributions**|Ali Shamooni et.al.|[2503.08834](http://arxiv.org/abs/2503.08834)|null|
 |**2025-03-11**|**QUIET-SR: Quantum Image Enhancement Transformer for Single Image Super-Resolution**|Siddhant Dutta et.al.|[2503.08759](http://arxiv.org/abs/2503.08759)|null|
 |**2025-03-11**|**Feature Alignment with Equivariant Convolutions for Burst Image Super-Resolution**|Xinyi Liu et.al.|[2503.08300](http://arxiv.org/abs/2503.08300)|null|
-|**2025-03-11**|**MegaSR: Mining Customized Semantics and Expressive Guidance for Image Super-Resolution**|Xinrui Li et.al.|[2503.08096](http://arxiv.org/abs/2503.08096)|null|
+|**2025-03-11**|**MegaSR: Mining Customized Semantics and Expressive Guidance for Image Super-Resolution**|Xinrui Li et.al.|[2503.08096](http://arxiv.org/abs/2503.08096)|**[link](https://github.com/striveagain/megasr)**|
 |**2025-03-10**|**Blind Video Super-Resolution based on Implicit Kernels**|Qiang Zhu et.al.|[2503.07856](http://arxiv.org/abs/2503.07856)|null|
 |**2025-03-10**|**AdaptSR: Low-Rank Adaptation for Efficient and Scalable Real-World Super-Resolution**|Cansu Korkmaz et.al.|[2503.07748](http://arxiv.org/abs/2503.07748)|null|
 |**2025-03-11**|**Boosting Diffusion-Based Text Image Super-Resolution Model Towards Generalized Real-World Scenarios**|Chenglu Pan et.al.|[2503.07232](http://arxiv.org/abs/2503.07232)|null|
@@ -2320,7 +2320,7 @@
 |**2024-06-19**|**Freq-Mip-AA : Frequency Mip Representation for Anti-Aliasing Neural Radiance Fields**|Youngin Park et.al.|[2406.13251](http://arxiv.org/abs/2406.13251)|**[link](https://github.com/yi0109/freqmipaa)**|
 |**2024-06-18**|**Sampling 3D Gaussian Scenes in Seconds with Latent Diffusion Models**|Paul Henderson et.al.|[2406.13099](http://arxiv.org/abs/2406.13099)|null|
 |**2024-06-18**|**Head Pose Estimation and 3D Neural Surface Reconstruction via Monocular Camera in situ for Navigation and Safe Insertion into Natural Openings**|Ruijie Tang et.al.|[2406.13048](http://arxiv.org/abs/2406.13048)|null|
-|**2024-06-18**|**Fast Global Localization on Neural Radiance Field**|Mangyu Kong et.al.|[2406.12202](http://arxiv.org/abs/2406.12202)|null|
+|**2024-06-18**|**Fast Global Localization on Neural Radiance Field**|Mangyu Kong et.al.|[2406.12202](http://arxiv.org/abs/2406.12202)|**[link](https://github.com/kmk97/fast-loc-nerf)**|
 |**2024-06-20**|**TutteNet: Injective 3D Deformations by Composition of 2D Mesh Deformations**|Bo Sun et.al.|[2406.12121](http://arxiv.org/abs/2406.12121)|null|
 |**2024-06-17**|**DistillNeRF: Perceiving 3D Scenes from Single-Glance Images by Distilling Neural Fields and Foundation Model Features**|Letian Wang et.al.|[2406.12095](http://arxiv.org/abs/2406.12095)|null|
 |**2024-06-17**|**Uncertainty modeling for fine-tuned implicit functions**|Anna Susmelj et.al.|[2406.12082](http://arxiv.org/abs/2406.12082)|null|
