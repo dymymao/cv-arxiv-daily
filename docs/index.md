@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.25
+## Updated on 2025.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## STISR
@@ -46,7 +46,7 @@ layout: default
 |**2025-03-24**|**Benchmarking Burst Super-Resolution for Polarization Images: Noise Dataset and Analysis**|Inseung Hwang et.al.|[2503.18705](http://arxiv.org/abs/2503.18705)|null|
 |**2025-03-24**|**Leveraging Land Cover Priors for Isoprene Emission Super-Resolution**|Christopher Ummerle et.al.|[2503.18658](http://arxiv.org/abs/2503.18658)|null|
 |**2025-03-24**|**Uncertainty-guided Perturbation for Image Super-Resolution Diffusion Model**|Leheng Zhang et.al.|[2503.18512](http://arxiv.org/abs/2503.18512)|null|
-|**2025-03-24**|**Latent Space Super-Resolution for Higher-Resolution Image Generation with Diffusion Models**|Jinho Jeong et.al.|[2503.18446](http://arxiv.org/abs/2503.18446)|null|
+|**2025-03-25**|**Latent Space Super-Resolution for Higher-Resolution Image Generation with Diffusion Models**|Jinho Jeong et.al.|[2503.18446](http://arxiv.org/abs/2503.18446)|null|
 |**2025-03-23**|**A Two-Stage Rotation-Based Super-Resolution Signature Estimation for Spatial Wideband Systems**|Chandrashekhar Rai et.al.|[2503.18111](http://arxiv.org/abs/2503.18111)|null|
 |**2025-03-22**|**Fractal-IR: A Unified Framework for Efficient and Scalable Image Restoration**|Yawei Li et.al.|[2503.17825](http://arxiv.org/abs/2503.17825)|null|
 |**2025-03-22**|**Hierarchy-Aware and Channel-Adaptive Semantic Communication for Bandwidth-Limited Data Fusion**|Lei Guo et.al.|[2503.17777](http://arxiv.org/abs/2503.17777)|null|
@@ -1906,7 +1906,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-24**|**NexusGS: Sparse View Synthesis with Epipolar Depth Priors in 3D Gaussian Splatting**|Yulong Zheng et.al.|[2503.18794](http://arxiv.org/abs/2503.18794)|null|
-|**2025-03-24**|**LookCloser: Frequency-aware Radiance Field for Tiny-Detail Scene**|Xiaoyu Zhang et.al.|[2503.18513](http://arxiv.org/abs/2503.18513)|null|
+|**2025-03-25**|**LookCloser: Frequency-aware Radiance Field for Tiny-Detail Scene**|Xiaoyu Zhang et.al.|[2503.18513](http://arxiv.org/abs/2503.18513)|null|
 |**2025-03-24**|**NeRFPrior: Learning Neural Radiance Field as a Prior for Indoor Scene Reconstruction**|Wenyuan Zhang et.al.|[2503.18361](http://arxiv.org/abs/2503.18361)|null|
 |**2025-03-23**|**End-to-End Implicit Neural Representations for Classification**|Alexander Gielisse et.al.|[2503.18123](http://arxiv.org/abs/2503.18123)|null|
 |**2025-03-23**|**Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**|Junhao Ge et.al.|[2503.18108](http://arxiv.org/abs/2503.18108)|null|
