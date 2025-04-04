@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.03
+## Updated on 2025.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## STISR
@@ -45,7 +45,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-02**|**ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement**|Runhui Huang et.al.|[2504.01934](http://arxiv.org/abs/2504.01934)|null|
 |**2025-04-02**|**Representing Flow Fields with Divergence-Free Kernels for Reconstruction**|Xingyu Ni et.al.|[2504.01913](http://arxiv.org/abs/2504.01913)|null|
-|**2025-04-02**|**{GSR4B}: Biomass Map Super-Resolution with Sentinel-1/2 Guidance**|Kaan Karaman et.al.|[2504.01722](http://arxiv.org/abs/2504.01722)|**[link](https://github.com/kaankaramanofficial/GSR4B)**|
+|**2025-04-03**|**GSR4B: Biomass Map Super-Resolution with Sentinel-1/2 Guidance**|Kaan Karaman et.al.|[2504.01722](http://arxiv.org/abs/2504.01722)|**[link](https://github.com/kaankaramanofficial/GSR4B)**|
 |**2025-04-02**|**DEPTHOR: Depth Enhancement from a Practical Light-Weight dToF Sensor and RGB Image**|Jijun Xiang et.al.|[2504.01596](http://arxiv.org/abs/2504.01596)|null|
 |**2025-04-01**|**NCAP: Scene Text Image Super-Resolution with Non-CAtegorical Prior**|Dongwoo Park et.al.|[2504.00410](http://arxiv.org/abs/2504.00410)|null|
 |**2025-03-31**|**Enhancing Image Resolution of Solar Magnetograms: A Latent Diffusion Model Approach**|Francesco Pio Ramunno et.al.|[2503.24271](http://arxiv.org/abs/2503.24271)|**[link](https://github.com/fpramunno/ldm_superresolution)**|
