@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.08
+## Updated on 2025.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## STISR
@@ -46,7 +46,7 @@ layout: default
 |**2025-04-07**|**From Specificity to Generality: Revisiting Generalizable Artifacts in Detecting Face Deepfakes**|Long Ma et.al.|[2504.04827](http://arxiv.org/abs/2504.04827)|null|
 |**2025-04-06**|**Atomic Localization Fluorescent Microscopy**|Yuqin Duan et.al.|[2504.04611](http://arxiv.org/abs/2504.04611)|null|
 |**2025-04-06**|**GAMBAS: Generalised-Hilbert Mamba for Super-resolution of Paediatric Ultra-Low-Field MRI**|Levente Baljer et.al.|[2504.04523](http://arxiv.org/abs/2504.04523)|null|
-|**2025-04-06**|**Super-Resolution Coherent Diffractive Imaging via Titled-Incidence Multi-Rotation-Angle Fusion Ptychography**|Zhou Youyang et.al.|[2504.04401](http://arxiv.org/abs/2504.04401)|null|
+|**2025-04-08**|**Super-Resolution Coherent Diffractive Imaging via Titled-Incidence Multi-Rotation-Angle Fusion Ptychography**|Zhou Youyang et.al.|[2504.04401](http://arxiv.org/abs/2504.04401)|null|
 |**2025-04-06**|**DSSR-Net for Super-Resolution Radar Range Profiles**|Ziwen Wang et.al.|[2504.04358](http://arxiv.org/abs/2504.04358)|null|
 |**2025-04-04**|**BUFF: Bayesian Uncertainty Guided Diffusion Probabilistic Model for Single Image Super-Resolution**|Zihao He et.al.|[2504.03490](http://arxiv.org/abs/2504.03490)|null|
 |**2025-04-07**|**MIMRS: A Survey on Masked Image Modeling in Remote Sensing**|Shabnam Choudhury et.al.|[2504.03181](http://arxiv.org/abs/2504.03181)|null|
