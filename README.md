@@ -57,7 +57,7 @@
 |---|---|---|---|---|
 |**2025-04-10**|**PIDSR:ComplementaryPolarizedImageDemosaicingandSuper-Resolution**|Shuangfan Zhou et.al.|[2504.07758](http://arxiv.org/abs/2504.07758)|null|
 |**2025-04-10**|**Event Signal Filtering via Probability Flux Estimation**|Jinze Chen et.al.|[2504.07503](http://arxiv.org/abs/2504.07503)|null|
-|**2025-04-09**|**MoEDiff-SR: Mixture of Experts-Guided Diffusion Model for Region-Adaptive MRI Super-Resolution**|Zhe Wang et.al.|[2504.07308](http://arxiv.org/abs/2504.07308)|null|
+|**2025-04-09**|**MoEDiff-SR: Mixture of Experts-Guided Diffusion Model for Region-Adaptive MRI Super-Resolution**|Zhe Wang et.al.|[2504.07308](http://arxiv.org/abs/2504.07308)|**[link](https://github.com/zwang78/moediff-sr)**|
 |**2025-04-09**|**Crafting Query-Aware Selective Attention for Single Image Super-Resolution**|Junyoung Kim et.al.|[2504.06634](http://arxiv.org/abs/2504.06634)|null|
 |**2025-04-07**|**Diffusion-based Models for Unpaired Super-resolution in Fluid Dynamics**|Wuzhe Xu et.al.|[2504.05443](http://arxiv.org/abs/2504.05443)|null|
 |**2025-04-07**|**Time-adaptive Video Frame Interpolation based on Residual Diffusion**|Victor Fonte Chavez et.al.|[2504.05402](http://arxiv.org/abs/2504.05402)|null|
@@ -1881,7 +1881,7 @@
 |---|---|---|---|---|
 |**2025-04-09**|**Image registration of 2D optical thin sections in a 3D porous medium: Application to a Berea sandstone digital rock image**|Jaehong Chung et.al.|[2504.06604](http://arxiv.org/abs/2504.06604)|null|
 |**2025-04-08**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|null|
-|**2025-04-10**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun et.al.|[2504.04834](http://arxiv.org/abs/2504.04834)|null|
+|**2025-04-10**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun et.al.|[2504.04834](http://arxiv.org/abs/2504.04834)|**[link](https://github.com/stilcrad/denseaffine)**|
 |**2025-04-01**|**Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data**|Yiqun Duan et.al.|[2504.00812](http://arxiv.org/abs/2504.00812)|null|
 |**2025-03-31**|**CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching**|Zizhuo Li et.al.|[2503.23925](http://arxiv.org/abs/2503.23925)|null|
 |**2025-03-28**|**Pairwise Matching of Intermediate Representations for Fine-grained Explainability**|Lauren Shrack et.al.|[2503.22881](http://arxiv.org/abs/2503.22881)|**[link](https://github.com/pairx-explains/pairx)**|
