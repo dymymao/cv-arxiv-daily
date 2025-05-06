@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.05
+## Updated on 2025.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## STISR
@@ -52,7 +52,7 @@ layout: default
 |**2025-04-30**|**SR-NeRV: Improving Embedding Efficiency of Neural Video Representation via Super-Resolution**|Taiga Hayami et.al.|[2505.00046](http://arxiv.org/abs/2505.00046)|null|
 |**2025-04-30**|**Zero-Shot Super-Resolution from Unstructured Data Using a Transformer-Based Neural Operator for Urban Micrometeorology**|Yuki Yasuda et.al.|[2504.21361](http://arxiv.org/abs/2504.21361)|null|
 |**2025-04-29**|**FourierSpecNet: Neural Collision Operator Approximation Inspired by the Fourier Spectral Method for Solving the Boltzmann Equation**|Jae Yong Lee et.al.|[2504.20408](http://arxiv.org/abs/2504.20408)|null|
-|**2025-04-27**|**Super-resolution Wideband Beam Training for Near-field Communications with Ultra-low Overhead**|Cong Zhou et.al.|[2504.19262](http://arxiv.org/abs/2504.19262)|null|
+|**2025-05-02**|**Super-resolution Wideband Beam Training for Near-field Communications with Ultra-low Overhead**|Cong Zhou et.al.|[2504.19262](http://arxiv.org/abs/2504.19262)|null|
 |**2025-04-26**|**QFGN: A Quantum Approach to High-Fidelity Implicit Neural Representations**|Hongni Jin et.al.|[2504.19053](http://arxiv.org/abs/2504.19053)|null|
 |**2025-04-26**|**Predicting Stress in Two-phase Random Materials and Super-Resolution Method for Stress Images by Embedding Physical Information**|Tengfei Xing et.al.|[2504.18854](http://arxiv.org/abs/2504.18854)|null|
 |**2025-04-26**|**Frequency-Integrated Transformer for Arbitrary-Scale Super-Resolution**|Xufei Wang et.al.|[2504.18818](http://arxiv.org/abs/2504.18818)|null|
