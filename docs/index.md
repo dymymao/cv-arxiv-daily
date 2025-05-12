@@ -53,13 +53,13 @@ layout: default
 |**2025-05-06**|**USF Spectral Estimation: Prevalence of Gaussian Cramér-Rao Bounds Despite Modulo Folding**|Ruiming Guo et.al.|[2505.03098](http://arxiv.org/abs/2505.03098)|null|
 |**2025-05-08**|**Advances in Automated Fetal Brain MRI Segmentation and Biometry: Insights from the FeTA 2024 Challenge**|Vladyslav Zalevskyi et.al.|[2505.02784](http://arxiv.org/abs/2505.02784)|null|
 |**2025-05-05**|**MSFNet-CPD: Multi-Scale Cross-Modal Fusion Network for Crop Pest Detection**|Jiaqi Zhang et.al.|[2505.02441](http://arxiv.org/abs/2505.02441)|**[link](https://github.com/healer-ml/msfnet-cpd)**|
-|**2025-05-04**|**Small Clips, Big Gains: Learning Long-Range Refocused Temporal Information for Video Super-Resolution**|Xingyu Zhou et.al.|[2505.02159](http://arxiv.org/abs/2505.02159)|null|
+|**2025-05-04**|**Small Clips, Big Gains: Learning Long-Range Refocused Temporal Information for Video Super-Resolution**|Xingyu Zhou et.al.|[2505.02159](http://arxiv.org/abs/2505.02159)|**[link](https://github.com/labshuhanggu/lrti-vsr)**|
 |**2025-05-04**|**Unaligned RGB Guided Hyperspectral Image Super-Resolution with Spatial-Spectral Concordance**|Yingkai Zhang et.al.|[2505.02109](http://arxiv.org/abs/2505.02109)|null|
 |**2025-05-04**|**Enhancing Lidar Point Cloud Sampling via Colorization and Super-Resolution of Lidar Imagery**|Sier Ha et.al.|[2505.02049](http://arxiv.org/abs/2505.02049)|null|
 |**2025-05-02**|**One Target, Many Views: Multi-User Fusion for Collaborative Uplink ISAC**|Sajad Daei et.al.|[2505.01223](http://arxiv.org/abs/2505.01223)|null|
 |**2025-05-02**|**Phase-shifting structured illumination with polarization-encoded metasurface**|Linzhi Yu et.al.|[2505.01051](http://arxiv.org/abs/2505.01051)|null|
 |**2025-05-01**|**GuideSR: Rethinking Guidance for One-Step High-Fidelity Diffusion-Based Super-Resolution**|Aditya Arora et.al.|[2505.00687](http://arxiv.org/abs/2505.00687)|null|
-|**2025-05-01**|**Towards Lightweight Hyperspectral Image Super-Resolution with Depthwise Separable Dilated Convolutional Network**|Usman Muhammad et.al.|[2505.00374](http://arxiv.org/abs/2505.00374)|null|
+|**2025-05-01**|**Towards Lightweight Hyperspectral Image Super-Resolution with Depthwise Separable Dilated Convolutional Network**|Usman Muhammad et.al.|[2505.00374](http://arxiv.org/abs/2505.00374)|**[link](https://github.com/usman1021/lightweight)**|
 |**2025-05-01**|**Efficient Neural Video Representation with Temporally Coherent Modulation**|Seungjun Shin et.al.|[2505.00335](http://arxiv.org/abs/2505.00335)|null|
 |**2025-05-01**|**Quaternion Wavelet-Conditioned Diffusion Models for Image Super-Resolution**|Luigi Sigillo et.al.|[2505.00334](http://arxiv.org/abs/2505.00334)|null|
 |**2025-04-30**|**SR-NeRV: Improving Embedding Efficiency of Neural Video Representation via Super-Resolution**|Taiga Hayami et.al.|[2505.00046](http://arxiv.org/abs/2505.00046)|null|
@@ -103,7 +103,7 @@ layout: default
 |**2025-04-14**|**Global and Local Mamba Network for Multi-Modality Medical Image Super-Resolution**|Zexin Ji et.al.|[2504.10105](http://arxiv.org/abs/2504.10105)|null|
 |**2025-04-14**|**Enhanced Semantic Extraction and Guidance for UGC Image Super Resolution**|Yiwen Wang et.al.|[2504.09887](http://arxiv.org/abs/2504.09887)|**[link](https://github.com/moonsofang/ntire-2025-srlab)**|
 |**2025-04-10**|**ContrastiveGaussian: High-Fidelity 3D Generation with Contrastive Learning and Gaussian Splatting**|Junbang Liu et.al.|[2504.08100](http://arxiv.org/abs/2504.08100)|**[link](https://github.com/yanllan-ljb/contrastivegaussian)**|
-|**2025-04-10**|**PIDSR:ComplementaryPolarizedImageDemosaicingandSuper-Resolution**|Shuangfan Zhou et.al.|[2504.07758](http://arxiv.org/abs/2504.07758)|null|
+|**2025-04-10**|**PIDSR:ComplementaryPolarizedImageDemosaicingandSuper-Resolution**|Shuangfan Zhou et.al.|[2504.07758](http://arxiv.org/abs/2504.07758)|**[link](https://github.com/pris-cv/pidsr)**|
 |**2025-04-10**|**Event Signal Filtering via Probability Flux Estimation**|Jinze Chen et.al.|[2504.07503](http://arxiv.org/abs/2504.07503)|null|
 |**2025-04-09**|**MoEDiff-SR: Mixture of Experts-Guided Diffusion Model for Region-Adaptive MRI Super-Resolution**|Zhe Wang et.al.|[2504.07308](http://arxiv.org/abs/2504.07308)|**[link](https://github.com/zwang78/moediff-sr)**|
 |**2025-04-09**|**Crafting Query-Aware Selective Attention for Single Image Super-Resolution**|Junyoung Kim et.al.|[2504.06634](http://arxiv.org/abs/2504.06634)|null|
@@ -247,7 +247,7 @@ layout: default
 |**2025-02-14**|**AffectSRNet : Facial Emotion-Aware Super-Resolution Network**|Syed Sameen Ahmad Rizvi et.al.|[2502.09932](http://arxiv.org/abs/2502.09932)|null|
 |**2025-02-13**|**Noise Controlled CT Super-Resolution with Conditional Diffusion Model**|Yuang Wang et.al.|[2502.09793](http://arxiv.org/abs/2502.09793)|null|
 |**2025-02-12**|**Image Super-Resolution with Guarantees via Conformal Generative Models**|Eduardo Adame et.al.|[2502.09664](http://arxiv.org/abs/2502.09664)|null|
-|**2025-02-12**|**Heterogeneous Mixture of Experts for Remote Sensing Image Super-Resolution**|Bowen Chen et.al.|[2502.09654](http://arxiv.org/abs/2502.09654)|null|
+|**2025-02-12**|**Heterogeneous Mixture of Experts for Remote Sensing Image Super-Resolution**|Bowen Chen et.al.|[2502.09654](http://arxiv.org/abs/2502.09654)|**[link](https://github.com/mr-bamboo/mfg-hmoe)**|
 |**2025-02-13**|**NextGenPB: an analytically-enabled super resolution and local (de)refinement Poisson-Boltzmann Equation solver**|Vincenzo Di Florio et.al.|[2502.09323](http://arxiv.org/abs/2502.09323)|null|
 |**2025-02-12**|**Deep EEG Super-Resolution: Upsampling EEG Spatial Resolution with Generative Adversarial Networks**|Isaac Corley et.al.|[2502.08803](http://arxiv.org/abs/2502.08803)|null|
 |**2025-02-12**|**Rapid Whole Brain Mesoscale In-vivo MR Imaging using Multi-scale Implicit Neural Representation**|Jun Lyu et.al.|[2502.08634](http://arxiv.org/abs/2502.08634)|null|
@@ -477,7 +477,7 @@ layout: default
 |**2024-10-27**|**Guidance Disentanglement Network for Optics-Guided Thermal UAV Image Super-Resolution**|Zhicheng Zhao et.al.|[2410.20466](http://arxiv.org/abs/2410.20466)|**[link](https://github.com/jocelyney/gdnet)**|
 |**2024-10-26**|**Super-resolved virtual staining of label-free tissue using diffusion models**|Yijie Zhang et.al.|[2410.20073](http://arxiv.org/abs/2410.20073)|null|
 |**2024-10-25**|**A Flow-based Truncated Denoising Diffusion Model for Super-resolution Magnetic Resonance Spectroscopic Imaging**|Siyuan Dong et.al.|[2410.19288](http://arxiv.org/abs/2410.19288)|null|
-|**2024-10-24**|**A Spectral-based Physics-informed Finite Operator Learning for Prediction of Mechanical Behavior of Microstructures**|Ali Harandi et.al.|[2410.19027](http://arxiv.org/abs/2410.19027)|null|
+|**2024-10-24**|**A Spectral-based Physics-informed Finite Operator Learning for Prediction of Mechanical Behavior of Microstructures**|Ali Harandi et.al.|[2410.19027](http://arxiv.org/abs/2410.19027)|**[link](https://github.com/Harandi-Ali/SPiFOL)**|
 |**2024-10-25**|**Transferring Knowledge from High-Quality to Low-Quality MRI for Adult Glioma Diagnosis**|Yanguang Zhao et.al.|[2410.18698](http://arxiv.org/abs/2410.18698)|null|
 |**2024-10-24**|**Hyperspectral Spatial Super-Resolution using Keystone Error**|Ankur Garg et.al.|[2410.18691](http://arxiv.org/abs/2410.18691)|null|
 |**2024-10-24**|**Advancements in Image Resolution: Super-Resolution Algorithm for Enhanced EOS-06 OCM-3 Data**|Ankur Garg et.al.|[2410.18690](http://arxiv.org/abs/2410.18690)|null|
@@ -2109,16 +2109,16 @@ layout: default
 |**2025-04-29**|**IM-Portrait: Learning 3D-aware Video Diffusion for Photorealistic Talking Heads from Monocular Videos**|Yuan Li et.al.|[2504.19165](http://arxiv.org/abs/2504.19165)|null|
 |**2025-04-28**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468](http://arxiv.org/abs/2504.18468)|null|
 |**2025-04-23**|**Visibility-Uncertainty-guided 3D Gaussian Inpainting via Scene Conceptional Learning**|Mingxuan Cui et.al.|[2504.17815](http://arxiv.org/abs/2504.17815)|**[link](https://github.com/Aswhalefall/VISTA)**|
-|**2025-04-24**|**CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos**|Shucheng Gong et.al.|[2504.17728](http://arxiv.org/abs/2504.17728)|null|
+|**2025-04-24**|**CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos**|Shucheng Gong et.al.|[2504.17728](http://arxiv.org/abs/2504.17728)|**[link](https://github.com/wu-cvgl/casualhdrsplat)**|
 |**2025-04-23**|**Dual-Camera All-in-Focus Neural Radiance Fields**|Xianrui Luo et.al.|[2504.16636](http://arxiv.org/abs/2504.16636)|null|
 |**2025-04-23**|**Beyond Anonymization: Object Scrubbing for Privacy-Preserving 2D and 3D Vision Tasks**|Murat Bilgehan Ertan et.al.|[2504.16557](http://arxiv.org/abs/2504.16557)|null|
-|**2025-04-23**|**SaENeRF: Suppressing Artifacts in Event-based Neural Radiance Fields**|Yuanjian Wang et.al.|[2504.16389](http://arxiv.org/abs/2504.16389)|null|
+|**2025-04-23**|**SaENeRF: Suppressing Artifacts in Event-based Neural Radiance Fields**|Yuanjian Wang et.al.|[2504.16389](http://arxiv.org/abs/2504.16389)|**[link](https://github.com/mr-firework/saenerf)**|
 |**2025-04-22**|**Pose Optimization for Autonomous Driving Datasets using Neural Rendering Models**|Quentin Herau et.al.|[2504.15776](http://arxiv.org/abs/2504.15776)|null|
 |**2025-04-21**|**StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**|Cailin Zhuang et.al.|[2504.15281](http://arxiv.org/abs/2504.15281)|null|
 |**2025-04-18**|**Scaling LLaNA: Advancing NeRF-Language Understanding Through Large-Scale Training**|Andrea Amaduzzi et.al.|[2504.13995](http://arxiv.org/abs/2504.13995)|null|
 |**2025-04-21**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713](http://arxiv.org/abs/2504.13713)|**[link](https://github.com/samuel-cerezo/SLAM-Render)**|
 |**2025-04-16**|**BEV-GS: Feed-forward Gaussian Splatting in Bird's-Eye-View for Road Reconstruction**|Wenhua Wu et.al.|[2504.13207](http://arxiv.org/abs/2504.13207)|null|
-|**2025-04-17**|**GSAC: Leveraging Gaussian Splatting for Photorealistic Avatar Creation with Unity Integration**|Rendong Zhang et.al.|[2504.12999](http://arxiv.org/abs/2504.12999)|null|
+|**2025-04-17**|**GSAC: Leveraging Gaussian Splatting for Photorealistic Avatar Creation with Unity Integration**|Rendong Zhang et.al.|[2504.12999](http://arxiv.org/abs/2504.12999)|**[link](https://github.com/VU-RASL/GSAC)**|
 |**2025-04-16**|**R-Meshfusion: Reinforcement Learning Powered Sparse-View Mesh Reconstruction with Diffusion Priors**|Haoyang Wang et.al.|[2504.11946](http://arxiv.org/abs/2504.11946)|null|
 |**2025-04-19**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331](http://arxiv.org/abs/2504.10331)|null|
 |**2025-04-14**|**MCBlock: Boosting Neural Radiance Field Training Speed by MCTS-based Dynamic-Resolution Ray Sampling**|Yunpeng Tan et.al.|[2504.09878](http://arxiv.org/abs/2504.09878)|null|
