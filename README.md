@@ -69,13 +69,13 @@
 |**2025-05-11**|**Joint Low-level and High-level Textual Representation Learning with Multiple Masking Strategies**|Zhengmi Tang et.al.|[2505.06855](http://arxiv.org/abs/2505.06855)|null|
 |**2025-05-10**|**PC-SRGAN: Physically Consistent Super-Resolution Generative Adversarial Network for General Transient Simulations**|Md Rakibul Hasan et.al.|[2505.06502](http://arxiv.org/abs/2505.06502)|null|
 |**2025-05-10**|**Phase-based stimulated emission depletion (pSTED) magnetic particle imaging**|Guang Jia et.al.|[2505.06490](http://arxiv.org/abs/2505.06490)|null|
-|**2025-05-10**|**Climate in a Bottle: Towards a Generative Foundation Model for the Kilometer-Scale Global Atmosphere**|Noah D. Brenowitz et.al.|[2505.06474](http://arxiv.org/abs/2505.06474)|null|
-|**2025-05-09**|**Toward Advancing License Plate Super-Resolution in Real-World Scenarios: A Dataset and Benchmark**|Valfride Nascimento et.al.|[2505.06393](http://arxiv.org/abs/2505.06393)|null|
+|**2025-05-10**|**Climate in a Bottle: Towards a Generative Foundation Model for the Kilometer-Scale Global Atmosphere**|Noah D. Brenowitz et.al.|[2505.06474](http://arxiv.org/abs/2505.06474)|**[link](https://github.com/NVlabs/cBottle)**|
+|**2025-05-09**|**Toward Advancing License Plate Super-Resolution in Real-World Scenarios: A Dataset and Benchmark**|Valfride Nascimento et.al.|[2505.06393](http://arxiv.org/abs/2505.06393)|**[link](https://github.com/valfride/lpsrgan)**|
 |**2025-05-09**|**Decoupling Multi-Contrast Super-Resolution: Pairing Unpaired Synthesis with Implicit Representations**|Hongyu Rui et.al.|[2505.05855](http://arxiv.org/abs/2505.05855)|null|
 |**2025-05-07**|**StereoINR: Cross-View Geometry Consistent Stereo Super Resolution with Implicit Neural Representation**|Yi Liu et.al.|[2505.05509](http://arxiv.org/abs/2505.05509)|null|
 |**2025-05-08**|**Joint Super-Resolution and Segmentation for 1-m Impervious Surface Area Mapping in China's Yangtze River Economic Belt**|Jie Deng et.al.|[2505.05367](http://arxiv.org/abs/2505.05367)|null|
 |**2025-05-08**|**EAM: Enhancing Anything with Diffusion Transformers for Blind Super-Resolution**|Haizhen Xie et.al.|[2505.05209](http://arxiv.org/abs/2505.05209)|null|
-|**2025-05-07**|**EvEnhancer: Empowering Effectiveness, Efficiency and Generalizability for Continuous Space-Time Video Super-Resolution with Events**|Shuoyan Wei et.al.|[2505.04657](http://arxiv.org/abs/2505.04657)|null|
+|**2025-05-07**|**EvEnhancer: Empowering Effectiveness, Efficiency and Generalizability for Continuous Space-Time Video Super-Resolution with Events**|Shuoyan Wei et.al.|[2505.04657](http://arxiv.org/abs/2505.04657)|**[link](https://github.com/w-shuoyan/evenhancer)**|
 |**2025-05-07**|**Frequency super-resolution with quantum environment engineering in a weakly coupled nuclear-spin system**|Tianzi Wang et.al.|[2505.04090](http://arxiv.org/abs/2505.04090)|null|
 |**2025-05-06**|**Deep Learning Framework for Infrastructure Maintenance: Crack Detection and High-Resolution Imaging of Infrastructure Surfaces**|Nikhil M. Pawar et.al.|[2505.03974](http://arxiv.org/abs/2505.03974)|null|
 |**2025-05-06**|**Optimization of Module Transferability in Single Image Super-Resolution: Universality Assessment and Cycle Residual Blocks**|Haotong Cheng et.al.|[2505.03522](http://arxiv.org/abs/2505.03522)|null|
@@ -93,13 +93,13 @@
 |**2025-05-01**|**Efficient Neural Video Representation with Temporally Coherent Modulation**|Seungjun Shin et.al.|[2505.00335](http://arxiv.org/abs/2505.00335)|null|
 |**2025-05-01**|**Quaternion Wavelet-Conditioned Diffusion Models for Image Super-Resolution**|Luigi Sigillo et.al.|[2505.00334](http://arxiv.org/abs/2505.00334)|null|
 |**2025-04-30**|**SR-NeRV: Improving Embedding Efficiency of Neural Video Representation via Super-Resolution**|Taiga Hayami et.al.|[2505.00046](http://arxiv.org/abs/2505.00046)|null|
-|**2025-04-30**|**Zero-Shot Super-Resolution from Unstructured Data Using a Transformer-Based Neural Operator for Urban Micrometeorology**|Yuki Yasuda et.al.|[2504.21361](http://arxiv.org/abs/2504.21361)|null|
+|**2025-04-30**|**Zero-Shot Super-Resolution from Unstructured Data Using a Transformer-Based Neural Operator for Urban Micrometeorology**|Yuki Yasuda et.al.|[2504.21361](http://arxiv.org/abs/2504.21361)|**[link](https://github.com/YukiYasuda2718/zero-shot-sr-urban-mm)**|
 |**2025-04-29**|**FourierSpecNet: Neural Collision Operator Approximation Inspired by the Fourier Spectral Method for Solving the Boltzmann Equation**|Jae Yong Lee et.al.|[2504.20408](http://arxiv.org/abs/2504.20408)|null|
 |**2025-05-02**|**Super-resolution Wideband Beam Training for Near-field Communications with Ultra-low Overhead**|Cong Zhou et.al.|[2504.19262](http://arxiv.org/abs/2504.19262)|null|
 |**2025-04-26**|**QFGN: A Quantum Approach to High-Fidelity Implicit Neural Representations**|Hongni Jin et.al.|[2504.19053](http://arxiv.org/abs/2504.19053)|null|
 |**2025-04-26**|**Predicting Stress in Two-phase Random Materials and Super-Resolution Method for Stress Images by Embedding Physical Information**|Tengfei Xing et.al.|[2504.18854](http://arxiv.org/abs/2504.18854)|null|
 |**2025-04-26**|**Frequency-Integrated Transformer for Arbitrary-Scale Super-Resolution**|Xufei Wang et.al.|[2504.18818](http://arxiv.org/abs/2504.18818)|null|
-|**2025-04-24**|**Geometry aware inference of steady state PDEs using Equivariant Neural Fields representations**|Giovanni Catalani et.al.|[2504.18591](http://arxiv.org/abs/2504.18591)|null|
+|**2025-04-24**|**Geometry aware inference of steady state PDEs using Equivariant Neural Fields representations**|Giovanni Catalani et.al.|[2504.18591](http://arxiv.org/abs/2504.18591)|**[link](https://github.com/giovannicatalani/enf2enf)**|
 |**2025-04-25**|**Augmenting Perceptual Super-Resolution via Image Quality Predictors**|Fengjia Zhang et.al.|[2504.18524](http://arxiv.org/abs/2504.18524)|null|
 |**2025-04-25**|**Salient Region-Guided Spacecraft Image Arbitrary-Scale Super-Resolution Network**|Jingfan Yang et.al.|[2504.18127](http://arxiv.org/abs/2504.18127)|null|
 |**2025-04-25**|**HOSVD-SR: A Physics-Based Deep Learning Framework for Super-Resolution in Fluid Dynamics**|Guillermo Barragán et.al.|[2504.17994](http://arxiv.org/abs/2504.17994)|null|
@@ -208,7 +208,7 @@
 |**2025-03-14**|**Toward Generalized Image Quality Assessment: Relaxing the Perfect Reference Quality Assumption**|Du Chen et.al.|[2503.11221](http://arxiv.org/abs/2503.11221)|null|
 |**2025-03-14**|**Perceive, Understand and Restore: Real-World Image Super-Resolution with Autoregressive Multimodal Generative Models**|Hongyang Wei et.al.|[2503.11073](http://arxiv.org/abs/2503.11073)|**[link](https://github.com/nonwhy/pure)**|
 |**2025-03-14**|**Fourier Neural Operator based surrogates for $CO_2$ storage in realistic geologies**|Anirban Chandra et.al.|[2503.11031](http://arxiv.org/abs/2503.11031)|null|
-|**2025-03-13**|**Automatic quality control in multi-centric fetal brain MRI super-resolution reconstruction**|Thomas Sanchez et.al.|[2503.10156](http://arxiv.org/abs/2503.10156)|null|
+|**2025-03-13**|**Automatic quality control in multi-centric fetal brain MRI super-resolution reconstruction**|Thomas Sanchez et.al.|[2503.10156](http://arxiv.org/abs/2503.10156)|**[link](https://github.com/medical-image-analysis-laboratory/fetmrqc_sr)**|
 |**2025-03-13**|**Dual-domain Modulation Network for Lightweight Image Super-Resolution**|Wenjie Li et.al.|[2503.10047](http://arxiv.org/abs/2503.10047)|null|
 |**2025-03-13**|**FourierSR: A Fourier Token-based Plugin for Efficient Image Super-Resolution**|Wenjie Li et.al.|[2503.10043](http://arxiv.org/abs/2503.10043)|null|
 |**2025-03-12**|**Resolution Invariant Autoencoder**|Ashay Patel et.al.|[2503.09828](http://arxiv.org/abs/2503.09828)|null|
@@ -2156,7 +2156,7 @@
 |**2025-05-03**|**Unified Steganography via Implicit Neural Representation**|Qi Song et.al.|[2505.01749](http://arxiv.org/abs/2505.01749)|null|
 |**2025-04-30**|**A Survey on 3D Reconstruction Techniques in Plant Phenotyping: From Classical Methods to Neural Radiance Fields (NeRF), 3D Gaussian Splatting (3DGS), and Beyond**|Jiajia Li et.al.|[2505.00737](http://arxiv.org/abs/2505.00737)|null|
 |**2025-05-01**|**Cues3D: Unleashing the Power of Sole NeRF for Consistent and Unique Instances in Open-Vocabulary 3D Panoptic Segmentation**|Feng Xue et.al.|[2505.00378](http://arxiv.org/abs/2505.00378)|null|
-|**2025-04-29**|**GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction**|Yuhan Xie et.al.|[2504.21067](http://arxiv.org/abs/2504.21067)|null|
+|**2025-04-29**|**GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction**|Yuhan Xie et.al.|[2504.21067](http://arxiv.org/abs/2504.21067)|**[link](https://github.com/JohannaXie/GauSS-MI)**|
 |**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496](http://arxiv.org/abs/2504.20496)|null|
 |**2025-05-01**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379](http://arxiv.org/abs/2504.20379)|null|
 |**2025-04-29**|**Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views**|Jiang Wu et.al.|[2504.20378](http://arxiv.org/abs/2504.20378)|null|
