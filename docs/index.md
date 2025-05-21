@@ -43,6 +43,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank**|Tianhe Wu et.al.|[2505.14460](http://arxiv.org/abs/2505.14460)|null|
+|**2025-05-20**|**Hunyuan-Game: Industrial-grade Intelligent Game Creation Model**|Ruihuang Li et.al.|[2505.14135](http://arxiv.org/abs/2505.14135)|null|
+|**2025-05-20**|**Every Pixel Tells a Story: End-to-End Urdu Newspaper OCR**|Samee Arif et.al.|[2505.13943](http://arxiv.org/abs/2505.13943)|null|
+|**2025-05-20**|**Blind Restoration of High-Resolution Ultrasound Video**|Chu Chen et.al.|[2505.13915](http://arxiv.org/abs/2505.13915)|null|
 |**2025-05-19**|**Calibration-free single-frame super-resolution fluorescence microscopy**|Anežka Dostálová et.al.|[2505.13293](http://arxiv.org/abs/2505.13293)|null|
 |**2025-05-19**|**Enhancing Diffusion-Weighted Images (DWI) for Diffusion MRI: Is it Enough without Non-Diffusion-Weighted B=0 Reference?**|Yinzhe Wu et.al.|[2505.12978](http://arxiv.org/abs/2505.12978)|null|
 |**2025-05-18**|**CLIP-aware Domain-Adaptive Super-Resolution**|Zhengyang Lu et.al.|[2505.12391](http://arxiv.org/abs/2505.12391)|null|
@@ -1027,6 +1031,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models**|Kiarash Naghavi Khanghah et.al.|[2505.13828](http://arxiv.org/abs/2505.13828)|null|
 |**2025-05-18**|**MMS-VPR: Multimodal Street-Level Visual Place Recognition Dataset and Benchmark**|Yiwei Ou et.al.|[2505.12254](http://arxiv.org/abs/2505.12254)|null|
 |**2025-05-16**|**Improved Bag-of-Words Image Retrieval with Geometric Constraints for Ground Texture Localization**|Aaron Wilhelm et.al.|[2505.11620](http://arxiv.org/abs/2505.11620)|null|
 |**2025-05-16**|**Redundancy-Aware Pretraining of Vision-Language Foundation Models in Remote Sensing**|Mathis Jürgen Adler et.al.|[2505.11121](http://arxiv.org/abs/2505.11121)|null|
@@ -2140,6 +2145,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**IPENS:Interactive Unsupervised Framework for Rapid Plant Phenotyping Extraction via NeRF-SAM2 Fusion**|Wentao Song et.al.|[2505.13633](http://arxiv.org/abs/2505.13633)|null|
 |**2025-05-19**|**3D Gaussian Adaptive Reconstruction for Fourier Light-Field Microscopy**|Chenyu Xu et.al.|[2505.12875](http://arxiv.org/abs/2505.12875)|null|
 |**2025-05-18**|**Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey**|Calvin Galagain et.al.|[2505.12384](http://arxiv.org/abs/2505.12384)|null|
 |**2025-05-16**|**MutualNeRF: Improve the Performance of NeRF under Limited Samples with Mutual Information Theory**|Zifan Wang et.al.|[2505.11386](http://arxiv.org/abs/2505.11386)|null|
