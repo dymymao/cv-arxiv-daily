@@ -56,7 +56,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-30**|**Beyond Pretty Pictures: Combined Single- and Multi-Image Super-resolution for Sentinel-2 Images**|Aditya Retnanto et.al.|[2505.24799](http://arxiv.org/abs/2505.24799)|null|
+|**2025-06-02**|**Beyond Pretty Pictures: Combined Single- and Multi-Image Super-resolution for Sentinel-2 Images**|Aditya Retnanto et.al.|[2505.24799](http://arxiv.org/abs/2505.24799)|null|
 |**2025-05-30**|**Model-Guided Network with Cluster-Based Operators for Spatio-Spectral Super-Resolution**|Ivan Pereira-Sánchez et.al.|[2505.24605](http://arxiv.org/abs/2505.24605)|null|
 |**2025-05-31**|**Advancing Image Super-resolution Techniques in Remote Sensing: A Comprehensive Survey**|Yunliang Qi et.al.|[2505.23248](http://arxiv.org/abs/2505.23248)|null|
 |**2025-05-29**|**TextSR: Diffusion Super-Resolution with Multilingual OCR Guidance**|Keren Ye et.al.|[2505.23119](http://arxiv.org/abs/2505.23119)|null|
