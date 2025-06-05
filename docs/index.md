@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## STISR
@@ -49,7 +49,7 @@ layout: default
 |**2025-06-03**|**One-Step Diffusion-based Real-World Image Super-Resolution with Visual Perception Distillation**|Xue Wu et.al.|[2506.02605](http://arxiv.org/abs/2506.02605)|null|
 |**2025-06-03**|**Application of convolutional neural networks in image super-resolution**|Tian Chunwei et.al.|[2506.02604](http://arxiv.org/abs/2506.02604)|null|
 |**2025-06-03**|**A Tree-guided CNN for image super-resolution**|Chunwei Tian et.al.|[2506.02585](http://arxiv.org/abs/2506.02585)|null|
-|**2025-06-02**|**NTIRE 2025 Challenge on RAW Image Restoration and Super-Resolution**|Marcos V. Conde et.al.|[2506.02197](http://arxiv.org/abs/2506.02197)|null|
+|**2025-06-04**|**NTIRE 2025 Challenge on RAW Image Restoration and Super-Resolution**|Marcos V. Conde et.al.|[2506.02197](http://arxiv.org/abs/2506.02197)|null|
 |**2025-06-01**|**Self-supervised ControlNet with Spatio-Temporal Mamba for Real-world Video Super-resolution**|Shijun Shi et.al.|[2506.01037](http://arxiv.org/abs/2506.01037)|null|
 |**2025-05-31**|**Text-to-CT Generation via 3D Latent Diffusion Model with Contrastive Vision-Language Pretraining**|Daniele Molino et.al.|[2506.00633](http://arxiv.org/abs/2506.00633)|null|
 |**2025-06-02**|**Beyond Pretty Pictures: Combined Single- and Multi-Image Super-resolution for Sentinel-2 Images**|Aditya Retnanto et.al.|[2505.24799](http://arxiv.org/abs/2505.24799)|null|
