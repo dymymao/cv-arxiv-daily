@@ -56,6 +56,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**A Diffusion-Driven Temporal Super-Resolution and Spatial Consistency Enhancement Framework for 4D MRI imaging**|Xuanru Zhou et.al.|[2506.04116](http://arxiv.org/abs/2506.04116)|null|
+|**2025-06-04**|**Joint Video Enhancement with Deblurring, Super-Resolution, and Frame Interpolation Network**|Giyong Choi et.al.|[2506.03892](http://arxiv.org/abs/2506.03892)|null|
+|**2025-06-04**|**SAAT: Synergistic Alternating Aggregation Transformer for Image Super-Resolution**|Jianfeng Wu et.al.|[2506.03740](http://arxiv.org/abs/2506.03740)|null|
+|**2025-06-03**|**A Survey of Deep Learning Video Super-Resolution**|Arbind Agrahari Baniya et.al.|[2506.03216](http://arxiv.org/abs/2506.03216)|null|
 |**2025-06-03**|**Hybrid deep learning and iterative methods for accelerated solutions of viscous incompressible flow**|Heming Bai et.al.|[2506.03016](http://arxiv.org/abs/2506.03016)|null|
 |**2025-06-03**|**PBR-SR: Mesh PBR Texture Super Resolution from 2D Image Priors**|Yujin Chen et.al.|[2506.02846](http://arxiv.org/abs/2506.02846)|null|
 |**2025-06-03**|**One-Step Diffusion-based Real-World Image Super-Resolution with Visual Perception Distillation**|Xue Wu et.al.|[2506.02605](http://arxiv.org/abs/2506.02605)|null|
