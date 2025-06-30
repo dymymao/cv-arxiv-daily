@@ -82,7 +82,7 @@
 |**2025-06-13**|**ICME 2025 Grand Challenge on Video Super-Resolution for Video Conferencing**|Babak Naderi et.al.|[2506.12269](http://arxiv.org/abs/2506.12269)|**[link](https://github.com/microsoft/vsr-challenge)**|
 |**2025-06-13**|**Structural Similarity-Inspired Unfolding for Lightweight Image Super-Resolution**|Zhangkai Ni et.al.|[2506.11823](http://arxiv.org/abs/2506.11823)|**[link](https://github.com/eezkni/ssiu)**|
 |**2025-06-13**|**MambaVSR: Content-Aware Scanning State Space Model for Video Super-Resolution**|Linfeng He et.al.|[2506.11768](http://arxiv.org/abs/2506.11768)|null|
-|**2025-06-13**|**DiffFuSR: Super-Resolution of all Sentinel-2 Multispectral Bands using Diffusion Models**|Muhammad Sarmad et.al.|[2506.11764](http://arxiv.org/abs/2506.11764)|null|
+|**2025-06-13**|**DiffFuSR: Super-Resolution of all Sentinel-2 Multispectral Bands using Diffusion Models**|Muhammad Sarmad et.al.|[2506.11764](http://arxiv.org/abs/2506.11764)|**[link](https://github.com/norskregnesentral/difffusr)**|
 |**2025-06-13**|**FCA2: Frame Compression-Aware Autoencoder for Modular and Fast Compressed Video Super-Resolution**|Zhaoyang Wang et.al.|[2506.11545](http://arxiv.org/abs/2506.11545)|null|
 |**2025-06-13**|**Joint Angle and Velocity-Estimation for Target Localization in Bistatic mmWave MIMO Radar in the Presence of Clutter**|Priyanka Maity et.al.|[2506.11497](http://arxiv.org/abs/2506.11497)|null|
 |**2025-06-13**|**Taming Stable Diffusion for Computed Tomography Blind Super-Resolution**|Chunlei Li et.al.|[2506.11496](http://arxiv.org/abs/2506.11496)|null|
@@ -1275,7 +1275,7 @@
 |**2025-03-10**|**Improving Visual Place Recognition with Sequence-Matching Receptiveness Prediction**|Somayeh Hussaini et.al.|[2503.06840](http://arxiv.org/abs/2503.06840)|null|
 |**2025-03-09**|**RoboDesign1M: A Large-scale Dataset for Robot Design Understanding**|Tri Le et.al.|[2503.06796](http://arxiv.org/abs/2503.06796)|null|
 |**2025-03-09**|**StructVPR++: Distill Structural and Semantic Knowledge with Weighting Samples for Visual Place Recognition**|Yanqing Shen et.al.|[2503.06601](http://arxiv.org/abs/2503.06601)|**[link](https://github.com/syqlyx/StructVPR)**|
-|**2025-03-09**|**TextInPlace: Indoor Visual Place Recognition in Repetitive Structures with Scene Text Spotting and Verification**|Huaqi Tao et.al.|[2503.06501](http://arxiv.org/abs/2503.06501)|null|
+|**2025-03-09**|**TextInPlace: Indoor Visual Place Recognition in Repetitive Structures with Scene Text Spotting and Verification**|Huaqi Tao et.al.|[2503.06501](http://arxiv.org/abs/2503.06501)|**[link](https://github.com/hqitao/textinplace)**|
 |**2025-03-08**|**NeuraLoc: Visual Localization in Neural Implicit Map with Dual Complementary Features**|Hongjia Zhai et.al.|[2503.06117](http://arxiv.org/abs/2503.06117)|null|
 |**2025-03-07**|**Data-Efficient Generalization for Zero-shot Composed Image Retrieval**|Zining Chen et.al.|[2503.05204](http://arxiv.org/abs/2503.05204)|null|
 |**2025-03-06**|**RadIR: A Scalable Framework for Multi-Grained Medical Image Retrieval via Radiology Report Mining**|Tengfei Zhang et.al.|[2503.04653](http://arxiv.org/abs/2503.04653)|null|
