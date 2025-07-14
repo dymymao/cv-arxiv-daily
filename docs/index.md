@@ -44,6 +44,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**HNOSeg-XS: Extremely Small Hartley Neural Operator for Efficient and Resolution-Robust 3D Image Segmentation**|Ken C. L. Wong et.al.|[2507.08205](http://arxiv.org/abs/2507.08205)|null|
 |**2025-07-09**|**4KAgent: Agentic Any Image to 4K Super-Resolution**|Yushen Zuo et.al.|[2507.07105](http://arxiv.org/abs/2507.07105)|null|
 |**2025-07-09**|**Exact Evaluation of the Accuracy of Diffusion Models for Inverse Problems with Gaussian Data Distributions**|Emile Pierret et.al.|[2507.07008](http://arxiv.org/abs/2507.07008)|null|
 |**2025-07-09**|**COS2A: Conversion from Sentinel-2 to AVIRIS Hyperspectral Data Using Interpretable Algorithm With Spectral-Spatial Duality**|Chia-Hsiang Lin et.al.|[2507.06575](http://arxiv.org/abs/2507.06575)|null|
@@ -1163,6 +1164,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**RadiomicsRetrieval: A Customizable Framework for Medical Image Retrieval Using Radiomics Features**|Inye Na et.al.|[2507.08546](http://arxiv.org/abs/2507.08546)|null|
+|**2025-07-11**|**LiDAR, GNSS and IMU Sensor Alignment through Dynamic Time Warping to Construct 3D City Maps**|Haitian Wang et.al.|[2507.08420](http://arxiv.org/abs/2507.08420)|null|
+|**2025-07-11**|**Deep Hashing with Semantic Hash Centers for Image Retrieval**|Li Chen et.al.|[2507.08404](http://arxiv.org/abs/2507.08404)|null|
+|**2025-07-08**|**Unveiling Effective In-Context Configurations for Image Captioning: An External & Internal Analysis**|Li Li et.al.|[2507.08021](http://arxiv.org/abs/2507.08021)|null|
 |**2025-07-10**|**SCREP: Scene Coordinate Regression and Evidential Learning-based Perception-Aware Trajectory Generation**|Juyeop Han et.al.|[2507.07467](http://arxiv.org/abs/2507.07467)|null|
 |**2025-07-10**|**VP-SelDoA: Visual-prompted Selective DoA Estimation of Target Sound via Semantic-Spatial Matching**|Yu Chen et.al.|[2507.07384](http://arxiv.org/abs/2507.07384)|null|
 |**2025-07-08**|**FACap: A Large-scale Fashion Dataset for Fine-grained Composed Image Retrieval**|François Gardères et.al.|[2507.07135](http://arxiv.org/abs/2507.07135)|null|
