@@ -56,6 +56,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Nonlinear Spectral Fusion Super-Resolution Fluorescence Microscopy based on Progressively Saturated Upconversion Nanoparticles**|Yongtao Liu et.al.|[2507.10129](http://arxiv.org/abs/2507.10129)|null|
+|**2025-07-14**|**Quantum measurement of work in mesoscopic systems**|Anant Vijay Varma et.al.|[2507.09977](http://arxiv.org/abs/2507.09977)|null|
+|**2025-07-14**|**Compliance Minimization via Physics-Informed Gaussian Processes**|Xiangyu Sun et.al.|[2507.09968](http://arxiv.org/abs/2507.09968)|null|
+|**2025-07-14**|**4D-MISR: A unified model for low-dose super-resolution imaging via feature fusion**|Zifei Wang et.al.|[2507.09953](http://arxiv.org/abs/2507.09953)|null|
+|**2025-07-14**|**IM-LUT: Interpolation Mixing Look-Up Tables for Image Super-Resolution**|Sejin Park et.al.|[2507.09923](http://arxiv.org/abs/2507.09923)|null|
+|**2025-07-13**|**Prompt2DEM: High-Resolution DEMs for Urban and Open Environments from Global Prompts Using a Monocular Foundation Model**|Osher Rafaeli et.al.|[2507.09681](http://arxiv.org/abs/2507.09681)|null|
+|**2025-07-13**|**Physics-informed machine learning surrogate for scalable simulation of thermal histories during wire-arc directed energy deposition**|Michael Ryan et.al.|[2507.09591](http://arxiv.org/abs/2507.09591)|null|
+|**2025-07-12**|**PanoDiff-SR: Synthesizing Dental Panoramic Radiographs using Diffusion and Super-resolution**|Sanyam Jain et.al.|[2507.09227](http://arxiv.org/abs/2507.09227)|null|
+|**2025-07-12**|**Image Super-Resolution-Based Signal Enhancement in Bistatic ISAC**|Yi Wang et.al.|[2507.09218](http://arxiv.org/abs/2507.09218)|null|
+|**2025-07-12**|**Investigating the Robustness of Extreme Precipitation Super-Resolution Across Climates**|Louise Largeau et.al.|[2507.09166](http://arxiv.org/abs/2507.09166)|null|
 |**2025-07-10**|**HNOSeg-XS: Extremely Small Hartley Neural Operator for Efficient and Resolution-Robust 3D Image Segmentation**|Ken C. L. Wong et.al.|[2507.08205](http://arxiv.org/abs/2507.08205)|null|
 |**2025-07-09**|**4KAgent: Agentic Any Image to 4K Super-Resolution**|Yushen Zuo et.al.|[2507.07105](http://arxiv.org/abs/2507.07105)|null|
 |**2025-07-09**|**Exact Evaluation of the Accuracy of Diffusion Models for Inverse Problems with Gaussian Data Distributions**|Emile Pierret et.al.|[2507.07008](http://arxiv.org/abs/2507.07008)|null|
@@ -1182,6 +1192,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**GT-Loc: Unifying When and Where in Images Through a Joint Embedding Space**|David G. Shatwell et.al.|[2507.10473](http://arxiv.org/abs/2507.10473)|null|
+|**2025-07-14**|**Text-to-Remote-Sensing-Image Retrieval beyond RGB Sources**|Daniele Rege Cambrin et.al.|[2507.10403](http://arxiv.org/abs/2507.10403)|null|
+|**2025-07-14**|**Kaleidoscopic Background Attack: Disrupting Pose Estimation with Multi-Fold Radial Symmetry Textures**|Xinlong Ding et.al.|[2507.10265](http://arxiv.org/abs/2507.10265)|null|
 |**2025-07-11**|**RadiomicsRetrieval: A Customizable Framework for Medical Image Retrieval Using Radiomics Features**|Inye Na et.al.|[2507.08546](http://arxiv.org/abs/2507.08546)|null|
 |**2025-07-11**|**LiDAR, GNSS and IMU Sensor Alignment through Dynamic Time Warping to Construct 3D City Maps**|Haitian Wang et.al.|[2507.08420](http://arxiv.org/abs/2507.08420)|null|
 |**2025-07-11**|**Deep Hashing with Semantic Hash Centers for Image Retrieval**|Li Chen et.al.|[2507.08404](http://arxiv.org/abs/2507.08404)|null|
@@ -2403,8 +2416,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**VoxelRF: Voxelized Radiance Field for Fast Wireless Channel Modeling**|Zihang Zeng et.al.|[2507.09987](http://arxiv.org/abs/2507.09987)|null|
+|**2025-07-12**|**Stable Score Distillation**|Haiming Zhu et.al.|[2507.09168](http://arxiv.org/abs/2507.09168)|null|
+|**2025-07-11**|**From images to properties: a NeRF-driven framework for granular material parameter inversion**|Cheng-Hsi Hsiao et.al.|[2507.09005](http://arxiv.org/abs/2507.09005)|null|
 |**2025-07-10**|**MUVOD: A Novel Multi-view Video Object Segmentation Dataset and A Benchmark for 3D Segmentation**|Bangning Wei et.al.|[2507.07519](http://arxiv.org/abs/2507.07519)|null|
-|**2025-07-08**|**A Probabilistic Approach to Uncertainty Quantification Leveraging 3D Geometry**|Rushil Desai et.al.|[2507.06269](http://arxiv.org/abs/2507.06269)|null|
+|**2025-07-14**|**BayesSDF: Surface-Based Laplacian Uncertainty Estimation for 3D Geometry with Neural Signed Distance Fields**|Rushil Desai et.al.|[2507.06269](http://arxiv.org/abs/2507.06269)|null|
 |**2025-07-08**|**Reflections Unlock: Geometry-Aware Reflection Disentanglement in 3D Gaussian Splatting for Photorealistic Scenes Rendering**|Jiayi Song et.al.|[2507.06103](http://arxiv.org/abs/2507.06103)|null|
 |**2025-07-08**|**DreamArt: Generating Interactable Articulated Objects from a Single Image**|Ruijie Lu et.al.|[2507.05763](http://arxiv.org/abs/2507.05763)|null|
 |**2025-07-06**|**A View-consistent Sampling Method for Regularized Training of Neural Radiance Fields**|Aoxiang Fan et.al.|[2507.04408](http://arxiv.org/abs/2507.04408)|null|
