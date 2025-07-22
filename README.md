@@ -56,6 +56,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Super-resolution AWGs based on the Moirè effect**|Gabriella Cincotti et.al.|[2507.15674](http://arxiv.org/abs/2507.15674)|null|
+|**2025-07-21**|**MedSR-Impact: Transformer-Based Super-Resolution for Lung CT Segmentation, Radiomics, Classification, and Prognosis**|Marc Boubnovski Martell et.al.|[2507.15340](http://arxiv.org/abs/2507.15340)|null|
+|**2025-07-19**|**Label free sub-diffraction imaging using non-linear photon avalanche backlight**|Suresh Karmegam et.al.|[2507.14667](http://arxiv.org/abs/2507.14667)|null|
+|**2025-07-18**|**Hallucination Score: Towards Mitigating Hallucinations in Generative Image Super-Resolution**|Weiming Ren et.al.|[2507.14367](http://arxiv.org/abs/2507.14367)|null|
 |**2025-07-18**|**Blind Super Resolution with Reference Images and Implicit Degradation Representation**|Huu-Phu Do et.al.|[2507.13915](http://arxiv.org/abs/2507.13915)|null|
 |**2025-07-18**|**Localized FNO for Spatiotemporal Hemodynamic Upsampling in Aneurysm MRI**|Kyriakos Flouris et.al.|[2507.13789](http://arxiv.org/abs/2507.13789)|null|
 |**2025-07-18**|**Pass-efficient Randomized Algorithms for Low-rank Approximation of Quaternion Matrices**|Salman Ahmadi-Asl et.al.|[2507.13731](http://arxiv.org/abs/2507.13731)|null|
@@ -1053,6 +1057,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**DiffPF: Differentiable Particle Filtering with Generative Sampling via Conditional Diffusion Models**|Ziyu Wan et.al.|[2507.15716](http://arxiv.org/abs/2507.15716)|null|
+|**2025-07-21**|**Dense-depth map guided deep Lidar-Visual Odometry with Sparse Point Clouds and Images**|JunYing Huang et.al.|[2507.15496](http://arxiv.org/abs/2507.15496)|null|
 |**2025-07-17**|**DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation Model**|Maulana Bisyir Azhari et.al.|[2507.13145](http://arxiv.org/abs/2507.13145)|null|
 |**2025-07-10**|**Hardware-Aware Feature Extraction Quantisation for Real-Time Visual Odometry on FPGA Platforms**|Mateusz Wasala et.al.|[2507.07903](http://arxiv.org/abs/2507.07903)|null|
 |**2025-06-30**|**VOCAL: Visual Odometry via ContrAstive Learning**|Chi-Yao Huang et.al.|[2507.00243](http://arxiv.org/abs/2507.00243)|null|
@@ -1202,6 +1208,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-20**|**LoopNet: A Multitasking Few-Shot Learning Approach for Loop Closure in Large Scale SLAM**|Mohammad-Maher Nakshbandi et.al.|[2507.15109](http://arxiv.org/abs/2507.15109)|null|
+|**2025-07-20**|**Visual Place Recognition for Large-Scale UAV Applications**|Ioannis Tsampikos Papapetros et.al.|[2507.15089](http://arxiv.org/abs/2507.15089)|null|
+|**2025-07-20**|**U-MARVEL: Unveiling Key Factors for Universal Multimodal Retrieval via Embedding Learning with MLLMs**|Xiaojie Li et.al.|[2507.14902](http://arxiv.org/abs/2507.14902)|null|
+|**2025-07-19**|**OptiCorNet: Optimizing Sequence-Based Context Correlation for Visual Place Recognition**|Zhenyu Li et.al.|[2507.14477](http://arxiv.org/abs/2507.14477)|null|
+|**2025-07-16**|**Developing an AI-Guided Assistant Device for the Deaf and Hearing Impaired**|Jiayu et.al.|[2507.14215](http://arxiv.org/abs/2507.14215)|null|
 |**2025-07-17**|**FAR-Net: Multi-Stage Fusion Network with Enhanced Semantic Alignment and Adaptive Reconciliation for Composed Image Retrieval**|Jeong-Woo Park et.al.|[2507.12823](http://arxiv.org/abs/2507.12823)|null|
 |**2025-07-17**|**MCoT-RE: Multi-Faceted Chain-of-Thought and Re-Ranking for Training-Free Zero-Shot Composed Image Retrieval**|Jeong-Woo Park et.al.|[2507.12819](http://arxiv.org/abs/2507.12819)|null|
 |**2025-07-16**|**QuRe: Query-Relevant Retrieval through Hard Negative Sampling in Composed Image Retrieval**|Jaehyun Kwak et.al.|[2507.12416](http://arxiv.org/abs/2507.12416)|null|
@@ -2435,6 +2446,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-19**|**DiSCO-3D : Discovering and segmenting Sub-Concepts from Open-vocabulary queries in NeRF**|Doriand Petit et.al.|[2507.14596](http://arxiv.org/abs/2507.14596)|null|
+|**2025-07-19**|**Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey**|Jiahui Zhang et.al.|[2507.14501](http://arxiv.org/abs/2507.14501)|null|
 |**2025-07-18**|**TimeNeRF: Building Generalizable Neural Radiance Fields across Time from Few-Shot Input Views**|Hsiang-Hui Hung et.al.|[2507.13929](http://arxiv.org/abs/2507.13929)|null|
 |**2025-07-18**|**EPSilon: Efficient Point Sampling for Lightening of Hybrid-based 3D Avatar Generation**|Seungjun Moon et.al.|[2507.13648](http://arxiv.org/abs/2507.13648)|null|
 |**2025-07-16**|**DoRF: Doppler Radiance Fields for Robust Human Activity Recognition Using Wi-Fi**|Navid Hasanzadeh et.al.|[2507.12132](http://arxiv.org/abs/2507.12132)|null|
